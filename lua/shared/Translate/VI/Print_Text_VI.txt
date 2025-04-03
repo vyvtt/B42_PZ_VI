@@ -1,0 +1,653 @@
+Print_Text_VN = {
+
+    Print_Text_KnoxKnews_July1_title = "Tin Tức Knox - 1 tháng 7 năm 1993",
+
+    Print_Text_KnoxKnews_July1_info = "Đội Rangers chiến thắng tại West Point - xem trang 3\n"..
+    "Giáo viên địa phương đoạt giải thưởng quốc gia - xem trang 4\n\n"..
+    "QUỸ CỨU TRỢ THẢM HỌA BRANDENBURG ĐANG TRÊN ĐƯỜNG ĐẾN, THỐNG ĐỐC CHO BIẾT\n\n"..
+    "[image] - Thống đốc Cal Fairweather phát biểu tại Frankfort ngày hôm qua.\n\n"..
+    "FRANKFORT - Thống đốc Cal Fairweather đã trấn an thị trưởng Brandenburg rằng quỹ liên bang đã hứa hẹn từ lâu để tái thiết Brandenburg đang "trên đường đến."\n Mặc dù có phản ứng ban đầu mạnh mẽ sau trận lốc xoáy ngày 18 tháng 4, với viện trợ đầy đủ được cung cấp cho người dân sau đó, quỹ liên bang đã hứa cho việc tái thiết vẫn chưa đến, các tòa nhà được vá víu bằng gỗ và thiệt hại lớn vẫn còn rõ ràng.\n Cảnh báo sớm đồng nghĩa với việc nhiều cư dân đã trú ẩn khi lốc xoáy đổ bộ vào phía đông bắc thị trấn, nhưng gió lớn đã làm ba cư dân thiệt mạng và hàng chục người bị thương. Cơn lốc xoáy cấp F2 đã phá hủy ô tô và san phẳng nhà cửa. Hàng trăm người vẫn còn vô gia cư, sống trong khách sạn hoặc khu nhà xe kéo do tiểu bang chi trả, những người khác sống cùng họ hàng hoặc bạn bè. Có tới 40% nhà ở và 30% doanh nghiệp trong khu vực không có bảo hiểm, nghĩa là chi phí cho người nộp thuế có thể vượt quá 50 triệu đô la.\n Kentucky thường bị lốc xoáy tấn công, nhưng cơn gió lốc tháng Tư đã khiến chính quyền bất ngờ... (tiếp trang 2)\n\n"..
+    "THỢ SĂN BỊ THƯƠNG TRONG VỤ TẤN CÔNG CỦA HƯƠU\n\n"..
+    "RIVERSIDE - John Nathan, một thợ săn đến từ New York, cho biết ông đã may mắn không bị thương nặng sau vụ đụng độ với một con hươu đực trong khu rừng phía tây Riverside. "Tôi đã đi săn ở khu vực Knox nhiều năm," Nathan nói, "nhưng tôi chưa bao giờ thấy điều gì như thế này, đặc biệt là ngoài mùa động dục. Tôi đang nhắm bắn một con thỏ thì một con hươu đuôi trắng đột nhiên lao ra từ... (tiếp trang 4)\n\n"..
+    "CƯ DÂN LÂU ĐỜI NHẤT EKRON TIẾT LỘ BÍ QUYẾT SỐNG THỌ\n\n"..
+    "EKRON - Tràn đầy những cuộc nói chuyện sôi nổi và những bài hát cũ, thật khó tin Nancy Hume, cư dân lớn tuổi nhất của Ekron, đã 103 tuổi. "Tôi sống lâu hơn tất cả bạn bè của mình," bà nói, rồi mỉm cười nói thêm, "nhưng tôi cũng sống lâu hơn tất cả kẻ thù của mình!" Vậy bí quyết của Nancy là gì? "Bourbon với bữa tối, đi ngủ trước 10 giờ, và đừng bao giờ dính líu đến đàn ông. Không bao giờ!"",
+    
+    Print_Text_KnoxKnews_July2_title = "Tin Tức Knox - 2 tháng 7 năm 1993",
+
+    Print_Text_KnoxKnews_July2_info = "Delilah ở Brandenburg "vô thời hạn" - xem trang 2\n"..
+    "Chapelmount Downs lên kế hoạch xây đường đua Virginia - xem trang 4\n\n"..
+    "MẤT TÍN HIỆU ĐIỆN THOẠI DIỆN RỘNG TẠI KHU VỰC KNOX\n\n"..
+    "[image] - KT cho biết các kỹ sư của họ đang làm việc "ngày đêm."\n\n"..
+    "KHU VỰC KNOX - Công ty Viễn thông Knox (KT) đã xin lỗi vì sự cố mất tín hiệu kéo dài hàng giờ trên mạng lưới của mình, vẫn tiếp diễn tại thời điểm in báo, khiến hàng nghìn cư dân Knox không thể truy cập dịch vụ điện thoại và Internet.\n Sự cố không báo trước đã gây ra hỗn loạn, với một số doanh nghiệp phụ thuộc vào làm việc từ xa phải đóng cửa trong ngày, và những doanh nghiệp khác không thể liên lạc với khách hàng hoặc nhà cung cấp. Nguyên nhân của sự cố nghiêm trọng nhưng cục bộ như vậy vẫn chưa được công bố, nhưng KT cho biết họ đang "xử lý nó" với hàng chục kỹ sư làm việc trên các cột điện thoại khắp khu vực.\n Một chuyên gia, Kevin Hogan, nói với Knox Knews, "loại sự cố này cực kỳ hiếm gặp. Nó dường như không liên quan đến bất kỳ tổng đài hay hệ thống trung tâm nào. Tôi nghe báo cáo có dây bị đứt hoặc bị ngắt kết nối. Hoặc là tất cả chúng đều bị quá tải do sét đánh, hoặc đây là hành động của những kẻ phá hoại hoặc phá hoại ngầm." (tiếp trang 2)\n\n"..
+    "DÂN ĐỊA PHƯƠNG TRANH TÀI GIẢI MINT JULEP\n\n"..
+    "KHU VỰC KNOX - Nhiều tình bạn ở Kentucky đã bị hủy hoại không thể cứu vãn bởi những cuộc tranh cãi về ly mint julep hoàn hảo. Tuy nhiên, cuộc thi Giải Mint Julep, được tổ chức vào thứ Bảy tuần trước tại Brandenburg, lại tràn đầy những cuộc trò chuyện vui vẻ và các cuộc tranh luận tự do và lành mạnh về loại cocktail yêu thích của tiểu bang. Giải Julep Truyền thống Xuất sắc nhất thuộc về Casey Stockhome. Ban giám khảo đánh giá cô ấy... (tiếp trang 4)\n\n"..
+    "CƯ DÂN IRVINGTON "MAY MẮN SỐNG SÓT"\n\n"..
+    "IRVINGTON - Cư dân địa phương Sally Graham cho biết cô may mắn sống sót sau một vụ tai nạn ô tô bốc cháy ở phía nam thành phố vào thứ Năm. Sally đâm vào tường, khiến chiếc xe bốc cháy. Sự can thiệp nhanh chóng của một người qua đường đã cứu mạng Graham. "Anh ấy kéo tôi ra khỏi xe và cầm máu cho đến khi xe cứu thương đến. Mất rất nhiều thời gian, vì đường dây điện thoại bị... (tiếp trang 3)\n"..,
+    
+    Print_Text_KnoxKnews_July3_title = "Tin Tức Knox - 3 tháng 7 năm 1993",
+    
+    Print_Text_KnoxKnews_July3_info = "Hai vụ bắt giữ trong điều tra lừa đảo sửa chữa nhà - xem trang 3\n"..
+    "Sông Ohio ô nhiễm hơn bao giờ hết - xem trang 5\n\n"..
+    ""CHIẾN DỊCH CENTAUR ĐANG DẦN KẾT THÚC" - FBI\n\n"..
+    "[image] - Giám đốc FBI Ian Clark phát biểu tại Louisville.\n\n"..
+    "LOUISVILLE - Cuộc điều tra của FBI về tham nhũng trong Cơ quan Lập pháp Kentucky, với mật danh Chiến dịch Centaur, hiện đã đạt được các mục tiêu chính và đang dần kết thúc, Giám đốc FBI Ian Clark cho biết trong một cuộc họp báo tại Louisville ngày hôm qua.\n Chiến dịch đã chứng kiến hơn một chục nhà lập pháp Kentucky bị truy tố và kết án vì nhận hối lộ liên quan đến việc đổ chất thải độc hại, tống tiền, bảo kê, và âm mưu lừa đảo bang Kentucky. Chủ tịch Hạ viện Dan Dullford đã từ chức sau khi bị buộc tội tống tiền, bảo kê và nói dối FBI.\n Thống đốc Cal Fairweather cũng bị cuốn vào vụ bê bối, và đã phải giữ khoảng cách với hai phụ tá của mình vào tháng Hai sau khi họ bị bắt vì nhận hối lộ, "mà không có sự đồng ý hay hay biết của Thống đốc."\n Vụ bê bối vượt qua ranh giới đảng phái, với cả đảng viên Dân chủ và Cộng hòa đều bị truy tố. Các nhà lập pháp khác phải đối mặt với phiên tòa bao gồm... (tiếp trang 2)\n\n"..
+    "ĐƯỜNG DÂY ĐIỆN THOẠI VẪN MẤT TÍN HIỆU TRÊN TOÀN KHU VỰC\n\n"..
+    "KHU VỰC KNOX - Công ty Viễn thông Knox (KT) đã xin lỗi vì sự cố mất tín hiệu điện thoại ngày thứ hai tại vùng Knox. Tín hiệu điện thoại di động và điện thoại trên xe hơi cũng bị ảnh hưởng, khiến cả doanh nghiệp và khu dân cư hỗn loạn. KT tuyên bố sự cố là do "các vấn đề nghiêm trọng với một tổng đài điện thoại địa phương", và cảnh báo rằng... (tiếp trang 4)\n\n"..
+    "CƯ DÂN WP THIỆT MẠNG SAU KHI ĂN 60 CÁI HOT DOG\n\n"..
+    "WEST POINT - Cuộc thi Ăn Hot Dog Thường niên lần thứ 16 của West Point đã có một kết thúc bi thảm khi người chiến thắng, Bolton Jupiter, qua đời ngay sau khi giành chiến thắng. "Anh ấy giơ cao chiếc cúp," một người chứng kiến nói, "một cái xúc xích nhỏ đeo kính râm. Rồi anh ấy ngã quỵ vào một xô mayonnaise." (tiếp trang 3)\n"..
+    "",
+    
+    Print_Text_KnoxKnews_July4_title = "Tin Tức Knox - 4 tháng 7 năm 1993",
+    
+    Print_Text_KnoxKnews_July4_info = "Thời tiết nóng sẽ tiếp tục vào tuần tới - xem trang 2\n"..
+    "Tim Johnson "có khả năng nghỉ hết mùa giải" - xem trang 4\n\n"..
+    ""KHÔNG NGUY HIỂM CHO CÔNG CHÚNG" SAU TAI NẠN, QUÂN ĐỘI CHO BIẾT\n\n"..
+    "[image] - Hiện trường đã bị niêm phong và bảo vệ bởi quân nhân.\n\n"..
+    "MARCH RIDGE - Một chiếc xe tải quân sự chở chất thải nguy hại đã bị lật ngay phía bắc March Ridge vào khoảng 3:15 chiều thứ Bảy. Nội dung của chiếc xe tải không được tiết lộ cho công chúng, nhưng Đại tá Niall O'Malley đã nói, "các vật liệu, mặc dù bí mật vì lý do hoạt động, sẽ gây ra ít nguy hiểm ngay cả khi chúng tiếp xúc với công chúng, điều mà chúng đã không làm."\n Các nhân chứng cho biết chiếc xe tải mất kiểm soát trên Quốc lộ 60, phía nam Chợ Nông sản, trượt vào bãi cỏ sau khi suýt va chạm với một chiếc ô tô đang đi qua, và bị lật trên bờ kè. Các quan chức không phủ nhận chiếc xe tải đã chở quá tải.\n Vụ việc là một trong số nhiều vụ liên quan đến vật liệu nguy hiểm ở khu vực Knox. Các nhà hoạt động môi trường đã chỉ trích các tiêu chuẩn rất "lỏng lẻo", với hóa chất độc hại và các hợp chất từ đạn dược được lưu trữ kém được cho là lý do cho tỷ lệ bệnh hô hấp cao hơn mức trung bình ở khu vực Knox. Các nhà lập pháp tiểu bang gần đây đã bãi bỏ một số luật môi trường, một động thái mà... (tiếp trang 2)\n\n"..
+    "ĐƯỜNG ĐUA CÓ THỂ ĐĂNG CAI FORMULA X\n\n"..
+    "IRVINGTON - Các nhà tổ chức Formula X đã sơ bộ đồng ý cho Đường đua Irvington làm đường đua chủ nhà của Giải Grand Prix Hoa Kỳ năm 1996. Mặc dù đường đua chủ nhà vẫn đang được đàm phán, các quan chức đang ngầm ủng hộ Đường đua này do vị trí gần Louisville, thiết kế sáng tạo của đường đua và sự cởi mở của chính quyền đối với... (tiếp trang 4)\n\n"..
+    "CHÚC MỪNG NGÀY ĐỘC LẬP TỪ KNOX KNEWS!\n\n"..
+    "KNOX - Thật vinh dự khi được phục vụ tại Knox Knews trong hai ngày 4 tháng 7 liên tiếp. Chúng tôi hy vọng độc giả của mình có một ngày tuyệt vời khi chúng ta tưởng nhớ lý do nước Mỹ được thành lập - và mơ về những gì nó có thể trở thành một ngày nào đó.\n Gửi những lời chúc tốt đẹp nhất,\n Ian J. McCarrock\n Tổng biên tập\n"..,
+    
+    Print_Text_KnoxKnews_July5_title = "Tin Tức Knox - 5 tháng 7 năm 1993",
+    
+    Print_Text_KnoxKnews_July5_info = ""Chưa thấy hồi kết" cho sự cố điện thoại Knox - xem trang 4\n"..
+    ""Bệnh lạ" ảnh hưởng đến cư dân ở Muldraugh - xem trang 6\n\n"..
+    "ĐỘC QUYỀN: KNOX CÓ NGÀY LỄ ĐỘC LẬP TUYỆT VỜI NHẤT!\n\n"..
+    "[image] - Cuộc diễu hành Knox có số người tham dự đông nhất từ trước đến nay.\n\n"..
+    "KHU VỰC KNOX - Bất chấp sự gián đoạn kế hoạch do sự cố mất tín hiệu điện thoại đang diễn ra ở Knox, ngày hôm qua đã chứng kiến hàng nghìn cư dân tổ chức tiệc nướng gia đình, các bữa tiệc và bắn pháo hoa khi họ cùng nhau kỷ niệm sinh nhật lần thứ 217 của nước Mỹ.\n Một cuộc diễu hành công phu gồm hai mươi xe hoa được trang trí đã đi qua Knox trên đường đến Louisville, với học sinh tiểu học địa phương Una Turner đóng vai Nữ thần Tự do trên chiếc xe dẫn đầu, cùng với các ban nhạc kèn đồng từ West Point, Riverside và Brandenburg chơi các giai điệu yêu nước.\n Một sự kiện đặc biệt đã được tổ chức tại đường đua drag gần West Point, với tay đua nổi tiếng thế giới Cruz Dylan trong số những người xem - mặc dù tay đua vô địch không thể bị thuyết phục tự mình lái xe, vì anh ấy "không muốn làm các tay đua khác trông tệ đi."\n Vào buổi tối, pháo hoa đỏ, trắng và xanh lam thắp sáng bầu trời đêm và những ly nước chanh, bia được nâng lên chúc mừng nước Mỹ, và tưởng nhớ đến nhiều người... (tiếp trang 2)\n\n"..
+    "MÙI HÔI THỐI CÓ THỂ LÀ "QUÁ TRÌNH TỰ NHIÊN"\n\n"..
+    "SÔNG OHIO - Joan Delahunt, một giáo viên địa lý địa phương, đã đưa ra giả thuyết rằng mùi hôi thối ở vùng Knox đang tỏa ra từ sông Ohio, và có thể do một loại tảo xâm lấn bén rễ ở các khu vực của sông.\n Delahunt nhận thấy những mảnh rong biển màu nâu dạt vào bờ sông vài ngày trước. "Nó làm tôi nhớ đến... (tiếp trang 2)\n\n"..
+    "HÀNG LOẠT VỤ CHÓ TẤN CÔNG "ĐÁNG LO NGẠI"\n\n"..
+    "KHU VỰC KNOX - Cảnh sát trưởng John Carroll đã nhắc nhở người dân về trách nhiệm kiểm soát chó của họ, sau hàng loạt vụ tấn công vào gia súc và cư dân. "Chó không bao giờ được thả rông," cảnh sát trưởng nói. "Nếu chúng ở nhà, chúng nên được rào lại, hoặc giữ trong nhà để chúng không thể trốn thoát. Nếu một con chó cắn ai đó, con chó... (tiếp trang 3)\n"..,
+    
+    Print_Text_KnoxKnews_July6_title = "Tin Tức Knox - 6 tháng 7 năm 1993",
+    
+    Print_Text_KnoxKnews_July6_info = "Người địa phương bị sát hại "là thành viên băng đảng tội phạm" - xem trang 2\n"..
+    "Tranh luận về giới hạn tốc độ ở Irvington - xem trang 4\n\n"..
+    "BỆNH BÍ ẨN TẤN CÔNG NGƯỜI DÂN, KHIẾN CHÍNH QUYỀN QUÁ TẢI\n\n"..
+    "[image] - Mọi người đã phải dùng đến radio tầm ngắn để liên lạc với chính quyền.\n\n"..
+    "MULDRAUGH - Một căn bệnh không xác định đã tấn công hàng chục cư dân ở vùng Muldraugh, với các triệu chứng sốt cao và nôn mửa. March Ridge đã mở cửa bệnh viện quân đội cho công chúng để giúp ngăn chặn căn bệnh, mặc dù người ta không tin rằng nó lây từ người sang người. Các quan chức từ Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) được cho là đang trên đường đến bệnh viện để hỗ trợ điều tra nguyên nhân vụ bùng phát.\n Được biết một số người bị bệnh đã bị cắn, và Janine Cortman, một bác sĩ địa phương đưa ra giả thuyết rằng một đợt bùng phát bệnh dại đang diễn ra. Bác sĩ Cortman nói, "Tôi đã điều trị bốn bệnh nhân trong cùng một ngày với các triệu chứng giống nhau. Tôi đã hết globulin miễn dịch dại, vì vậy tôi vô cùng biết ơn quân đội đã mở cửa bệnh viện của họ ở Fort Knox cho công chúng."\n Bệnh dại gần đây đã được báo cáo trong khu vực trong quần thể động vật hoang dã, nhưng các trường hợp ở người rất hiếm. "Trước hôm nay," Bác sĩ Cortman nói, "Tôi mới chỉ thấy ba trường hợp chắc chắn mắc bệnh dại ở người. Thật đáng lo ngại khi điều này... (tiếp trang 2)\n\n"..
+    "ĐƯỜNG DÂY ĐIỆN THOẠI VẪN MẤT TÍN HIỆU TRONG KHU VỰC\n\n"..
+    "KHU VỰC KNOX - Công ty Viễn thông Knox đã xin lỗi những khách hàng tức giận vì một thời gian bảo trì đột xuất khiến đường dây điện thoại bị mất tín hiệu trong khu vực gần một tuần nay. Việc ứng phó với đợt bùng phát bệnh ở Muldraugh đã bị cản trở bởi sự cố mất tín hiệu, nhiều người phải tìm kiếm sự giúp đỡ bằng cách sử dụng các cuộc gọi radio tầm ngắn tới cảnh sát và cơ quan y tế... (tiếp trang 2)\n\n"..
+    "SPIFFO'S "XIN LỖI" SAU VỤ LỘN XỘN VỚI NƯỚC SỐT BÍ MẬT\n\n"..
+    "RALEIGH, NC - Chuỗi cửa hàng thức ăn nhanh Spiffo's đã xin lỗi sau khi Nước sốt Bí mật của họ để lại dư vị khó chịu cho người tiêu dùng burger địa phương. Trưởng bộ phận Logistics Paula Impton cho biết sự nhầm lẫn xảy ra khi một lô nước sốt cay thử nghiệm mới vô tình được chuyển hướng đến Kentucky thay vì... (tiếp trang 3)\n"..,
+    
+    Print_Text_KentuckyHerald_July6_title = "The Kentucky Herald - 6 tháng 7 năm 1993",
+    
+    Print_Text_KentuckyHerald_July6_info = "BÙNG PHÁT DỊCH BỆNH Ở MULDRAUGH\n"..
+    "Hàng chục ca được báo cáo trong khu vực\n"..
+    "Ứng phó bị cản trở do mất tín hiệu điện thoại\n\n"..
+    "[image] - Một chiếc xe cứu thương tại một ngôi nhà ở khu vực Muldraugh, được cho là có liên quan đến vụ bùng phát.\n\n"..
+    "Muldraugh, Ky. - Hàng chục trường hợp mắc bệnh giống cúm đã được báo cáo tại khu vực Muldraugh, một thị trấn nhỏ ngay phía bắc Fort Knox, với các triệu chứng bao gồm buồn nôn dữ dội và sốt.\n Với nhiều cơ sở quân sự và bãi chứa chất thải độc hại trong khu vực, các bác sĩ đang xem xét liệu một vụ rò rỉ hóa chất vào nguồn nước hoặc chuỗi thức ăn có thể là nguyên nhân hay không, mặc dù các cuộc gọi đến chính quyền bên ngoài để được hỗ trợ được cho là đang bị che đậy và phủ nhận.\n Quân đội Hoa Kỳ được cho là đã mở các cơ sở cách ly tại bệnh viện của họ ở Fort Knox để sử dụng bởi... \n\n"..
+    "TRIỂN LÃM THU HÚT ĐÁM ĐÔNG TẠI PHÒNG TRƯNG BÀY\n"..
+    "Tác phẩm của nghệ sĩ rất nổi tiếng ở Louisville\n\n"..
+    "Louisville, Ky. - Triển lãm tranh mới của nghệ sĩ người Ireland, Ashling Dwyer, tại Phòng trưng bày Nghệ thuật Louisville đã thu hút đông đảo công chúng vào tối thứ Hai.\n Dwyer, người đoạt Giải thưởng Siu-Chong năm 1992, đã giới thiệu một cặp tranh mới, "Rèm Hồng" và "Vàng, Vàng, Vàng". Cả hai đều nhận được sự hoan nghênh và ca ngợi ngay lập tức vì sử dụng màu sắc táo bạo, các mẫu trừu tượng giàu cảm xúc sâu sắc và việc sử dụng thành thạo các kỹ thuật nghệ thuật hiện đại.\n Dwyer là một phần của làn sóng nghệ sĩ Ireland mới đang tạo ra những làn sóng lớn trên trường quốc tế. Các tác phẩm khác của cô bao gồm Tai nạn Sắc màu, và tác phẩm trình diễn trực tiếp, 48 Cái Chảo...\n\n"..
+    "THI THỂ ĐƯỢC NHẬN DẠNG LÀ LUẬT SƯ ĐỊA PHƯƠNG\n\n"..
+    "TỔNG THỐNG HỦY CHUYẾN ĐI G7 TOKYO\n"..,
+    
+    Print_Text_KentuckyHerald_July13_title = "The Kentucky Herald - 13 tháng 7 năm 1993",
+    
+    Print_Text_KentuckyHerald_July13_info = ""SỰ KIỆN KNOX ĐÃ ĐƯỢC NGĂN CHẶN" - CÁC QUAN CHỨC\n"..
+    "Ảnh rò rỉ dấy lên câu hỏi\n"..
+    "Các quan chức hành động để dập tắt sự hoảng loạn ngày càng tăng\n\n"..
+    "[image] - Bức ảnh, được hiển thị ở đây đã được kiểm duyệt vì phẩm giá của nạn nhân, cho thấy một người đàn ông bị thương nặng ở một cánh tay, đứng trên một con phố đầy xác chết đẫm máu.\n\n"..
+    "Khu vực Sự kiện Knox, Ky. - Tổng thống, cùng với các quan chức CDC và quân đội, đã nhanh chóng trấn an công chúng rằng "Virus Knox" vẫn bị cô lập trong Vùng Cách ly sau vụ rò rỉ một bức ảnh khủng khiếp từ bên trong Khu vực Sự kiện Knox ngày hôm qua.\n Bức ảnh được cho là cho thấy một người nhiễm virus trên một con phố đầy xác chết, gây hoảng loạn trong công chúng và sự nhầm lẫn về mức độ nghiêm trọng của virus.\n Thông tin nhỏ giọt từ những người trong quân đội, cùng với các tin nhắn radio tầm ngắn từ những người bị mắc kẹt trong Khu vực Sự kiện làm suy yếu các tuyên bố của quân đội...\n\n"..
+    ""KHÔNG CẦN GIỚI NGHIÊM" - THỊ TRƯỞNG LOUISVILLE\n"..
+    "Thị trưởng xem nhẹ tin đồn sau hoảng loạn do rò rỉ ảnh\n\n"..
+    "Louisville - Thị trưởng Terence Stahl bác bỏ tin đồn rằng Louisville sẽ thực hiện lệnh giới nghiêm tự nguyện, nhằm đáp lại việc nhiều thành phố khác làm như vậy.\n 'Hãy để những kẻ tinh hoa ven biển đó hoảng sợ,' Thị trưởng Stahl nói trong một cuộc họp báo vào thứ Hai. "Người dân Louisville được tạo ra từ chất liệu mạnh mẽ hơn. Chúng ta không biết gì về căn bệnh này, hay virus, hay bất cứ thứ gì đó. Chính quyền hoàn toàn kiểm soát được tình hình. Nỗi sợ hãi sẽ làm tổn thương chúng ta nhiều hơn bất kỳ đợt bùng phát nào có thể gây ra. Thành thật mà nói, thật khá kinh tởm khi cho rằng lệnh giới nghiêm chẳng làm gì khác ngoài việc khiến tình hình căng thẳng trở nên tồi tệ hơn nhiều. Chưa kể đến tác động tài chính đối với nền kinh tế, nếu các quán bar, doanh nghiệp và nhà hàng địa phương...\n\n"..
+    "KHU VỰC KNOX KHÔNG ĐƯỢC TIẾP TẾ\n\n"..
+    "ĐỘNG ĐẤT TẤN CÔNG HOKKAIDO, NHẬT BẢN\n"..,
+    
+    Print_Text_KentuckyHerald_July14_title = "The Kentucky Herald - 14 tháng 7 năm 1993",
+    
+    Print_Text_KentuckyHerald_July14_info = ""KHÔNG CẦN HOẢNG LOẠN" - TƯỚNG MCGREW\n"..
+    "Virus gây chết người nhưng "đã được ngăn chặn"\n"Tổng thống rời thủ đô - "không liên quan đến dịch bệnh"\n\n"..
+    "[image] - Tướng John McGrew tuyên bố "không cần phải hoảng loạn thêm" trong bối cảnh lo ngại ngày càng tăng về tỷ lệ tử vong và lây nhiễm của "Virus Knox".\n\n"..
+    "Khu vực Sự kiện Knox - Tướng John McGrew đã đưa ra một tuyên bố vào thứ Ba thừa nhận rằng "Virus Knox" có tính thoái hóa, nhưng tuyên bố rằng sự lây lan của nó được ngăn chặn trong Vùng Sự kiện hiện bao gồm hàng trăm dặm vuông của bang Kentucky.\n CDC đã đưa ra một tuyên bố nói rằng mặc dù virus dường như gây ra bạo lực lớn giữa những người mắc bệnh, phương thức lây truyền qua tiếp xúc chất dịch là một cách lây lan kém hiệu quả.\n Các quan chức cũng phủ nhận việc Tổng thống đã rời Washington, D.C. do virus, nói rằng sự vắng mặt của ông liên quan đến một vấn đề gia đình riêng tư...\n\n"..
+    "THÀNH VATICAN, MECCA, ĐÓNG CỬA VỚI NGƯỜI HÀNH HƯƠNG\n"..
+    "Hai địa điểm tôn giáo lớn đóng cửa do lo ngại virus\n\n"..
+    "Thành Vatican, nơi ở của Giáo hoàng Công giáo La Mã, và Mecca, thành phố linh thiêng nhất trong Hồi giáo, đang đóng cửa với thế giới bên ngoài do mối đe dọa của "Virus Knox."\n Đức Giáo hoàng đã yêu cầu "sự tha thứ và cầu nguyện" khi thành phố được củng cố, nằm ở trung tâm Rome, đóng cửa với công chúng. Lực lượng Vệ binh Thụy Sĩ cho biết họ "chuẩn bị cho điều tồi tệ nhất" vì hàng nghìn người hành hương, vốn đã bị mắc kẹt do việc đình chỉ các chuyến bay quốc tế, sẽ buộc phải hạn chế đi lại theo các hạn chế mới ở thủ đô Ý.\n Ả Rập Saudi, quốc gia đã đóng cửa biên giới vô thời hạn ngày hôm qua, cũng đã thông báo rằng thành phố...\n\n"..
+    "ĐẢNG DÂN CHỦ THAM GIA CÙNG ĐẢNG CỘNG HÒA CHỈ TRÍCH TỔNG THỐNG\n\n"..
+    "THỊ TRƯỞNG LOUISVILLE: "CHÚNG TÔI VẪN MỞ CỬA"",
+    
+    Print_Text_KentuckyHerald_July15_title = "The Kentucky Herald - 15 tháng 7 năm 1993",
+    
+    Print_Text_KentuckyHerald_July15_info = "RANH GIỚI KNOX BỊ XUYÊN THỦNG\n"..
+    "Tiếng súng và thương vong được báo cáo tại biên giới Knox\n"..
+    "Hàng chục người chết, Quân đội rút lui\n\n"..
+    "[image] - Hàng trăm người nhiễm "Virus Knox" tấn công một cách vô thức vào nhân viên và rào chắn bằng tay không, áp đảo cả quân đội và dân thường.\n\n"..
+    "Khu vực Sự kiện Knox - Hàng chục người đã thiệt mạng khi ranh giới quân sự phía nam Louisville bị một đám đông hàng trăm người nhiễm "Virus Knox" xuyên thủng.\n Bất chấp chính sách bắn bỏ được chính quyền đưa ra, quân đội đã nhanh chóng bị áp đảo, và những người bị nhiễm bệnh đã tấn công những người sống sót đang ở trong lều tại Trại Biên giới.\n Đường Ranh giới Knox đang di chuyển về phía bắc tới Louisville khi quân đội rút lui. Liên lạc thưa thớt khi các mạng lưới phải vật lộn với nhu cầu quá lớn từ dân thường đang cố gắng...\n\n"..
+    "CÁC TIỂU BANG TRANH LUẬN VỀ GIẢI PHÁP CHO KNOX\n"..
+    "Chính quyền đang xem xét "các giải pháp cấp tiến"\n\nCơ quan lập pháp Tennessee đã bỏ phiếu cung cấp súng miễn phí cho tất cả cư dân "có tinh thần ổn định". Tòa án Tối cao California đang chuyển đến Đảo Santa Catalina. Cả hai viện Quốc hội đã giới hạn số người tham dự ở mức 25%. Đây chỉ là một vài trong số những cảnh tượng kỳ lạ khi chính quyền tranh luận về việc phải làm gì với Virus Knox.\n Các cuộc tranh luận tập trung vào hai chủ đề: cách đối phó với người bị nhiễm bệnh và nơi có thể thiết lập các khu vực an toàn để bảo vệ những công dân chưa bị nhiễm bệnh. Các đề xuất bao gồm từ cách ly đến hành quyết ngay lập tức những người bị nhiễm bệnh.\n Các báo cáo sau vụ xâm phạm ranh giới Knox cho thấy rằng...\n\n"..
+    "VIỆC HỦY BỎ SỰ KIỆN "TÙY THUỘC VÀO NHÀ TỔ CHỨC"\n\n"..
+    "THỐNG ĐỐC CHẤP NHẬN SỰ CẦN THIẾT VIỆN TRỢ LIÊN BANG\n"..,
+    
+    Print_Text_KentuckyHerald_July16_title = "The Kentucky Herald - 16 tháng 7 năm 1993",
+    
+    Print_Text_KentuckyHerald_July16_info = "VIRUS KNOX LÂY LAN QUA KHÔNG KHÍ\n"..
+    "Tuyệt vọng bao trùm quốc gia, thế giới\n"..
+    "Một số ít người miễn dịch với 'Chủng trên không'\n\n"..
+    "[image] - Một nhóm người bị nhiễm bệnh được một thành viên trong nhóm của chúng tôi chụp ảnh trên đường đến văn phòng vào thứ Năm, gần trung tâm thành phố Louisville. Họ đã có thể đi qua an toàn.\n\n"..
+    "CDC đã xác nhận rằng Virus Knox lây lan nhanh chóng qua không khí, mặc dù một tỷ lệ nhỏ người dân miễn dịch với "biến thể trên không" của virus. Đối với những người còn lại, khả năng chữa khỏi hoặc điều trị hiện gần như bằng không. Hãy giúp đỡ những người hàng xóm lớn tuổi và dễ bị tổn thương của bạn. Chia sẻ thức ăn nếu bạn có nhiều hơn mức cần thiết. Tránh đám đông bằng mọi giá.\n Như chúng ta đã thấy ở ranh giới, tiếng súng thu hút chúng. Hãy chuẩn bị sẵn một cây gậy bóng chày hoặc vũ khí dễ sử dụng khác và đừng ngại tấn công chúng. Một khi chúng chết và sống lại, chúng chỉ muốn lây lan virus.\n\n"..
+    "MỘT THÔNG ĐIỆP ĐẶC BIỆT TỪ HERALD\n"..
+    "Cảm ơn tất cả độc giả của chúng tôi\n\n"..
+    "Đây có lẽ là ấn bản cuối cùng của Kentucky Herald. Virus đã ở Louisville. Một số người trong chúng tôi ở đây đang sốt, và có hàng trăm người bị nhiễm bệnh trên đường phố.\n Chúng tôi muốn cảm ơn tất cả độc giả đã đồng hành cùng chúng tôi qua những thời điểm chưa từng có này. Nếu bạn là một trong số ít người miễn dịch, bạn là người quản lý của một thế giới mới. Nhiệm vụ của bạn bây giờ là tiếp nối ánh sáng của nhân loại và văn minh. Ngay cả một ngọn nến duy nhất cũng sẽ xuyên qua bóng tối sâu thẳm nhất.\n Xin Chúa thương xót những người còn lại trong chúng ta và những người thân yêu của chúng ta.\n\n"..
+    "QUỐC HỘI SƠ TÁN ĐẾN MOUNT WEATHER\n\n"..
+    "VIRUS CÓ KHẢ NĂNG "ĐÃ LAN RA TOÀN CẦU"",
+    
+    Print_Text_NationalDispatch_July6_title = "The National Dispatch - 6 tháng 7, 1993",
+    
+    Print_Text_NationalDispatch_July6_info = "IRAQ CÓ THỂ NGỪNG HỢP TÁC VỚI LHQ\n"..  
+    "Bởi Molly Aoide\n"..
+    "Phóng viên Thường trú\n\n"..
+    "[image] - Tổng thống Iraq phát biểu trước truyền thông quốc tế tại Baghdad.\n\n"..
+    "BAGHDAD, Iraq - Trong một cuộc họp báo vào thứ Hai, tổng thống Iraq cho biết nước này có thể ngừng hợp tác với Liên Hợp Quốc về việc phá hủy vũ khí phi thông thường nếu tình trạng bế tắc về giám sát địa điểm tên lửa không được giải quyết nhanh chóng.\n "Người Mỹ nghĩ rằng chúng ta yếu đuối," tổng thống nói từ cung điện của mình. "Chúng ta có những vũ khí với sức mạnh khủng khiếp đến mức họ sẽ khóc như những con chó nếu họ biết về chúng. Tuy nhiên, chúng ta sẵn sàng từ bỏ những thứ đó, và theo đuổi con đường hòa bình, nếu chúng ta được đối xử công bằng." Một phát ngôn viên của tổng thống Mỹ từ chối bình luận về đồn đoán rằng việc tổng thống hủy bỏ tham dự các cuộc họp G7 ở Tokyo, dự kiến bắt đầu vào thứ Tư, có liên quan đến thông báo của Iraq.\n Sáu quốc gia thành viên G7 khác - Nhật Bản, Canada, Pháp, Ý, Đức và Anh, cùng với Cộng đồng Châu Âu - dự kiến sẽ thảo luận về một loạt các vấn đề quốc tế, bao gồm viện trợ cho việc tư nhân hóa doanh nghiệp hơn nữa ở Nga, vũ khí hạt nhân ở Liên Xô cũ và Bắc Triều Tiên, và tình hình ngày càng xấu đi ở khu vực trước đây được gọi là Nam Tư. Cuộc họp G7 này, lần thứ 19, sẽ là lần đầu tiên đối với Tổng thống...\n"..
+    "(Xem "Iraq," A10)\n\n"..
+    "HAI VỤ BẮT GIỮ TRONG VỤ TRỘM ĐÁ QUÝ 'TÁO BẠO' Ở PARIS\n"..
+    "Bởi Jeff Franks\n"..
+    "Phóng viên Thường trú\n\n"..
+    "PARIS, Pháp - Cảnh sát thủ đô Pháp đã thực hiện hai vụ bắt giữ vào thứ Hai sau cuộc điều tra kéo dài hàng tháng về một vụ trộm táo bạo tại một trong những khách sạn độc quyền nhất Paris.\n Marie-Christine Lacour và Claude Beaumarchais bị buộc tội lừa đảo, trộm cắp, hành hung, tàng trữ ma túy và trộm cắp tài sản lớn sau khi cảnh sát liên kết cặp đôi này với vụ trộm tại Paris Havisham vào tháng 10 năm ngoái. Cặp đôi, là những nhân vật xã hội nổi tiếng, bị buộc tội xâm nhập khách sạn Havisham cải trang thành nhân viên và đu dây xuống bảy tầng đến ban công của một căn phòng, nơi một thành viên hoàng gia châu Âu nổi tiếng đang ở. Họ đã khoan một lỗ trên cửa sổ phòng...\n"..
+    "(Xem "Vụ trộm," A12)\n"..,
+    
+    Print_Text_NationalDispatch_July7_title = "The National Dispatch - 7 tháng 7, 1993",
+    
+    Print_Text_NationalDispatch_July7_info = "PHONG TỎA Ở KENTUCKY\n"..
+    "Bởi Jeff Franks\n"..
+    "Phóng viên Thường trú\n\n"..
+    "[image] - Larry Stoddard nói chuyện với truyền thông địa phương. Quân nhân từ chối mọi yêu cầu phỏng vấn hoặc bình luận.\n\n"..
+    "KENTUCKY - Quân đội Hoa Kỳ vào thứ Hai đã chặn các con đường và đường cao tốc dẫn đến và đi từ khu vực Kentucky được gọi một cách không chính thức là "Xứ Knox," các quận gần Fort Knox, mà không tuyên bố lý do làm vậy.\n Hàng trăm quân nhân, được trang bị đầy đủ vũ khí và thiết bị chiến đấu, đã đến khu vực vào sáng sớm thứ Ba, bao vây hàng nghìn dân thường trong vành đai, cũng như khiến hàng trăm người sống bên ngoài ranh giới phải di dời. Tin đồn về một cuộc tập trận quân sự lan truyền, nhưng tất cả các cuộc gọi đến quan chức quân đội đều không được trả lời.\n Đường dây điện thoại cũng đã bị mất tín hiệu trong khu vực trong vài ngày qua, khiến việc liên lạc với khu vực bị phong tỏa gần như không thể.\n Một cư dân West Point, Larry Stoddard, cho biết sau khi kết thúc ca đêm thường lệ với tư cách là y tá ở Louisville, ông nhìn thấy, "những người lính ở phía xa. Không có gì lạ ở Knox, nhưng sau đó tôi thấy họ dựng hàng rào dọc theo con đường. Nó giống như trong phim. Rồi chiếc xe tải khổng lồ này kéo đến bên cạnh tôi, và nói với tôi rằng tôi không thể đi xa hơn. Tôi nói với tài xế rằng tôi sống ở West Point nhưng anh ta nói tôi không thể đến đó." Một số cư dân bên ngoài vành đai báo cáo bị lệnh di chuyển, với một người tuyên bố những người lính đã "xin lỗi" khi làm như vậy, và...\n"..
+    "(Xem "Phong tỏa", A10)\n\n"..
+    "BÌNH LUẬN: SỰ CHE ĐẬY Ở KENTUCKY SẼ NUÔI DƯỠNG HOANG TƯỞNG\n"..
+    "Bởi Keith Haroldson\n"..
+    "Nhà bình luận\n\n"..
+    "Động thái của quân đội phong tỏa một khu vực rộng lớn của Kentucky, được đồn đại là do một vụ rò rỉ chất thải độc hại nào đó, cùng với việc quân đội hoàn toàn từ chối trả lời các câu hỏi về những gì đang diễn ra, mang đến những dư âm kỳ lạ về các cuộc đối đầu gần đây giữa chính quyền liên bang và các nhóm vũ trang khác nhau.\n Mặc dù các nhóm đó nói chung gần như chắc chắn là thù địch và rất nguy hiểm, chiến dịch mới sẽ đổ thêm dầu vào lửa của những người theo thuyết âm mưu, bao gồm các phong trào ly khai Mỹ và những người chống liên bang, những người coi chính phủ liên bang ngày càng chà đạp lên quyền của công dân.\n Thật vậy, ngay cả những người ôn hòa trong chúng ta cũng bị sốc bởi động thái...\n"..
+    "(Xem "Hoang tưởng", A11)\n"..,
+    
+    Print_Text_NationalDispatch_July12_title = "The National Dispatch - 12 tháng 7, 1993",
+    
+    Print_Text_NationalDispatch_July12_info = "WHO: "HẠ CÁNH TẤT CẢ CÁC CHUYẾN BAY"\n"..
+    "Bởi Molly Aoide\n"..
+    "Phóng viên Thường trú\n\n"..
+    "[image] - Hàng triệu du khách trên toàn thế giới có thể bị mắc kẹt.\n\n"..
+    "GENEVA, Thụy Sĩ - Hàng triệu du khách rơi vào tình trạng lấp lửng khi Tổ chức Y tế Thế giới (WHO) vào Chủ nhật khuyến cáo rằng tất cả các chuyến bay, ngoại trừ các chuyến bay quân sự và y tế, phải bị đình chỉ trên toàn thế giới để ngăn chặn sự lây lan của "Virus Knox".\n Mặc dù WHO thiếu thẩm quyền pháp lý để thực thi khuyến cáo, tất cả các chuyến bay đã bị các hãng hàng không hạ cánh gần như ngay lập tức do bị sốc trước tính chất đột ngột của thông báo.\n Trong một cuộc họp báo tại Nhà Trắng, Tổng thống đã gọi thông báo của WHO là "không được hoan nghênh và không hợp lý về mặt kinh tế".\n CEO của Air Erin, Ryan Byrne cho biết, "Chúng tôi biết điều này sẽ đến, nhưng chúng tôi nghĩ rằng ít nhất chúng tôi sẽ có thời gian để chuẩn bị. Chúng tôi phải tuân thủ. Không ai trong chúng tôi muốn chịu trách nhiệm về một đợt bùng phát, nhưng chúng tôi có doanh nghiệp để điều hành. Phương thuốc không thể tệ hơn căn bệnh.\n".. 
+    " Trong khi đó, Cộng đồng Châu Âu đã khuyến cáo tất cả các nước thành viên đóng cửa biên giới nội bộ và bên ngoài để đề phòng. Được biết tất cả các quốc gia thành viên EC sẽ tuân thủ khuyến cáo, mặc dù Vương quốc Anh đã yêu cầu trì hoãn một thời gian ngắn trước khi thực hiện.\n".. 
+    " Khuyến cáo chưa từng có này đã gây ra lo ngại rằng...\n"..
+    "(Xem "Chuyến bay", A9)\n\n"..
+    "BÌNH LUẬN: SỰ IM LẶNG ĐẦY LO LẮNG BAO TRÙM LOUISVILLE\n\n"..
+    "Bởi Keith Haroldson\n"..
+    "Nhà bình luận\n"..
+    "\n LOUISVILLE, Ky. - Bất chấp các cuộc bạo loạn và bất ổn ở các thành phố lớn, đường phố Louisville, chỉ cách Vùng Cách ly Knox một khoảng cách ngắn, lại yên tĩnh hơn bao giờ hết. Tuy nhiên, bất chấp những nỗ lực của nhiều cư dân để nhìn vào mặt tươi sáng và xem nhẹ mối đe dọa, rõ ràng nhiều người cảm thấy một nỗi lo lắng dai dẳng về Virus Knox.\n Chính quyền hiện đang nói rằng virus, mặc dù gây chết người, chỉ lây lan qua tiếp xúc chất dịch, gợi lên sự so sánh với các đợt bùng phát ebola, cuối cùng đã được ngăn chặn. Nhưng chưa bao giờ có một đợt bùng phát ebola gần một thành phố lớn như vậy, và một số cư dân đã chuyển đi qua sông Ohio. Những người khác đang lên kế hoạch tham gia cùng họ, và...\n"..
+    "(Xem "Im lặng", A13)\n"..,
+    
+    Print_Text_NationalDispatch_July13_title = "The National Dispatch - 13 tháng 7, 1993",
+    
+    Print_Text_NationalDispatch_July13_info = "HÌNH ẢNH ĐẪM MÁU TẠI KNOX BỊ RÒ RỈ\n"..
+    "Bởi Richard Carlson\n"..
+    "Phóng viên Thường trú\n\n"..
+    "[image] - Bức ảnh đã được che mờ vì phẩm giá của nạn nhân.\n\n"..
+    "BIÊN GIỚI VÙNG CÁCH LY KNOX, Ky. - Một bức ảnh mới xuất hiện vào thứ Hai về một người đàn ông bị nhiễm bệnh, bị cắt rời các bộ phận nhưng dường như vẫn còn sống trên một con phố đầy xác chết ở thị trấn West Point trong Vùng Cách ly Knox đã đặt ra nhiều câu hỏi hơn về phản ứng của chính phủ đối với Sự kiện Knox.\n Hàng nghìn cư dân đã bị mắc kẹt trong một khu vực bị phong tỏa rộng hàng trăm dặm vuông của Kentucky kể từ ngày 6 tháng 7, với rất ít liên lạc với thế giới bên ngoài.\n Bức ảnh bị rò rỉ càng làm tăng thêm sự tức giận cho các cuộc bạo loạn đang diễn ra tại các thành phố trên toàn quốc, trong khi lệnh giới nghiêm có ít tác dụng. Với việc Quân đội và Vệ binh Quốc gia hiện được triển khai tại các thành phố lớn, hơi cay và vòi rồng đang được sử dụng rộng rãi chống lại những người bạo loạn, với binh lính bắn trả bằng đạn thật ở một số khu vực, mặc dù chưa có báo cáo về thương vong.\n Chính quyền đã tuyên bố rằng ngay cả các cuộc biểu tình ôn hòa ban ngày cũng có thể phải bị hủy bỏ, do khả năng người biểu tình bị kích động bạo lực.\n Thị trường chứng khoán, vốn đã lao dốc sau khi WHO yêu cầu hạ cánh tất cả các chuyến bay vào Chủ nhật, càng giảm sâu hơn khi bức ảnh lan truyền đến các hãng thông tấn trên toàn thế giới. Chỉ số Dow Jones đã bị đình chỉ trong...\n"..
+    "(Xem "Rò rỉ", A10)\n\n"..
+    "HÀNG TRĂM NGƯỜI CHẾT TRONG TRẬN ĐỘNG ĐẤT Ở NHẬT BẢN\n"..
+    "Bởi Doris Hunt\n"..
+    "Phóng viên Thường trú\n\n"..
+    "HOKKAIDO, Nhật Bản - Một trận động đất mạnh xảy ra ngoài khơi bờ biển Nhật Bản vào khoảng 10:15 tối giờ địa phương (9:15 sáng giờ Miền Đông) vào thứ Hai. Trận động đất, ước tính mạnh 7.5 độ Richter, đã tạo ra một cơn sóng thần nhấn chìm các khu vực của đảo Hokkaido và tấn công bờ biển đông nam nước Nga.\n Hàng trăm người được cho là đã thiệt mạng, với các vụ cháy và lở đất được báo cáo tại thị trấn Okushiri trên hòn đảo nhỏ cùng tên gần Hokkaido. Thành phố này trước đó đã bị một trận động đất mạnh tấn công vào tháng Giêng năm ngoái, khiến hai người thiệt mạng và hơn một nghìn người bị thương. Trận động đất hôm thứ Hai tàn phá nặng nề hơn nhiều, với...\n"..
+    "(Xem "Nhật Bản", A13)\n"..,
+    
+    Print_Text_NationalDispatch_July14_title = "The National Dispatch - 14 tháng 7, 1993",
+    
+    Print_Text_NationalDispatch_July14_info = "LHQ LÊN ÁN PHẢN ỨNG VỀ KNOX\n"..
+    "Bởi Keith Haroldson\n"..
+    "Phóng viên Thường trú\n\n"..
+    "[image] - Đại biểu Trung Quốc tại LHQ đã chỉ trích mạnh mẽ cách xử lý của Hoa Kỳ đối với vụ dịch.\n\n"..
+    "NEW YORK, NY - Ba mươi tám quốc gia đã đưa ra một tuyên bố chung thông qua Liên Hợp Quốc lên án cái mà họ gọi là "hoàn toàn thiếu minh bạch" về các chi tiết của vụ bùng phát bệnh Knox. Tuyên bố được đưa ra vài giờ sau khi Tướng John McGrew, người giám sát quân sự của Vùng Ngăn chặn Knox, nói rằng "không cần phải hoảng loạn thêm" sau vụ rò rỉ một bức ảnh khủng khiếp từ Khu vực vào thứ Hai, cùng với xác nhận về bạo lực cực đoan giữa những người bị nhiễm bệnh.\n Tổng thống đã rời Washington, D.C., và không thể liên lạc để bình luận.\n Trung Quốc là một trong những nhà phê bình gay gắt nhất đối với Hoa Kỳ, với các đại biểu của họ tuyên bố Hoa Kỳ đặt, "sự giàu có liên tục của Phố Wall lên trên lợi ích chung của nhân loại", những tuyên bố nhanh chóng bị các đồng minh của Hoa Kỳ lên án. Trong khi đó, Thành Vatican đang bị đóng cửa do mối đe dọa của bệnh Knox. Lực lượng Vệ binh Thụy Sĩ của Thành phố đã ra lệnh cho tất cả du khách đến thành phố phải sơ tán, được cho là trái với mong muốn của Giáo hoàng, người đã kêu gọi, "sự tha thứ và cầu nguyện". Thành trì, nằm ở trung tâm Rome, sẽ thực hiện các biện pháp nghiêm ngặt để đảm bảo sức khỏe và an toàn của khoảng 1000 người của thành phố...\n"..
+    "(Xem "Phản ứng", A9)\n\n"..
+    "WHO LÊN ÁN CÁC MỐI ĐE DỌA\n"..
+    "Bởi Doris Hunt\n"..
+    "Phóng viên Thường trú\n\n"..
+    "GENEVA, Thụy Sĩ - Tổ chức Y tế Thế giới đã lên án hàng trăm lời đe dọa đánh bom và giết người nhắm vào trụ sở và nhân viên của mình tại Geneva, gọi chúng là "một phản ứng cực kỳ vô ích trong thời kỳ khủng hoảng chưa từng có." Cảnh sát Thụy Sĩ đang theo dõi chặt chẽ tình hình, xảy ra sau khuyến cáo của WHO vào ngày 11 tháng 7 về việc hạ cánh các chuyến bay quốc tế trên toàn thế giới do vụ bùng phát Knox.\n Khuyến cáo, mặc dù là tự nguyện, đã được hầu hết các hãng hàng không trên thế giới tuân theo, khiến hàng triệu du khách trong nước và quốc tế bị mắc kẹt, và buộc các chính phủ trên thế giới phải đối phó với việc đột ngột mắc kẹt một số lượng lớn khách du lịch trong biên giới của họ vào đỉnh điểm...\n"..
+    "(Xem "Đe dọa", A11)",
+    
+    Print_Text_NationalDispatch_July15_title = "The National Dispatch - 15 tháng 7, 1993",
+    
+    Print_Text_NationalDispatch_July15_info = "NGƯỜI NHIỄM BỆNH ÁP ĐẢO BIÊN GIỚI KNOX\n"..
+    "Bởi Molly Aoide\n"..
+    "Phóng viên Thường trú\n\n"..
+    "[image] - Hàng trăm người nhiễm bệnh đã phá vỡ hàng rào, tấn công một cách vô thức bất kỳ ai không bị nhiễm bệnh trong tầm tay.\n\n"..
+    "BIÊN GIỚI VÙNG CÁCH LY KNOX, KY - Vào khoảng 5 giờ sáng thứ Tư, hàng trăm người nhiễm "Virus Knox" đã phá vỡ các rào chắn quân sự từ bên trong Vùng Cách ly phía nam Louisville, Ky. Hỏa lực mạnh bằng đạn thật đã không ngăn được bước tiến của đám đông lớn.\n Có tới 100 quân nhân và dân thường thiệt mạng, với hàng trăm người bị thương. Các nhân chứng báo cáo âm thanh của trận chiến đã thu hút thêm nhiều người nhiễm bệnh hơn từ một khu vực rộng lớn. Cả quân đội và người tị nạn gần biên giới đều rút lui về Louisville.\n Các nhóm lớn người nhiễm bệnh đã tấn công các ngôi nhà ở vùng ngoại ô suốt cả ngày, di chuyển chậm về phía bắc thành phố, chỉ gặp phải sự kháng cự lẻ tẻ, chủ yếu là từ dân thường có vũ trang. Các con đường và cây cầu ra khỏi Louisville nhanh chóng chật cứng những người dân hoảng loạn chạy trốn qua sông Ohio, và tình trạng tắc nghẽn giao thông đã được báo cáo xa về phía bắc tới Columbus, Ohio, và Indianapolis, Ind. Bạo loạn và cướp bóc ở các thành phố lớn khác hầu hết đã nhường chỗ cho sự tuyệt vọng có trật tự khi người dân tích trữ thực phẩm, đạn dược và các hàng hóa khác đề phòng cảnh tượng hoảng loạn và cướp bóc ở Kentucky lặp lại ở những nơi xa hơn.\n Chính quyền quân sự đã từ chối trả lời các câu hỏi về...\n"..
+    "(Xem "Biên giới", A9)\n\n"..
+    "VIRUS CÓ THỂ LÂY QUA KHÔNG KHÍ\n"..
+    "Bởi Doris Hunt\n"..
+    "Phóng viên Thường trú\n\n"..
+    "VÙNG KNOX, KY - Một số người tị nạn và nhân viên bên ngoài Vùng Cách ly tuyên bố đã mắc bệnh "Virus Knox" mặc dù không tiếp xúc với người bị nhiễm bệnh. Những tuyên bố này đã đặt câu hỏi về các tuyên bố từ chính quyền rằng bệnh chỉ có thể lây lan qua vết cắn và vết trầy xước.\n Một quan chức CDC cho biết sự xuất hiện của việc lây truyền qua đường không khí đại diện cho, "một mối đe dọa lớn hơn đối với nhân loại so với Cúm Tây Ban Nha hoặc Cái chết Đen". WHO cho biết virus có khả năng đã lan rộng khắp thế giới, và khuyến cáo của họ về việc hạ cánh các chuyến bay "gần như chắc chắn đã quá muộn để tạo ra sự khác biệt." Các chương trình sàng lọc bệnh...\n"..
+    "(Xem "Virus", A11)\n"..,
+    
+    Print_Text_MuldraughMessenger_June29_title = "Muldraugh Messenger - 29 tháng 6 năm 1993", -- Assuming standard naming, content seems empty in original
+    
+    Print_Text_MuldraughMessenger_June29_info = "", -- Empty content
+    
+    Print_Text_MuldraughMessenger_July6_title = "Muldraugh Messenger - 6 tháng 7 năm 1993", -- Assuming standard naming, content seems empty in original
+    
+    Print_Text_MuldraughMessenger_July6_info = "", -- Empty content
+    
+    Print_Text_LouisvilleSunTimes_July6_title = "Louisville Sun Times - 6 tháng 7 năm 1993",
+    
+    Print_Text_LouisvilleSunTimes_July6_info = "CHUYỆN GÌ ĐANG XẢY RA Ở MULDRAUGH?\n\n"..
+    "Bệnh BÍ ẨN đang lan rộng trong vùng\n\n"..
+    "CDC IM LẶNG khi quân đội DI CHUYỂN\n\n"..
+    "Liệu có phải RÒ RỈ từ PHÒNG THÍ NGHIỆM QUÂN SỰ?\n"..,
+    
+    Print_Text_LouisvilleSunTimes_July13_title = "Louisville Sun Times - 13 tháng 7 năm 1993",
+    
+    Print_Text_LouisvilleSunTimes_July13_info = ""SỐNG HAY CHẾT?\n\n"..
+    ""Virus Knox" tạo ra "XÁC SỐNG BIẾT ĐI"\n\n"..
+    "Vùng Cách ly Knox MỞ RỘNG\n\n"..
+    "GIỚI NGHIÊM TOÀN QUỐC khi bạo loạn tiếp diễn\n\n"..,
+    
+    Print_Text_LouisvilleSunTimes_July14_title = "Louisville Sun Times - 14 tháng 7 năm 1993",
+    
+    Print_Text_LouisvilleSunTimes_July14_info = "TỔNG THỐNG RỜI WASHINGTON - "TỰ LO LIỆU ĐI!"\n\n"..
+    ""Virus Knox" lây qua tiếp xúc CHẤT DỊCH\n\n"..
+    "Quân đội trong Vùng THẢ dân thường bị giữ\n\n"..
+    "Tín hiệu BỊ NHIỄU bởi can nhiễu\n\n"..,
+    
+    Print_Text_LouisvilleSunTimes_July15_title = "Louisville Sun Times - 15 tháng 7 năm 1993",
+    
+    Print_Text_LouisvilleSunTimes_July15_info = "NGƯỜI NHIỄM BỆNH PHÁ VỠ RÀO CHẮN KHU VỰC KNOX\n\n"..
+    "HÀNG TRĂM người nhiễm bệnh PHÁ VỠ rào chắn\n\n"..
+    "HOẢNG LOẠN khi dân thường chạy trốn khỏi Louisville, tiểu bang\n\n"..
+    "Thị trưởng: "Chúng ta VẪN an toàn."",
+    
+    Print_Text_LouisvilleSunTimes_July16_title = "Louisville Sun-Times - 16 tháng 7 năm 1993",
+    
+    Print_Text_LouisvilleSunTimes_July16_info = "LOUISVILLE BỊ TRÀN NGẬP - CẦU NGUYỆN CHO CHÚNG TÔI\n\n"..
+    "Quân đội BỊ ĐÁNH BẠI bởi Virus Knox \n\n"..
+    "Virus lây lan MÀ KHÔNG CẦN vết cắn\n\n"..
+    "Rào nhà và nạp SÚNG đi, trước khi quá muộn\n"..,
+    
+    Print_Text_LouisvilleBruiser_title = "Nhà máy Louisville Bruiser",
+    Print_Text_LouisvilleBruiser_info = "LOUISVILLE BRUISER\n\nNgôi nhà của Gậy Bóng Chày\n\nHãy đến gặp những người tạo ra những cây gậy chính thức của Giải Vô địch Bóng chày Thế giới!\n\nSau đó mang một cây về nhà!\n\nHãy nghe nguồn gốc thực sự của cây gậy mang tính biểu tượng nhất trong lịch sử nước Mỹ.\n\nGọi 555-3009 để đặt tour Chủ nhật của bạn\n\n130 Đại lộ Slugger, Louisville, KY",
+    
+    Print_Text_KnoxBankJobAdRosewood_title = "Quảng cáo Việc làm Ngân hàng Knox (Rosewood)",
+    Print_Text_KnoxBankJobAdRosewood_info = "TUYỂN DỤNG\n\nNGÂN HÀNG KNOX\n\nTổ chức tài chính lớn nhất Kentucky đang tuyển dụng!\n\nChúng tôi cần hai giao dịch viên cho chi nhánh Rosewood.\n Yêu cầu bằng cao đẳng hoặc hai năm kinh nghiệm ở vị trí tương tự. Lương 25.000 đô la. Chi tiết liên hệ bên dưới.\n\nNgân hàng Knox, 324 Phố Main, Rosewood.",
+    
+    Print_Text_OnyxDriveinTheater_title = "Rạp chiếu phim lái xe Onyx",
+    Print_Text_OnyxDriveinTheater_info = "Trải nghiệm những bộ phim mới nhất từ sự thoải mái của chiếc xe của riêng bạn!\n\nHoạt động liên tục từ năm 1952, Rạp chiếu phim lái xe Onyx có không gian cho hơn một trăm phương tiện, với bỏng ngô, hotdog và nhiều hơn nữa tại tòa nhà lối vào của chúng tôi.\n\nVé chỉ từ 5 đô la.\n\nĐANG CHIẾU: The Forgotten Element (Nguyên Tố Lãng Quên)\n\nGỌI 943-555-1390 ĐỂ ĐẶT VÉ TRƯỚC\n\n7310 US-60, Rosewood, KY",
+    
+    Print_Text_ElveeArena_title = "Trận đấu Quyền anh tại Đấu trường Elvee",
+    Print_Text_ElveeArena_info = "CUỘC ĐỤNG ĐỘ CỦA NHỮNG LỜI TUYÊN CHIẾN\n BABYFACE đấu với WHIRLWIND\n NGÀY 3 THÁNG 7\n\nĐấu trường Elvee, 340 Phố Jackson, Louisville, Kentucky.",
+    
+    Print_Text_Fossoil1_title = "Fossoil (Muldraugh)",
+    Print_Text_Fossoil1_info = "Giá xăng thấp nhất có thể!\n\nGiờ đây với lượng chì THẤP HƠN NỮA so với trước, chưa bao giờ là thời điểm tốt hơn để đổ xăng với Fossoil!\n\nTừ loại thường giá cả phải chăng đến loại cao cấp nhất, động cơ của bạn sẽ cảm ơn bạn.\n\nĐây chỉ là một địa điểm phục vụ khu vực của bạn!\n\n119 Đường cao tốc Dixie, Muldraugh, Kentucky",
+    
+    Print_Text_Fossoil2_title = "Fossoil (West Point)",
+    Print_Text_Fossoil2_info = "Giá xăng thấp nhất có thể!\n\nGiờ đây với lượng chì THẤP HƠN NỮA so với trước, chưa bao giờ là thời điểm tốt hơn để đổ xăng với Fossoil!\n\nTừ loại thường giá cả phải chăng đến loại cao cấp nhất, động cơ của bạn sẽ cảm ơn bạn.\n\nĐây chỉ là một địa điểm phục vụ khu vực của bạn!\n\n205 Phố Second, West Point, Kentucky",
+    
+    Print_Text_Fossoil3_title = "Fossoil (Rosewood)",
+    Print_Text_Fossoil3_info = "Giá xăng thấp nhất có thể!\n\nGiờ đây với lượng chì THẤP HƠN NỮA so với trước, chưa bao giờ là thời điểm tốt hơn để đổ xăng với Fossoil!\n\nTừ loại thường giá cả phải chăng đến loại cao cấp nhất, động cơ của bạn sẽ cảm ơn bạn.\n\nĐây chỉ là một địa điểm phục vụ khu vực của bạn!\n\n2838 Đường Rosewood, Rosewood, Kentucky",
+    
+    Print_Text_Fossoil4_title = "Fossoil (Ekron)",
+    Print_Text_Fossoil4_info = "Giá xăng thấp nhất có thể!\n\nGiờ đây với lượng chì THẤP HƠN NỮA so với trước, chưa bao giờ là thời điểm tốt hơn để đổ xăng với Fossoil!\n\nTừ loại thường giá cả phải chăng đến loại cao cấp nhất, động cơ của bạn sẽ cảm ơn bạn.\n\nĐây chỉ là một địa điểm phục vụ khu vực của bạn!\n\n15 Đường Old Ekron, Ekron, Kentucky",
+    
+    Print_Text_Fossoil5_title = "Fossoil (Riverside)",
+    Print_Text_Fossoil5_info = "Giá xăng thấp nhất có thể!\n\nGiờ đây với lượng chì THẤP HƠN NỮA so với trước, chưa bao giờ là thời điểm tốt hơn để đổ xăng với Fossoil!\n\nTừ loại thường giá cả phải chăng đến loại cao cấp nhất, động cơ của bạn sẽ cảm ơn bạn.\n\nĐây chỉ là một địa điểm phục vụ khu vực của bạn!\n\n160 Đường Rock Ridge, Riverside, Kentucky",
+    
+    Print_Text_Fossoil6_title = "Fossoil (Brandenburg)",
+    Print_Text_Fossoil6_info = "Giá xăng thấp nhất có thể!\n\nGiờ đây với lượng chì THẤP HƠN NỮA so với trước, chưa bao giờ là thời điểm tốt hơn để đổ xăng với Fossoil!\n\nTừ loại thường giá cả phải chăng đến loại cao cấp nhất, động cơ của bạn sẽ cảm ơn bạn.\n\nĐây chỉ là một địa điểm phục vụ khu vực của bạn!\n\n582 Đường tránh Brandenburg, Brandenburg, Kentucky",
+    
+    Print_Text_Fossoil7_title = "Fossoil (Tây Nam Louisville)",
+    Print_Text_Fossoil7_info = "Giá xăng thấp nhất có thể!\n\nGiờ đây với lượng chì THẤP HƠN NỮA so với trước, chưa bao giờ là thời điểm tốt hơn để đổ xăng với Fossoil!\n\nTừ loại thường giá cả phải chăng đến loại cao cấp nhất, động cơ của bạn sẽ cảm ơn bạn.\n\nĐây chỉ là một địa điểm phục vụ khu vực của bạn!\n\n4 Đường Rockford, Louisville, Kentucky",
+    
+    Print_Text_Fossoil8_title = "Fossoil (Nam Louisville)",
+    Print_Text_Fossoil8_info = "Giá xăng thấp nhất có thể!\n\nGiờ đây với lượng chì THẤP HƠN NỮA so với trước, chưa bao giờ là thời điểm tốt hơn để đổ xăng với Fossoil!\n\nTừ loại thường giá cả phải chăng đến loại cao cấp nhất, động cơ của bạn sẽ cảm ơn bạn.\n\nĐây chỉ là một địa điểm phục vụ khu vực của bạn!\n\n3259 Đường Manslick, Louisville, Kentucky",
+    
+    Print_Text_EPToolsLV_title = "E.P. Tools Louisville",
+    Print_Text_EPToolsLV_info = "Cho mọi thứ bạn cần, và một số thứ bạn không cần\n\n"Không có nơi nào tốt hơn để mua kìm và tuốc nơ vít." - Sam Graham, Metalheads\n\n "Tôi luôn mua đinh của mình từ E.P." - Hans Jorgensen, Jorgensen and Sons Carpentry\n\n"Tôi bắt đầu trang trại của mình với hạt giống và một cái xẻng từ E.P." - Franklin Jones, CEO của Kentucky Farm Corp.\n\nVới những lời chứng thực như vậy, chúng tôi không cần phải nói thêm!\n\nHãy đưa tờ rơi này tại cửa hàng của chúng tôi ở phía đông nam Louisville để được giảm giá 10% cho bất kỳ công cụ nào!*\n*không bao gồm tuốc nơ vít\n\nTìm chúng tôi ở đây!\n802 Đường Southside, Louisville, Kentucky.",
+    
+    Print_Text_ReadyPrep_title = "Ready Prep", -- Name, keep as is
+    Print_Text_ReadyPrep_info = "Tội phạm gia tăng! Bạo loạn! Các giáo phái nguy hiểm!\n\nTỰ DO của bạn đang gặp nguy hiểm!\n\nChúng tôi nói: đừng sợ hãi - hãy chuẩn bị!\n\nDao Sinh tồn Chắc chắn\n Quần áo Quân đội Dư thừa Tốt nhất\n Lều Có thể Chịu được Bão\n Súng Để Săn bắn - Và Tự vệ\n\nHãy đến Ready Prep ở tây bắc Louisville ngay phía nam sông Ohio.\n\nChuẩn bị cho điều tồi tệ nhất - với những thứ tốt nhất!\n\n1104 Phố 4, Louisville",
+    
+    Print_Text_WellingtonHeightsGolfClub_title = "Câu lạc bộ Golf Wellington Heights",
+    Print_Text_WellingtonHeightsGolfClub_info = "Ngắm cảnh tại WELLINGTON HEIGHTS\n\nSân golf chín lỗ khó nhưng công bằng của chúng tôi ở phía bắc Công viên Wellington Heights mang đến điều gì đó cho người chơi ở mọi cấp độ kỹ năng.\n\nHãy đến các buổi học hàng tuần của chúng tôi với Logan Barton, người chiến thắng Giải Riverside Classic 1992. Có cho thuê gậy và giảm giá theo nhóm.\n\nNgay cả khi bạn không phải là người chơi golf, hãy tìm đồ ăn và thức uống chất lượng hàng đầu tại câu lạc bộ rộng rãi, thoải mái và riêng tư của chúng tôi. Tại sao không ghé thăm ngay hôm nay?\n\nWELLINGTON HEIGHTS\n Chúng tôi vượt trội hơn hẳn\n\nHãy tham gia cùng chúng tôi trong một vòng đấu ngay hôm nay!",
+    
+    Print_Text_MuldraughBakeSale_title = "Hội chợ Bán bánh Thường niên của Ủy ban Phụ nữ Muldraugh!",
+    Print_Text_MuldraughBakeSale_info = "Khi nào? Ngày 2 tháng 7!\n\nỞ đâu? Trong bãi đậu xe của Nhà thờ Holy Grace!\n\nBánh nướng VÀ trò chơi ném móng ngựa và vòng, và cưỡi ngựa pony. Vui vẻ cho cả gia đình!\n\nTất cả số tiền thu được sẽ được chuyển đến Ủy ban Phụ nữ Muldraugh. Gắn kết phụ nữ. Gây quỹ cho những người dễ bị tổn thương.",
+    
+    Print_Text_FarmingAndRuralSupplyDoeValley_title = "Cung cấp Nông nghiệp & Nông thôn",
+    Print_Text_FarmingAndRuralSupplyDoeValley_info = "Dụng cụ! Hạt giống! Súng ống! Quần áo bền chắc!\n\nBạn sẽ tìm thấy tất cả tại Cung cấp Nông nghiệp & Nông thôn.\n\nChúng tôi được nông dân, người làm vườn và thợ săn địa phương tin tưởng.\n\nChúng tôi đưa ra lời khuyên chuyên môn MIỄN PHÍ về bất cứ điều gì liên quan đến nông nghiệp. Chỉ cần hỏi!\n\nHãy đưa tờ rơi này tại địa điểm Fallas Lake của chúng tôi để nhận GÓI HẠT GIỐNG RAU MIỄN PHÍ (một gói cho mỗi khách hàng)",
+    
+    Print_Text_HavishamSuites_title = "Khách sạn Havisham Suites",
+    Print_Text_HavishamSuites_info = "Cánh cổng dẫn đến ước mơ của bạn.\n\nSANG TRỌNG và THƯ GIÃN.\n\nMột trải nghiệm sẽ kéo dài suốt đời.\n\nTại Havisham Suites, chúng tôi biết trải nghiệm quan trọng hơn vật chất. Vị trí tuyệt đẹp của chúng tôi ở Louisville, cách cầu Ohio hai dãy nhà về phía nam, có hai phòng hội nghị, một khán phòng và hơn hai trăm phòng khách sạn. Dù là công việc hay giải trí, vị trí đắc địa, nhân viên thân thiện và các chuyên gia pha chế cocktail chuyên nghiệp tại quầy bar của chúng tôi có nghĩa là Havisham Suites có đúng những gì bạn cần.\n\n130 Phố 1 Bắc, Louisville, Kentucky.",
+    
+    Print_Text_SunsetPinesFuneralHome_title = "Nhà tang lễ Sunset Pines",
+    Print_Text_SunsetPinesFuneralHome_info = "Tại Sunset Pines, bạn bước vào thế giới bên kia một cách phong cách!\n\nKhông cần phải chờ đợi. Lên kế hoạch và thanh toán cho đám tang của bạn ngay hôm nay.\n\nHãy để gia đình bạn tập trung vào những kỷ niệm vui vẻ của họ. Chọn từ nhiều loại quan tài phù hợp với mọi ngân sách, hoặc giữ đơn giản với việc hỏa táng. Các cố vấn sau cuộc sống của chúng tôi thậm chí sẽ giúp bạn giải quyết các thủ tục giấy tờ của cái chết.\n\nQUAN TÀI GỖ SỒI $500\n\nQUAN TÀI GỖ THÔNG $200\n\nQUAN TÀI GỖ ANH ĐÀO $400\n\nHãy biến nơi an nghỉ cuối cùng của bạn thành một nơi thoải mái.\n\n401 Phố East Main, Louisville, KY.",
+    
+    Print_Text_UStoreItRiverside_title = "U-Store It (Riverside)", -- Brand name
+    Print_Text_UStoreItRiverside_info = "Lưu trữ nó... tại U-Store It!\n\nKho khóa rộng rãi, giá cả phải chăng, cho mọi nhu cầu lưu trữ của bạn.\n\nTừ đồ nội thất gia đình và tác phẩm nghệ thuật, đến dụng cụ và lưu trữ an toàn súng và đạn dược. Từ thực phẩm không dễ hỏng, đến quần áo bạn không nỡ bỏ đi...\n\nLưu trữ nó... tại U-Store It!\n\nGiá chỉ từ 20 đô la mỗi tháng!\n\nNhận 3 kho khóa lớn với giá 2 cho đến ngày 9 tháng 7.\n\nRiverside, KY",
+    
+    Print_Text_UStoreItLouisville_title = "U-Store It (Louisville)", -- Brand name
+    Print_Text_UStoreItLouisville_info = "Lưu trữ nó... tại U-Store It!\n\nKho khóa rộng rãi, giá cả phải chăng, cho mọi nhu cầu lưu trữ của bạn.\n\nTừ đồ nội thất gia đình và tác phẩm nghệ thuật, đến dụng cụ và lưu trữ an toàn súng và đạn dược. Từ thực phẩm không dễ hỏng, đến quần áo bạn không nỡ bỏ đi...\n\nLưu trữ nó... tại U-Store It!\n\nGiá chỉ từ 20 đô la mỗi tháng!\n\nNhận 3 kho khóa lớn với giá 2 cho đến ngày 9 tháng 7.\n\nLouisville, KY",
+    
+    Print_Text_UStoreItMuldraugh_title = "U-Store It (Muldraugh)", -- Brand name
+    Print_Text_UStoreItMuldraugh_info = "Lưu trữ nó... tại U-Store It!\n\nKho khóa rộng rãi, giá cả phải chăng, cho mọi nhu cầu lưu trữ của bạn.\n\nTừ đồ nội thất gia đình và tác phẩm nghệ thuật, đến dụng cụ và lưu trữ an toàn súng và đạn dược. Từ thực phẩm không dễ hỏng, đến quần áo bạn không nỡ bỏ đi...\n\nLưu trữ nó... tại U-Store It!\n\nGiá chỉ từ 20 đô la mỗi tháng!\n\nNhận 3 kho khóa lớn với giá 2 cho đến ngày 9 tháng 7.\n\nMuldraugh, KY",
+    
+    Print_Text_WestMapleCountryClub_title = "Câu lạc bộ Đồng quê West Maple",
+    Print_Text_WestMapleCountryClub_info = "Câu lạc bộ Đồng quê West Maple: một lát cắt của thiên đường thể thao!\n\nSân golf 18 lỗ đẳng cấp thế giới của chúng tôi thu hút các chuyên gia từ khắp nơi trên thế giới...\n\n... nhưng golf chỉ là MỘT trong những điểm hấp dẫn của chúng tôi!\n\nBơi trong hồ bơi của chúng tôi.\n Chơi tennis, bóng quần hoặc bi-a\n Thư giãn và nạp năng lượng trong phòng chờ, quầy bar và nhà hàng ấm cúng của chúng tôi.\n\nVới giảm giá 5% hội viên cho thành viên mới và giảm giá 20% cho vợ của họ, chưa BAO GIỜ là thời điểm tốt hơn để tham gia!\n\nGọi (555)-WESTMCC hoặc ghé thăm chúng tôi trên Đường Lakeshore Parkway, Riverside.",
+    
+    Print_Text_WPDIY_title = "West Point DIY",
+    Print_Text_WPDIY_info = "TỪ CƯA VÀ BÚA\n\nĐẾN HẠT GIỐNG VÀ BÌNH TƯỚI...\n\nTỪ QUẦN ÁO BẢO HỘ VÀ XI MĂNG\n\nĐẾN ĐINH VÀ TẤM KIM LOẠI!\n\nChúng tôi cung cấp cho những người thợ giỏi nhất của West Point (cả nam và nữ!) những gì họ cần để HOÀN THÀNH CÔNG VIỆC.\n\nHãy đưa tờ rơi này tại cửa hàng để nhận một hộp đinh miễn phí*.\n\n*một hộp cho mỗi khách hàng\n\nTìm chúng tôi tại 405 Phố Main đối diện Seahorse Coffee.",
+    
+    Print_Text_WPTownHall_title = "Tòa thị chính West Point",
+    Print_Text_WPTownHall_info = ""Xin chào! Tôi là Richard Rosenwald, Thị trưởng West Point, thị trấn nhỏ với trái tim lớn!"\n\nBạn có thể không nhận ra, nhưng tòa thị chính của chúng tôi LUÔN sẵn sàng giúp đỡ, bất kể vấn đề gì.\n\nDân chủ hoạt động tốt nhất khi nó cởi mở, và chúng tôi luôn cởi mở với bạn!\n\nCần giúp đỡ về LUẬT PHÁP ĐỊA PHƯƠNG?\n Muốn tư vấn về GIẤY PHÉP?\n Cần biết QUYỀN CỦA BẠN với tư cách là công dân Mỹ?"\n\nGọi văn phòng của tôi theo số 555-2100, hoặc ghé thăm tôi tại Tòa thị chính trên Phố Third"",
+    
+    Print_Text_RiversideIndependenceDayPartyAllWelcome_title = "Bữa tiệc Ngày Độc lập Riverside",
+    Print_Text_RiversideIndependenceDayPartyAllWelcome_info = "TIỆC KHU PHỐ tại số 8 ĐƯỜNG KELLY ở RIVERSIDE vào ngày 4 tháng 7.\n\nÂM NHẠC, VUI VẺ, BIA, và đồ ăn tuyệt vời Đảm bảo!",
+    
+    Print_Text_HitVidsJobAdMarchRidge_title = "Hit Vids! Tuyển Trợ lý Bán lẻ", -- Brand name
+    Print_Text_HitVidsJobAdMarchRidge_info= "Hit Vids hiện đang tuyển dụng tại March Ridge!\n\nCó thái độ thân thiện, hữu ích VÀ yêu thích những bộ phim bom tấn mới nhất? Hãy liên hệ!\n\nHoàn toàn không yêu cầu kinh nghiệm! Nộp đơn ngay hôm nay.\n\n5565 Đại lộ Piers, March Ridge",
+    
+    Print_Text_MarchRidgeSchoolJobAd_title = "Trường March Ridge Cần tuyển Lao công",
+    Print_Text_MarchRidgeSchoolJobAd_info = "Chúng tôi KHẨN TRƯƠNG cần một lao công tại trường học của chúng tôi ở phía bắc March Ridge!\n\nƯu tiên kinh nghiệm làm sạch môi trường học đường.\n Lần này yêu cầu lý lịch tư pháp trong sạch.\n\nVui lòng liên hệ với hiệu trưởng Stanley Leemore theo số 555-6677 để biết thêm thông tin.\n\n121 Phố Folger, March Ridge",
+    
+    Print_Text_FossoilField_title = "Sân vận động Fossoil Field",
+    Print_Text_FossoilField_info = "CỐ LÊN BINKIES!\n\nCổ vũ cho đội KENTUCKY BINKIES tại sân vận động Fossoil Field!\n\nTHƯ GIÃN trên khán đài đã được cải tạo của chúng tôi.\n\nMUA đồ ăn Mỹ ngon tại các quầy hàng của chúng tôi.\n\nTẬN HƯỞNG tiếng nhạc organ sôi động.\n\nXEM đội bóng chày vĩ đại nhất từng xuất hiện ở Kentucky!\n\nVui vẻ cho cả gia đình, VÀ dịch vụ tiếp đãi doanh nghiệp!\n\nXin cảm ơn những người bạn của chúng tôi tại Fossoil!\n\n3800 Phố East Main, Louisville.",
+    
+    Print_Text_HouseforSale895_title= "Cần bán nhà số 895",
+    Print_Text_HouseforSale895_info= "Phòng ngủ: 2, Phòng tắm: 2, Diện tích: 1840 foot vuông, Giá: $52,000\n\nTìm một ngôi nhà mới trong ngôi nhà hai tầng xinh xắn này ở trung tâm West Point!\n\nTrường tiểu học xuất sắc gần đó.\n\nMặt tiền gạch quyến rũ.\n\nBao gồm vườn nhỏ và ga ra trên làn đường riêng phía sau nhà.\n\nGọi cho chúng tôi theo số 555-9029.\n\n1114 Phố Main, West Point, KY.",
+    
+    Print_Text_HouseforSale903_title= "Cần bán nhà số 903",
+    Print_Text_HouseforSale903_info= "Phòng ngủ: 3 (tiềm năng), Phòng tắm: 2, Diện tích: 1350 foot vuông, Giá: $70,000\n\nMột nơi ở hai tầng rộng rãi nằm trong khu vực riêng tư ở trung tâm Muldraugh.\n\nCó một khu vườn rộng rãi với hàng rào cao để đảm bảo sự riêng tư.\n\nNằm cách đường cao tốc chính đến West Point và Louisville chỉ một đoạn lái xe ngắn.\n\nĐặt lịch xem và tự mình khám phá!\n\nGọi cho chúng tôi theo số 555-9029.\n\n625 Phố Dewey, Muldraugh, KY.",
+    
+    Print_Text_HouseforSale922_title= "Cần bán nhà số 922",
+    Print_Text_HouseforSale922_info= "Phòng ngủ: 1, Phòng tắm: 1, Diện tích: 670 foot vuông, Giá: $30,000\n\nBán nhà gỗ nhỏ gọn. Nằm ở rìa phía nam của Rosewood.\n\nĐược bao bọc bởi những khu rừng sâu hùng vĩ, vị trí này chắc chắn sẽ trở thành một khu vực được săn đón trong những năm tới!\n\nCác vấn đề cấu trúc thú vị sẽ hấp dẫn những người thích cải tạo nhà ở khắp mọi nơi.\n\nGọi cho chúng tôi theo số 555-9029.\n\n78 Đường St. Martin, Rosewood, KY.",
+    
+    Print_Text_HouseforSale934_title= "Cần bán nhà số 934",
+    Print_Text_HouseforSale934_info= "Phòng ngủ: 2, Phòng tắm: 2, Diện tích: 1240 foot vuông, Giá: $20,000\n\nNgôi nhà hai tầng mộc mạc nằm trong khu vực lịch sử.\n\nCách đều giữa Riverside và Brandenburg: giấc mơ của người đi làm.\n\nMặc dù khu phố hiện đang được cải tạo, với một chút tinh thần cộng đồng, nó sẽ sớm trở lại bình thường!\n\nGọi cho chúng tôi theo số 555-9029.\n\n575 Đường Wilson, Riverside, KY.",
+    
+    Print_Text_PremiseswithApartmentsforLeaselistingno891_title= "Mặt bằng cho thuê số 891",
+    Print_Text_PremiseswithApartmentsforLeaselistingno891_info= "Phòng ngủ: Không áp dụng, Phòng tắm: 3, Diện tích: 3650 foot vuông, Giá: $500 mỗi tháng\n\nNhà hàng rộng rãi với hai căn hộ tầng hai cho thuê, cùng nhau hoặc riêng biệt, ở trung tâm Irvington. Cả hai đều cần cải tạo nhưng có tiềm năng rất lớn.\n\nNhà hàng đi kèm với đồ đạc bao gồm hai bếp nấu. Căn hộ hoàn hảo cho thợ mộc chuyên nghiệp hoặc người siêng năng. Với một chút công sức, tài sản này có thể dễ dàng mang lại lợi nhuận lớn!\n\nGọi cho chúng tôi theo số 555-9029.\n\n217 Đại lộ 1, Irvington, KY.",
+    
+    Print_Text_HouseforSale907_title= "Cần bán nhà số 907",
+    Print_Text_HouseforSale907_info= "Phòng ngủ: 2, Phòng tắm: 1, Diện tích: 1300 foot vuông, Giá: $55,000\n\nNgôi nhà hai tầng ấm cúng với khu vườn rộng rãi, ở phía bắc Muldraugh.\n\nNhà bếp cần cải tạo một chút. Vị trí yên tĩnh, thư giãn.\n\nNgôi nhà hoàn hảo cho một cặp đôi yêu thương để tạo ra những kỷ niệm sẽ tồn tại suốt đời!\n\nGọi cho chúng tôi theo số 555-9029.\n\n106 Đường Walker, Muldraugh, KY.",
+    
+    Print_Text_YourLocalShelterBrandenburg_title= "Hầm trú ẩn Địa phương của Bạn (Brandenburg)",
+    Print_Text_YourLocalShelterBrandenburg_info= "Bạn sẽ làm gì, nếu điều tồi tệ nhất xảy ra?\n\nBạn có nơi nào để đi không?\n\nTrong trường hợp khẩn cấp bao gồm, nhưng không giới hạn ở, các sự kiện thời tiết khắc nghiệt, kẻ thù xâm lược và động đất... bạn nên có một kế hoạch.\n\nVới một khoản thanh toán hàng tháng hợp lý, bạn có thể yên tâm!\n\nGọi 555-4646.\n\nHẦM TRÚ ẨN GẦN NHẤT: 712 Phố High, Brandenburg\n\nSỨC CHỨA THOẢI MÁI: 60\n SỨC CHỨA TỐI ĐA: 120\n DÀI HẠN HAY TẠM THỜI: Tạm thời",
+    
+    Print_Text_HouseforSale912_title= "Cần bán nhà số 912",
+    Print_Text_HouseforSale912_info= "Phòng ngủ: 1, Phòng tắm: 1, Diện tích: 390 foot vuông, Giá: $32,500\n\nNhà gỗ nhỏ gọn với hàng rào cao xung quanh để đảm bảo sự riêng tư tối đa.\n\nVị trí này mang lại sự cân bằng hoàn hảo giữa sự cô tịch và tính thực tế, với Muldraugh trong khoảng cách đi bộ dễ dàng.\n\nMột khu rừng xung quanh cũng làm cho nơi này hoàn hảo cho những người yêu thiên nhiên.\n\nGọi cho chúng tôi theo số 555-9029.\n\n213 Đường Irma, Muldraugh, KY.",
+    
+    Print_Text_HouseforSale915_title= "Cần bán nhà số 915",
+    Print_Text_HouseforSale915_info= "Phòng ngủ: 3, Phòng tắm: 2, Diện tích: 3850 foot vuông, Giá: $125,000\n\nNgôi nhà hai tầng ở vị trí đáng kinh ngạc bên cạnh sông Ohio phía tây West Point.\n\nBa phòng ngủ, hai phòng tắm. Mặt tiền bằng đá và gạch đẹp.\n\nNgay bên kia đường là một hồ nước tuyệt đẹp, hoàn hảo để câu cá, hoặc chỉ đi dạo thư giãn.\n\nGọi cho chúng tôi theo số 555-9029.\n\n3 Đường Prewitt, West Point, KY.",
+    
+    Print_Text_HouseforSale943_title= "Cần bán nhà số 943",
+    Print_Text_HouseforSale943_info= "Phòng ngủ: 2, Phòng tắm: 2, Diện tích: 2150 foot vuông, Giá: $65,000\n\nNgôi nhà hai tầng đầy màu sắc ngay phía bắc Rosewood, với ba mẫu đất và cơ sở vật chất cho gia súc.\n\nVị trí nông thôn, yên tĩnh. Hoàn hảo cho một nông dân quy mô nhỏ thích cuộc sống chậm rãi.\n\nGọi cho chúng tôi theo số 555-9029.\n\n132 Đường Flaherty, Rosewood, KY.",
+    
+    Print_Text_HouseforSale930_title= "Cần bán nhà số 930",
+    Print_Text_HouseforSale930_info= "Phòng ngủ: 3, Phòng tắm: 2, Diện tích: 2000 foot vuông, Giá: $70,000\n\nNơi ở hai tầng quyến rũ, rộng rãi với vườn chung, chỉ cách Riverside một phút lái xe.\n\nGiúp đỡ hàng xóm của bạn với cây trồng của họ và chia sẻ thu hoạch của họ, hoặc gắn bó với mảnh đất riêng của bạn bên cạnh nhà - tùy thuộc vào bạn!\n\nVị trí hoàn hảo cho cả những người làm vườn nghiệp dư và nông dân lão luyện.\n\nGọi cho chúng tôi theo số 555-9029.\n\n739 Đường Olin, Riverside, KY.",
+    
+    Print_Text_HouseforSale929_title= "Cần bán nhà số 929",
+    Print_Text_HouseforSale929_info= "Phòng ngủ: Không áp dụng, Phòng tắm: Không áp dụng, Diện tích: 1000 foot vuông, Giá: $20,000\n\nNhà chưa có nội thất ở vị trí cực kỳ an ninh.\n\nNằm ngay phía tây trung tâm Rosewood giữa một khu rừng và một loạt cửa hàng.\n\nVị trí hoàn hảo cho những ai muốn được bao quanh bởi thiên nhiên mà không phải hy sinh sự tiện lợi.\n\nGọi cho chúng tôi theo số 555-9029.\n\n70 Đường Frederick, Rosewood, KY.",
+    
+    Print_Text_HouseforSale919_title= "Cần bán nhà số 919",
+    Print_Text_HouseforSale919_info= "Phòng ngủ: 3, Phòng tắm: 3, Diện tích: 3875 foot vuông, Giá: $90,000\n\nTìm ngôi nhà mãi mãi của bạn ngay phía bắc Ekron.\n\nNằm ở cuối một con đường riêng và tọa lạc trong một khung cảnh nông thôn đẹp như tranh vẽ.\n\nBất động sản hai tầng rộng rãi bao gồm một khu vườn rộng rãi. Một vị trí hoàn hảo cho một gia đình lớn.\n\nGọi cho chúng tôi theo số 555-9029.\n\n8 Đường Old Ekron, Ekron, KY.",
+    
+    Print_Text_HouseforSale845_title= "Cần bán nhà số 845",
+    Print_Text_HouseforSale845_info= "Phòng ngủ: 3, Phòng tắm: 3, Diện tích: 2700 foot vuông, Giá: $75,000\n\nNgôi nhà hai tầng được bảo trì tốt với mười mẫu đất nông nghiệp, cùng với các tòa nhà phụ, chuồng gà và giếng riêng.\n\nNơi ở này tỏa ra nét quyến rũ mộc mạc - một ngôi nhà mãi mãi hoàn hảo cho một gia đình nông dân!\n\nGọi cho chúng tôi theo số 555-9029.\n\n1 Đường Buck, Muldraugh, KY.",
+    
+    Print_Text_HouseforSale851_title= "Cần bán nhà số 851",
+    Print_Text_HouseforSale851_info= "Phòng ngủ: 2, Phòng tắm: 2, Diện tích: 1450 foot vuông, Giá: $110,000\n\nMột trang trại tự cung tự cấp, vững chắc với đất nông nghiệp kèm theo rộng 12 mẫu Anh. Có cơ sở vật chất cho gia súc, gà, và nhiều hơn nữa!\n\nNằm ở vị trí hoàn hảo, cách đều Muldraugh, Rosewood và Doe Valley.\n\nGiấc mơ của một nông dân!\n\nGọi cho chúng tôi theo số 555-9029.\n\nĐường Balsam, Muldraugh, KY.",
+    
+    Print_Text_HouseforSale855_title= "Cần bán nhà số 855",
+    Print_Text_HouseforSale855_info= "Phòng ngủ: 1, Phòng tắm: 1, Diện tích: 450 foot vuông, Giá: $40,000\n\nNhà gỗ nhỏ gọn, ấm cúng nằm ngay phía tây Riverside, và ngay phía nam sông Ohio hùng vĩ.\n\nBao gồm ga ra và nhà kho dụng cụ.\n\nNơi hoàn hảo để đi bộ dài bên bờ sông!\n\nGọi cho chúng tôi theo số 555-9029.\n\n3 Đường Long Branch, Riverside, KY.",
+    
+    Print_Text_HouseforSale860_title= "Cần bán nhà số 860",
+    Print_Text_HouseforSale860_info= "Phòng ngủ: 2, Phòng tắm: 2, Diện tích: 1500 foot vuông, Giá: $75,000\n\nNằm ở trung tâm trong một khu phố thân thiện, yên tĩnh ở Muldraugh, với hàng rào cao để đảm bảo sự riêng tư.\n\nNội thất hai tầng được trang trí tuyệt vời này phải được nhìn thấy mới có thể đánh giá hết!\n\nGọi cho chúng tôi theo số 555-9029.\n\n751 Phố E Maple, Muldraugh, KY.",
+    
+    Print_Text_PremisesforLease863_title = "Mặt bằng cho thuê số 863",
+    Print_Text_PremisesforLease863_info = "Phòng ngủ: Không áp dụng, Phòng tắm: 2, Diện tích: 635 foot vuông, Tiền thuê: $1,000 mỗi tháng\n\nKhông gian văn phòng rộng rãi cho thuê tại vị trí trung tâm được săn đón ở West Point.\n\nTất cả các tiện nghi của West Point đều nằm trong khoảng cách đi bộ.\n\nChắc chắn sẽ được thuê nhanh chóng - liên hệ ngay hôm nay!\n\nGọi cho chúng tôi theo số 555-9029.\n\n302 Phố 3, West Point, KY.",
+    
+    Print_Text_HouseforSale867_title= "Cần bán nhà số 867",
+    Print_Text_HouseforSale867_info= "Phòng ngủ: 2, Phòng tắm: 2, Diện tích: 2150 foot vuông, Giá: $65,000\n\nNằm ở vị trí lý tưởng cho nông dân hoặc những người yêu thiên nhiên, bất động sản hai tầng này cung cấp nhiều không gian cho trẻ em và động vật.\n\nNgắm nhìn thế giới trôi qua từ hiên nhà, với ly mint julep trên tay!\n\nGọi cho chúng tôi theo số 555-9029.\n\n899 Đường Mercer, West Point, KY.",
+    
+    Print_Text_HouseforSale799_title= "Cần bán nhà số 799",
+    Print_Text_HouseforSale799_info= "Phòng ngủ: Không áp dụng, Phòng tắm: Không áp dụng, Diện tích: 1000 foot vuông, Giá: $25,000\n\nNằm ở trung tâm Brandenburg, ngay phía bắc Trường Trung học Maj. Saunders, ngôi nhà chưa có nội thất này thực sự là một món hời.\n\nNội thất chưa hoàn thiện có nghĩa là bạn có thể tạo dấu ấn riêng cho ngôi nhà này! Đi kèm với một ga ra rộng rãi.\n\nGọi cho chúng tôi theo số 555-9029.\n\n48 Đường Howard, Brandenburg, KY.",
+    
+    Print_Text_HouseforSale818_title= "Cần bán nhà số 818",
+    Print_Text_HouseforSale818_info= "Phòng ngủ: Không áp dụng, Phòng tắm: 1 Diện tích: 645 foot vuông, Giá: $18,000\n\nTìm thấy sự bình yên trong ngôi nhà gỗ quyến rũ này ở Echo Creek.\n\nMặc dù có phần bị bỏ bê, một chút công sức sẽ biến viên ngọc thô này thành một viên kim cương được đánh bóng!\n\nGọi cho chúng tôi theo số 555-9029.\n\n8 Đại lộ Forrest, Echo Creek, KY.",
+    
+    Print_Text_HouseforSale787_title= "Cần bán nhà số 787",
+    Print_Text_HouseforSale787_info= "Phòng ngủ: 2, Phòng tắm: 1, Diện tích: 800 foot vuông, Giá: $30,000\n\nNằm ở vị trí lý tưởng ở rìa phía đông của Brandenburg, các cửa hàng và trường học nằm trong khoảng cách đi bộ dễ dàng từ ngôi nhà gỗ xinh đẹp này, trong khi các con đường đi bộ trong rừng gần đó và một hồ nước đảm bảo bạn cũng có được những gì tốt nhất của thiên nhiên.\n\nBạn thực sự sẽ bị thổi bay bởi ngôi nhà này!\n\nGọi cho chúng tôi theo số 555-9029.\n\n64 Phố Broadway, Brandenburg, KY.",
+    
+    Print_Text_GreenesJobAdEkron_title= "Greene's", -- Business Name
+    Print_Text_GreenesJobAdEkron_info= "Cần người làm việc trung thực tốt cho Greene's ở Ekron.\n\nKhông nhận thanh thiếu niên hay người hỗn láo. Chỉ cần làm việc chăm chỉ kiểu Mỹ.\n\n$5 mỗi giờ. Sẽ phải làm thêm giờ.\n\nĐào tạo về cách sử dụng máy tính tiền sẽ được cung cấp nếu thấy cần thiết.\n\nViết thư đến: Greene's, 15 Đường Haysville, Ekron, KY.",
+    
+    Print_Text_CabinforRentDixie_title= "Cabin cho thuê",
+    Print_Text_CabinforRentDixie_info= " ở Dixie, ngay phía bắc ga xe lửa Muldraugh\n\nCơ sở vật chất ngoài trời\n Không xả rác bừa bãi\n Không làm mất thời gian\n\nGọi Zip theo số 555-6932",
+    
+    Print_Text_FallasLakeChurch_title= "Buổi cầu nguyện tại Nhà thờ Fallas Lake",
+    Print_Text_FallasLakeChurch_info= "7/7/93 @ 8 giờ tối\n\nCộng đồng địa phương của chúng ta sẽ tập hợp để cầu nguyện đặc biệt rằng chính quyền sẽ được hướng dẫn bởi Bàn tay Nhân từ của Chúa Giêsu, và rằng Ngài sẽ tha cho chúng ta khỏi bệnh dịch của Ngài.\n\nTrình bày bởi Mục sư Robert Clay.\n\nTất cả đều được chào đón.\n\nXin Chúa thương xót chúng ta.\n\n(Vui lòng không đến nếu bạn cảm thấy không khỏe)",
+    
+    Print_Text_OldCGECorpBuilding_title= "Tòa nhà CGE Corp cũ",
+    Print_Text_OldCGECorpBuilding_info= "BẢO TỒN DI SẢN CỦA CHÚNG TA\n\nChính phủ Kentucky đang có kế hoạch PHÁ DỠ tòa nhà CGE Corp ở phía đông Brandenburg.\n\nChúng ta không thể để điều này xảy ra!\n\nKiến trúc, bao gồm cả cầu vượt trên không khác thường, làm cho nơi này trở thành một phần ĐỘC ĐÁO của lịch sử Kentucky!\n\nCGE đã cung cấp hàng chục việc làm sản xuất từ năm 1961-1980, và tòa nhà nên được biến thành một bảo tàng để bảo tồn phần quan trọng này của lịch sử Kentucky!\n\nLIÊN HỆ VỚI ĐẠI DIỆN ĐỊA PHƯƠNG CỦA BẠN VỀ VẤN ĐỀ QUAN TRỌNG NÀY\n\nCHUYỂN TIẾP TỜ RƠI NÀY",
+    
+    Print_Text_RustyRifle_title= "The Rusty Rifle", -- Bar Name
+    Print_Text_RustyRifle_info= "MỖI THỨ SÁU TẠI\n\nTHE RUSTY RIFLE\n\nBAN NHẠC ĐỊA PHƯƠNG "THE BANJO BOYS"\n\nLY RƯỢU CỠ LỚN ĐẶC BIỆT\n\nGIẢM 10% CHO BA LY BIA ĐẦU TIÊN\n\nPHỤ NỮ. NHẠC ĐỒNG QUÊ. KHOẢNH KHẮC TUYỆT VỜI.\n\nHÃY THAM GIA CÙNG CHÚNG TÔI Ở RÌA PHÍA NAM CỦA MULDRAUGH\n\nĐỪNG BỎ LỠ\n\n820 ĐƯỜNG CAO TỐC DIXIE, MULDRAUGH",
+    
+    Print_Text_TheSeaShanty_title = "The Sea Shanty", -- Restaurant Name
+    Print_Text_TheSeaShanty_info = "Đĩa Hải sản $9.99\n Cá Chiên Giòn $5.99\n Tôm Sốt Bơ Tỏi $6.99\n\nBạn làm gì với một đĩa hải sản?\n Bạn làm gì với cá bị chiên giòn...\n\nHãy dong buồm đến Sea Shanty, hỡi những người bạn thủy thủ của tôi!\n\nThử đĩa tôm của chúng tôi với giá $9.99!\n Đặc sản cua và tôm hùm vào mỗi thứ Bảy!\n Đừng quên món đặc biệt surf-and-turf (bò và hải sản) vào thứ Ba với giá $6.99!\n\n48 Công viên Bờ sông, Louisville\n\nHãy đưa tờ rơi này cho nhân viên phục vụ để được giảm giá 10% cho tôm hùm",
+    
+    Print_Text_NailsAndNuts_title = "Nails & Nuts", -- Store Name
+    Print_Text_NailsAndNuts_info = "Tự làm với sự giúp đỡ của Nails & Nuts!\n\nChúng tôi có đầy đủ búa, tuốc nơ vít, cưa và mọi dụng cụ khác mà bạn có thể cần.\n\nTrông thật phong cách khi làm việc với bộ sưu tập quần áo lao động của chúng tôi.\n\nMIỄN PHÍ! Xuất trình tờ rơi này tại cửa hàng Riverside của chúng tôi để nhận miễn phí áo ghi lê phản quang!\n\n15 Đại lộ Rogers, Riverside",
+    
+    Print_Text_HighStreetApartments_title = "Chung cư Phố High",
+    Print_Text_HighStreetApartments_info = "Hãy đến sống ở Phố High\n\nCác căn hộ sang trọng rộng rãi của chúng tôi chỉ thiếu một thứ: bạn!\n\nTất cả các căn hộ đầy đủ tiện nghi của chúng tôi đều có bếp đầy đủ, phòng khách, bàn làm việc, tủ sách và tivi.\n\nNằm ngay phía đông Nhà thờ St. Michael, sống ở đây sẽ là một phước lành - và một phép màu!\n\nGọi cho chúng tôi theo số 555-3344 để xem nhà mà không bị áp lực.",
+    
+    Print_Text_LowryCourt_title = "Lowry Court", -- Apartment complex name
+    Print_Text_LowryCourt_info = "Căn hộ ấm cúng, giá cả phải chăng để bán ở trung tâm thành phố Louisville\n\nNằm ở vị trí trung tâm, bạn sẽ tìm thấy một cuộc sống mới tại Lowry Court.\n\nThiết kế tòa nhà và hàng rào an ninh của chúng tôi đảm bảo bạn không bao giờ phải lo lắng về sự an toàn cá nhân của mình nữa!\n\n1244 Phố Kilkenny, Louisville, KY",
+    
+    Print_Text_MeadshireEstate_title= "Khu dân cư Meadshire",
+    Print_Text_MeadshireEstate_info= "Cộng đồng dân cư có cổng độc quyền của chúng tôi đang tìm kiếm người thuê và chủ nhà mới!\n\nNằm trong khung cảnh đẹp như tranh vẽ ở phía đông Ekron, Meadshire đảm bảo sự riêng tư VÀ an ninh.\n\nTất cả các ngôi nhà hai tầng đầy đủ tiện nghi của chúng tôi đều có kiến trúc hiện đại kết hợp với mặt tiền gạch đỏ cổ điển và một ga ra rộng rãi kèm theo.\n\nChuyển đến Meadshire. Bắt đầu một cuộc sống hạnh phúc hơn.",
+    
+    Print_Text_LeafhillHeights_title= "Leafhill Heights", -- Office complex name
+    Print_Text_LeafhillHeights_info= "Tìm kiếm không gian văn phòng đẳng cấp thế giới?\n\nHãy thử Leafhill Heights.\n\nHạ tầng đẳng cấp thế giới.\n Dòng sinh viên tốt nghiệp LSU được đào tạo bài bản liên tục.\n Không gian phù hợp với mọi nhu cầu.\n\nLeafhill Heights là cơ sở bạn cần trong một thế giới không ngừng thay đổi.\n\nTừ phần mềm đến tài chính, từ học thuật đến công nghiệp: luôn có không gian để phát triển.\n\nVăn phòng Leafhill Heights\n Đường Lower River, Louisville, KY",
+    
+    Print_Text_PileoCrepeJobAdCrossRoadsMall_title = "Pile o' Crepe Tuyển Quản lý", -- Restaurant Name
+    Print_Text_PileoCrepeJobAdCrossRoadsMall_info= "Cần tuyển quản lý tại cửa hàng của chúng tôi bên cạnh Trung tâm mua sắm Crossroads. Yêu cầu năm năm kinh nghiệm trong môi trường bận rộn. Lương rất cạnh tranh, xe công ty.\n\nNộp hồ sơ tại địa chỉ bên dưới, hoặc gọi cho chúng tôi theo số 555-3492.\n\n1125 Đường Bearcamp, Louisville, Kentucky",
+    
+    Print_Text_MailCarrierAdEkron_title= "Quảng cáo Tuyển Nhân viên Giao thư (Ekron)",
+    Print_Text_MailCarrierAdEkron_info= "Dịch vụ Bưu chính Hoa Kỳ đang tìm kiếm NHÂN VIÊN GIAO THƯ tại các khu vực EKRON và IRVINGTON.\n\nƯu tiên cao kiến thức về địa phương. Có đào tạo. Yêu cầu bằng lái xe đầy đủ.\n\nỨng viên thành công sẽ thân thiện, kiên nhẫn, lịch sự và có sự chú ý tốt đến chi tiết.\n\nGửi hồ sơ đến US MAIL, 276 ĐẠI LỘ REESE, EKRON, KY40711",
+    
+    Print_Text_BrandenburgFD_title= "Sở Cứu Hỏa Brandenburg",
+    Print_Text_BrandenburgFD_info= "Đừng để quá muộn. Phòng cháy ngay hôm nay.\n\nLưu trữ vật liệu dễ cháy một cách an toàn.\n Không bao giờ làm quá tải ổ cắm điện.\n Không để lò nướng bật khi bạn rời khỏi nhà.\n Có một lộ trình thoát hiểm khi có hỏa hoạn.\n Không mặc quần áo dễ cháy khi hút thuốc.\n\nNếu đám cháy vượt khỏi tầm kiểm soát, HÃY GỌI 911 NGAY LẬP TỨC!\n\nThông tin được cung cấp bởi Sở Cứu Hỏa Brandenburg, 450 Đường Boyd, Brandenburg, KY.",
+    
+    Print_Text_LectromaxManufacturingJobAd_title= "Lectromax Manufacturing", -- Company Name
+    Print_Text_LectromaxManufacturingJobAd_info= "CÓ VIỆC LÀM\n\nLectromax Manufacturing đang tuyển dụng một người vận hành có kinh nghiệm để làm việc tại nhà máy của chúng tôi ở phía tây nam Riverside.\n\nCông việc bao gồm cắt và tạo hình lưỡi cưa. Yêu cầu kinh nghiệm vận hành máy tiện và máy ép thủy lực.\n\nVui lòng gửi hồ sơ và thư giới thiệu đến địa chỉ được liệt kê bên dưới. Lương thỏa thuận.\n\n740 Đường Olin, Riverside, Kentucky",
+    
+    Print_Text_PizzaWhirledJobAdRosewood_title = "Quảng cáo Việc làm Pizza Whirled", -- Restaurant Name
+    Print_Text_PizzaWhirledJobAdRosewood_info = "Hôm nay chúng ta đang ở đâu trong Pizza Whirled?\n\nChúng tôi mang hương vị thế giới đến cho bạn, từng lát một, trên một chiếc bánh pizza!\n\nĐược tạo ra cho những ngày sinh nhật tuyệt vời nhất, hoàn hảo cho các bữa tiệc pizza, phù hợp cho các chuyến đi chơi xã hội, và thậm chí cả đám cưới.\n\nBất kể dịp nào, bạn sẽ rời khỏi Whirled (Thế giới) của chúng tôi với sự kinh ngạc về những kỳ quan toàn cầu - trên pizza!\n\nHãy thực hiện một hành trình đến Pizza Whirled địa phương của bạn ngay hôm nay!\n\nMang tờ rơi này đến nhà hàng của chúng tôi ở phía bắc Rosewood để được giảm giá 10% cho bất kỳ loại topping pizza nào, và một lon soda miễn phí!*\n\n*đến ngày 1/7/93\n\n477 Phố Main, Rosewood",
+    
+    Print_Text_CircuitalHealing_title = "Sửa chữa Máy tính Circuital Healing",
+    Print_Text_CircuitalHealing_info = "Cần sửa radio? TV của bạn bị hỏng? Bộ xử lý văn bản cần cập nhật?\n\nHãy đến Circuital Healing ở Ekron!\n\nHơn 20 năm kinh nghiệm sửa chữa và bảo trì điện tử.\n\nNếu nó có tia lửa, chúng tôi có thể sửa nó!\n\n4B Đại lộ Parkway, Ekron, KY",
+    
+    Print_Text_McCoyLoggingCorp_title = "Công ty Khai thác Gỗ McCoy",
+    Print_Text_McCoyLoggingCorp_info = "CẦN TUYỂN TIỀU PHU\n\nCần những người đàn ông đáng tin cậy cho công việc nặng nhọc tại xưởng của chúng tôi.\n\nCông việc bao gồm sử dụng thiết bị công nghiệp, cũng như rìu và cưa để tách quy mô nhỏ hơn và chế biến gỗ tùy chỉnh. Khả năng lái xe tải được coi là một lợi thế.\n\nCông ty Khai thác Gỗ McCoy. Làm cho cây cối trở nên hữu ích từ năm 1914.\n\nĐường Old Mill, Muldraugh, KY",
+    
+    Print_Text_DuCaseApartments_title = "Chung cư Du Case",
+    Print_Text_DuCaseApartments_info = "Tiền thuê từ $450 mỗi tháng.\n\nTận hưởng tầm nhìn ra sông Ohio từ một trong những căn hộ giá cả phải chăng của chúng tôi ở phía bắc Louisville.\n\nChúng tôi có một lựa chọn tuyệt vời phù hợp với mọi lối sống và ngân sách.\n\nBãi đậu xe riêng cho cư dân. An ninh 24 giờ.\n\nBạn có thể dành phần còn lại của cuộc đời mình ở đây!",
+    
+    Print_Text_RedOakApartments_title = "Chung cư Red Oak",
+    Print_Text_RedOakApartments_info = "Căn hộ đầy đủ tiện nghi có sẵn ở trung tâm Louisville.\n\nPhía nam Trung tâm mua sắm Grand Ohio.\n\nTừ những phòng đơn ấm cúng đến những căn hộ phù hợp cho gia đình lớn, bạn sẽ tìm thấy ngôi nhà mới của mình ở đây!\n\nTiền thuê bắt đầu từ $500 mỗi tháng.",
+    
+    Print_Text_DinerInTheWoods_title = "Quán ăn trong rừng",
+    Print_Text_DinerInTheWoods_info = "Hiện mở cửa từ tháng 4 đến tháng 9, ngoài đường mòn đi bộ phía nam West Point.\n\nNhững bữa ăn ngon sẽ tăng cường năng lượng cho bạn - hoặc thưởng cho bạn vì đã đến được đây!\n\nHãy đưa tờ rơi này tại quán ăn để nhận một chai nước miễn phí.\n\nCông viên Duffield, West Point, Kentucky\n\nGỌI TRƯỚC ĐỂ ĐẢM BẢO CHÚNG TÔI MỞ CỬA",
+    
+    Print_Text_LSU_title = "Đại học Bang Louisville (LSU)",
+    Print_Text_LSU_info = "Tiến lên, LSU!\n\nViện giáo dục uy tín nhất Kentucky - thành lập năm 1798!\n\nHọc tập với chúng tôi, bất kể tương lai của bạn là gì! Nhân văn, Máy tính, Sinh học Virus Truyền nhiễm, Tâm lý học Thể thao và nhiều hơn nữa...\n\nHàng trăm giảng viên được đào tạo bài bản đảm bảo một nền giáo dục ĐẲNG CẤP THẾ GIỚI!\n\nVà Bang Louisville không chỉ có học tập...\n Các đội thể thao thường xuyên đứng đầu các giải đấu tiểu bang và quốc gia\n Các câu lạc bộ để tham gia, và cuộc sống về đêm lành mạnh tại địa phương\n Các bữa tiệc bia (Keg parties)\n Tình bạn sẽ kéo dài suốt đời.\n\nMở ra cánh cửa cho phần còn lại của cuộc đời bạn...\n\nĐường Old Seminary, Louisville, Kentucky",
+    
+    Print_Text_RosewoodFD_title = "Sở Cứu Hỏa Rosewood",
+    Print_Text_RosewoodFD_info = "MẸO AN TOÀN PHÒNG CHÁY CHỮA CHÁY\n\nNÊN:\nKiểm tra thiết bị báo khói\nTrang bị bình chữa cháy và chăn\nGọi 911 nếu có hỏa hoạn xảy ra\n\nKHÔNG NÊN:\nDùng nước dập lửa do dầu hoặc điện\nQuên chuẩn bị kế hoạch sơ tán\nĐể lò nướng bật mà không ai trông\n\nNẾU ĐÁM CHÁY VƯỢT QUÁ TẦM KIỂM SOÁT, HÃY GỌI 911 VÀ SƠ TÁN NGAY LẬP TỨC\n\nThông tin được cung cấp bởi Sở Cứu Hỏa Rosewood, 110 Phố Main, Rosewood, KY",
+    
+    Print_Text_FarmersMarket_title= "Chợ Nông sản",
+    Print_Text_FarmersMarket_info= "ĂN RAU CỦA BẠN ĐI!\n\nTìm những sản phẩm TỐT NHẤT! Ngay gần Quốc lộ 60 tây bắc March Ridge!\n\nChúng tôi có cà rốt, khoai tây, bắp cải tươi nhất và nhiều hơn nữa...\n\n... tất cả đều được trồng tại địa phương bởi những người dân địa phương sinh ra và lớn lên ở đây\n\nKhông gì bằng lòng tốt tự trồng của Kentucky!",
+    
+    Print_Text_MuldraughPD_title= "Sở Cảnh sát Muldraugh",
+    Print_Text_MuldraughPD_info= "Cộng đồng của chúng ta. Sự bảo vệ của chúng ta.\n\nTất cả đều được chào đón tham gia cuộc họp công khai của chúng tôi về tội phạm trong khu vực Muldraugh.\n Chương trình nghị sự của chúng tôi bao gồm:\n - Vụ trộm một chiếc Chevalier Dart\n - Việc đổ rác trộm bên Quốc lộ 31W\n - Sự gia tăng săn bắn trái phép\n - Hàng loạt vụ trộm máy phát điện\n - Sự gia tăng gần đây của nạn trộm cắp vặt\n Muldraugh là một nơi an toàn và hạnh phúc - hãy đến để tìm hiểu cách giữ gìn nó như vậy.\n\nHỘI NGHỊ TỘI PHẠM CỘNG ĐỒNG\n 16 tháng 6 @ 9 giờ tối,\n Sở Cảnh sát Muldraugh, 230 Phố Wilson",
+    
+    Print_Text_ArtGalleryofLouisville_title = "Phòng trưng bày Nghệ thuật Louisville",
+    Print_Text_ArtGalleryofLouisville_info = "Mở rộng tâm trí của bạn, từng bức tranh một!\n\nKhám phá các bức tranh cổ điển như Đêm Đầy Sao, Người Du mục Trên Màn Sương và Aaaaah!\n\nHãy lên lầu để xem nghệ thuật hiện đại bao gồm tác phẩm của nghệ sĩ đoạt giải thưởng Ashling Dwyer.\n\nVào cửa miễn phí cho người cao tuổi. Giảm nửa giá cho trẻ em dưới 12 tuổi.\n\nTìm chúng tôi ở phía bắc Louisville, cách cây cầu hai dãy nhà về phía nam, tại 2023 Phố 1 Bắc.\n\n",
+    
+    Print_Text_LVPDHQ_title= "Hội thảo Công khai về Ma túy",
+    Print_Text_LVPDHQ_info= "HỘI THẢO HƯỚNG DẪN VỀ MA TÚY TẠI TRỤ SỞ CẢNH SÁT LOUISVILLE, 635 ĐƯỜNG INDUSTRY\n\nNgày 5 tháng 7 năm 1993, 7 giờ tối\n\nTìm hiểu về sự nguy hiểm của nghiện ma túy, các loại ma túy cửa ngõ phổ biến và những cách thức ngấm ngầm mà các băng đảng lợi dụng những người dễ bị tổn thương.\n\nCảnh sát trưởng Graham sẽ trưng bày một loạt các loại ma túy bị thu giữ từ đường phố của chúng ta, và cho chúng ta biết ma túy KHÔNG chỉ là vấn đề của người khác và tội phạm.\n\nBác sĩ Tara Handel sẽ nói về kinh nghiệm của chính mình với chứng nghiện ma túy và làm thế nào LUÔN có sự giúp đỡ và hy vọng.\n\nJohn Barrister của tờ Kentucky Herald sẽ kể cho chúng ta nghe một số câu chuyện tội phạm thú vị từ thành phố xinh đẹp của chúng ta. Hãy mang theo một tâm trí cởi mở và một dạ dày khỏe mạnh!",
+    
+    Print_Text_RiversidePD_title= "Sở Cảnh sát Quận Meade",
+    Print_Text_RiversidePD_info= "Một buổi họp giao ban về an toàn súng sẽ được tổ chức tại tòa nhà của chúng tôi tại 210 Đường Rock Ridge ở phía tây Riverside vào ngày 3 tháng 7 lúc 6 giờ tối.\n\nTìm hiểu tầm quan trọng của kỷ luật cò súng\n Bảo quản súng an toàn để giữ an toàn cho gia đình bạn\n Cách xác định mục tiêu trước khi bắn\n Bạn và khẩu súng của bạn: biết quyền của mình\n\nHãy nhắm vào buổi trình diễn này!",
+    
+    Print_Text_TacodelPancho_title = "Taco del Pancho", -- Restaurant Name
+    Print_Text_TacodelPancho_info = "Hola, tên tôi là Pancho!\n\nTACOS! BURRITOS! ENCHILLADAS!\n\nChúng tôi có tất cả tại Taco del Pancho!\n\nMang tờ rơi này đến cửa hàng của chúng tôi bên cạnh khu ẩm thực Crossroads Mall để được giảm giá 20% cho bất kỳ loại taco nào! Và guacamole MIỄN PHÍ!\n\nArriba! (Lên nào!)\n\n1115 Đường Bearcamp, Louisville, Kentucky.",
+    
+    Print_Text_A1Hay_title= "", -- Seems empty/unused
+    Print_Text_A1Hay_info= "", -- Seems empty/unused
+    
+    Print_Text_Airport_title= "Sân bay Quốc tế Louisville",
+    Print_Text_Airport_info= "Du lịch hàng không. Ít từ nào gợi lên nhiều căng thẳng như vậy - nhưng điều đó không đúng ở Sân bay Quốc tế Louisville! Chúng tôi phục vụ hơn hai triệu hành khách mỗi năm, và 94% trong số họ báo cáo hài lòng với thời gian ở lại với chúng tôi*.\n\n*từ một mẫu gồm 16 người\n\nTòa nhà đẳng cấp thế giới của chúng tôi được thiết kế dành cho bạn. Chỗ ngồi rộng rãi có nghĩa là bạn có thể nghỉ ngơi bất cứ khi nào bạn cần. Nhà hàng và quán cà phê giúp bạn nạp năng lượng cho hành trình của mình. Phòng tắm sạch sẽ có nghĩa là bớt đi một nỗi lo.\n\nChúng tôi tự hào là sân bay có ÍT chuyến bay bị hủy và hoãn nhất ở Hợp chủng quốc Hoa Kỳ! Hành trình của bạn an toàn với chúng tôi!\n\nBiết đường đi trước khi bạn đi với bản đồ của chúng tôi, và tận dụng tối đa hành trình của bạn. Và nếu bạn bị lạc, nhân viên sẵn lòng giúp đỡ của chúng tôi sẽ đảm bảo bạn đến được điểm đến của mình!\n\n600 Đường Terminal, Louisville, Kentucky.",
+    
+    Print_Text_AMZSteel_title= "AMZ Steel", -- Company Name
+    Print_Text_AMZSteel_info= "AMZ Steel cung cấp kim loại và sản phẩm kim loại chất lượng cao nhất cho nước Mỹ.\n\nVới công suất hàng năm 400.000 tấn ròng, nhà máy Kentucky của chúng tôi giúp khách hàng đổi mới, giải quyết và vượt trội.\n\nSắt chảy trong máu của chúng tôi, và AMZ Steel rèn giũa một nước Mỹ cho thế kỷ tới.\n\nAMZ Steel.\n\nBiến nước Mỹ thành một pháo đài, từng cây dầm một...\n\nMột Công ty Kẽm Sản xuất tại Mỹ.\n Một công ty con của Hokkaido Steel Works.\n\n48 Đường Steelworks, Ekron, Kentucky.",
+    
+    Print_Text_BeefChunk_title= "Công ty Khô bò Beef Chunk",
+    Print_Text_BeefChunk_info= "Khô bò! Món quà của thiên nhiên!\n\nKhô bò Beef Chunk chứa đầy protein để cung cấp năng lượng cho cuộc phiêu lưu tiếp theo của bạn!\n\nKhô bò để được lâu, dễ đóng gói, bổ dưỡng VÀ ngon!\n\nHãy tin tưởng các chuyên gia Khô bò của chúng tôi!\n\nMón ăn vặt yêu thích mới của bạn\n\n15800 US-60, Irvington, Kentucky",
+    
+    Print_Text_BlueandWhiteBar_title= "", -- Seems empty/unused
+    Print_Text_BlueandWhiteBar_info= "", -- Seems empty/unused
+    
+    Print_Text_BrottAuction_title= "Đấu giá Trang trại Gia súc Brott",
+    Print_Text_BrottAuction_info= "Đối tác đáng tin cậy của bạn cho việc bán gia súc Kentucky trong hơn 50 năm.\n\nChúng tôi đảm bảo giá tốt nhất cho cả người sản xuất và người mua.\n\nGia súc được nhận vào thứ Tư từ 9 giờ sáng đến 5 giờ chiều để bán vào thứ Năm lúc 1 giờ 30 chiều.\n\nHãy đến dựa vào cổng của chúng tôi và gật đầu!\n\nNgười bán đấu giá mới giờ đây dễ hiểu hơn 100%\n\n15800 US-60, Irvington, Kentucky",
+    
+    Print_Text_CabanCenter_title= "", -- Seems empty/unused
+    Print_Text_CabanCenter_info= "", -- Seems empty/unused
+    
+    Print_Text_CatonaHotTinGrill_title= "Cat on a Hot Tin Grill", -- Restaurant Name (Play on words, literal translation)
+    Print_Text_CatonaHotTinGrill_info= "Cá da trơn ngon tuyệt, tươi từ ao của chúng tôi!\n\nBắt cá da trơn của riêng bạn và chúng tôi sẽ nấu nó với giá giảm 25%.\n\nHãy đến Cat on a Hot Tin Grill - ngay hôm nay!\n\n1940 Đường Old State, Brandenburg, Kentucky.",
+    
+    Print_Text_Coalfield_title= "", -- Seems empty/unused
+    Print_Text_Coalfield_info= "", -- Seems empty/unused
+    
+    Print_Text_ColdWarBunker_title= "Hầm trú ẩn Chiến tranh Lạnh March Ridge",
+    Print_Text_ColdWarBunker_info= "Tham quan một tương lai đã không xảy ra!\n\nNgay gần Đường Adams ở phía bắc March Ridge là một khu vực có hàng rào với một nhà kho nhỏ và một tháp radio.\n\nTrong nhiều thập kỷ, đây là lối vào một hầm trú ẩn hạt nhân tối mật, được xây dựng để chứa các nhà lãnh đạo quân sự của Fort Knox.\n\nĐược xây dựng sâu bốn tầng dưới lòng đất vào năm 1960, với những cánh cửa thép dày, hầm trú ẩn được tạo ra để chịu được một cú đánh hạt nhân trực tiếp vào chính Fort Knox.\n\nKhông gian hạn chế, chỉ có giường cho bốn mươi người. Không chắc hầm trú ẩn có thể tồn tại lâu dài nếu không được tiếp tế.\n\nRất may, ngày tận thế đã không đến.\n\nHầm trú ẩn đã ngừng hoạt động vào năm 1991 và hiện có sẵn cho các chuyến tham quan cuối tuần!\n\nĐặt trước theo số 943-555-7843.\n\nLưu ý: Chuyến tham quan không phù hợp với người sợ không gian hẹp hoặc trẻ nhỏ. Hầm trú ẩn chưa được kiểm tra đầy đủ về amiăng và một số dạng ngộ độc. Giấy miễn trừ trách nhiệm phải được ký khi vào cửa.\n\n5671 Đường Adams, March Ridge, Kentucky",
+    
+    Print_Text_DarkwallowGuestHouse_title = "", -- Seems empty/unused
+    Print_Text_DarkwallowGuestHouse_info = "", -- Seems empty/unused
+    
+    Print_Text_EkronCollege_title= "Cao đẳng Cộng đồng Ekron",
+    Print_Text_EkronCollege_info= "Giáo dục được xây dựng cho bạn.\n\nCao đẳng Cộng đồng Ekron có nguồn lực và chuyên môn để mang đến cho sinh viên hy vọng về một ngày mai tươi sáng hơn.\n\nChúng tôi giúp đỡ.\n\nChúng tôi hướng dẫn.\n\nYêu cầu tài liệu giới thiệu theo số 943-555-5454.\n\n2400 Đường Haysville, Ekron, Kentucky",
+    
+    Print_Text_FashionaBelle_title = "FashionaBelle", -- Store Name
+    Print_Text_FashionaBelle_info = ""Je m'appelle Belle St. Clair." (Tên tôi là Belle St. Clair)\n\n"J'aime la mode!" (Tôi yêu thời trang!)\n\n"Từ thời trẻ làm người mẫu ở Paris, đến sự nghiệp thành công với tư cách là nhà thiết kế... Tôi luôn đi đầu xu hướng..."\n\n"Cửa hàng FashionaBelle đầu tiên của tôi mở trên đại lộ Champs-Élysées vào năm 1959, và giờ đây các thiết kế của tôi được mặc trên khắp thế giới!"\n\nFashionaBelle.\n\nQuần áo đẳng cấp, với giá cả hợp lý.\n\n458 Phố Main, Rosewood",
+    
+    Print_Text_FiveAlarmChili_title= "Ớt Hầm Năm Chuông Báo Cháy",
+    Print_Text_FiveAlarmChili_info= "Bạn sẽ không tìm thấy món nào cay hơn Ớt Hầm Năm Chuông Báo Cháy!\n\nTrong nhiều năm, Trưởng phòng Cứu hỏa John Schwartz đã giữ cho những người lính cứu hỏa dũng cảm của Brandenburg được ăn no với món ớt hầm ngon nhất ở Kentucky. Khi Trưởng phòng nghỉ hưu, ông đã mua lại trạm cứu hỏa cũ của mình và biến nó thành một nhà hàng!\n\nHãy đến nếm thử món ớt hầm của Trưởng phòng và xem tại sao mọi người lại bàn tán về nó.\n\nNó cay hơn cả địa ngục!\n\n1276 Đường Armory, Brandenburg, Kentucky.",
+    
+    Print_Text_BensCabin_title= "Cabin cho thuê (West Point)",
+    Print_Text_BensCabin_info= "Cabin nhỏ hẻo lánh ven hồ có sẵn cho thuê. Phía tây West Point.\n\nVị trí tuyệt vời để câu cá và săn bắn. Sưởi ấm bằng bếp củi.\n\nCó nước máy, phòng tắm trong nhà. Một giường đơn. Đảm bảo thời gian vui vẻ.\n\n$40 mỗi đêm. Gọi 555-3498 để biết thông tin.",
+    
+    Print_Text_AlsAutoShop_title= "Gara ô tô của Al",
+    Print_Text_AlsAutoShop_info= "Chăm sóc xe tuyệt vời. Giá thấp tuyệt vời.\n\nThay dầu. Sửa phanh. Điều tra tiếng kêu lạch cạch.\n\nBất kể là gì: Al có thể sửa nó.\n\nHãy đưa cho Al tờ rơi này để được giảm giá 10% cho dịch vụ bảo dưỡng hàng năm.\n\nTìm chúng tôi ở phía tây nam Riverside.\n\n6650 Đường Long Needle, Riverside, Kentucky.",
+    
+    Print_Text_SureFitnessBoxingClub_title= "Câu lạc bộ Thể hình & Quyền anh Sure",
+    Print_Text_SureFitnessBoxingClub_info= "Đấm bay mỡ bụng của bạn tại Câu lạc bộ Thể hình & Quyền anh Sure!\n\nMáy chạy bộ, máy tập tạ và sân bóng rổ cũng có sẵn cho các thành viên.\n\nPhí hàng năm từ $100. Tìm chúng tôi trên Phố 3 ngay phía nam sông Ohio, ở trung tâm thành phố Louisville.",
+    
+    Print_Text_GoldenSunset_title= "Viện dưỡng lão Golden Sunset",
+    Print_Text_GoldenSunset_info= "Với 20 năm kinh nghiệm, Golden Sunset là đơn vị dẫn đầu trong lĩnh vực chăm sóc người cao tuổi.\n\nNằm bên cạnh sông Ohio, chúng tôi cung cấp các cơ sở điều dưỡng, hỗ trợ sức khỏe dài hạn và dinh dưỡng đẳng cấp thế giới.\n\nMỗi cư dân có một phòng ngủ riêng, một khu vực sinh hoạt và một TV màu.\n\nVới tối đa 15 cư dân, chúng tôi có thể chăm sóc đặc biệt cho từng người, đồng thời đảm bảo họ có thể kết bạn - và vui vẻ!\n\nCác phòng sinh hoạt chung của chúng tôi bao gồm phòng tập thể dục, vườn cây dễ chịu, nhà ăn và phòng đọc sách.\n\nGọi cho chúng tôi theo số 943-555-9433 để đặt lịch tham quan hoặc nhận tài liệu giới thiệu MIỄN PHÍ.\n\nHọ đã chăm sóc bạn. Bây giờ hãy để chúng tôi chăm sóc họ.\n\n422 Phố Lawrence, Brandenburg, Kentucky",
+    
+    Print_Text_GunsUnlimitedEchoCreek_title = "Guns Unlimited (Echo Creek)", -- Store Name
+    Print_Text_GunsUnlimitedEchoCreek_info = "Từ Magnum đến MSR, từ đạn ghém đến đạn hoa cải và mọi thứ ở giữa, hãy ghé thăm...\n\nGuns Unlimited\n Sân chơi Tu chính án thứ 2 của bạn\n\nChúng tôi có...\n - súng các loại cỡ nòng\n - phụ kiện vũ khí\n - đạn dược\n - dao và đồ dùng sinh tồn\n ... và nhiều hơn nữa!\n\nKiểm tra kỹ năng của bạn tại trường bắn của chúng tôi. Nhận hướng dẫn từ các giảng viên ưu tú của chúng tôi.\n\nBởi vì bạn không bao giờ biết điều gì sẽ xảy ra tiếp theo...\n\n901 Đường Smith, Echo Creek, Kentucky",
+    
+    Print_Text_HobbsandPerkinsHardware_title = "Hobbs & Perkins Hardware (Irvington)", -- Store Name
+    Print_Text_HobbsandPerkinsHardware_info = "Hobbs & Perkins xây dựng những thứ bền vững.\n\nChúng tôi tự hào cung cấp một loạt các vật liệu xây dựng và công cụ.\n\nXây dựng Mạnh mẽ, Bền vững Mãi mãi\n\nBất kể thế giới ném vào bạn thứ gì!\n\n1102 US-60, Irvington, KY",
+    
+    Print_Text_KnoxGunOwnersClubGetTogether_title = "Cuộc họp Thường niên Chung của Câu lạc bộ Chủ sở hữu Súng Knox",
+    Print_Text_KnoxGunOwnersClubGetTogether_info = "The Velvet Tassel, 320 Phố East Market\n\nTrò chuyện về loại đạn, ống ngắm và dây đeo đạn yêu thích của bạn. Gặp gỡ những người cùng chí hướng. Tối thiểu ba đồ uống.\n\nXin lưu ý rằng, năm nay, súng không được phép mang vào bên trong câu lạc bộ.",
+    
+    Print_Text_KnoxPackKitchens_title = "Knox Pack Kitchens", -- Company Name
+    Print_Text_KnoxPackKitchens_info = "Bạn không thể chê Knox Pack Kitchens!\n\nTừ tủ bếp và thiết bị gia dụng đến bếp công nghiệp và tủ lạnh...\n\nMột nhà bếp Knox Pack là một nhà bếp hạnh phúc.\n\nLò vi sóng miễn phí với mỗi lần mua tủ lạnh tại địa điểm trung tâm Louisville của chúng tôi.\n Ưu đãi kết thúc vào ngày 6/7/93. Một lò vi sóng cho mỗi khách hàng.\n\n4915 Đường cao tốc Dixie, Louisville, Kentucky",
+    
+    Print_Text_IrvingtonGunClub_title= "Câu lạc bộ Súng Irvington",
+    Print_Text_IrvingtonGunClub_info= "Cải thiện kỹ năng ngắm bắn và kết bạn tại Câu lạc bộ Súng Irvington!\n\nTrường bắn của chúng tôi phục vụ mọi cấp độ kỹ năng.\n\nThuê súng chất lượng cao, và trả tiền theo phát bắn hoặc theo buổi - lựa chọn của bạn!\n\nThành viên mới được 15 phát bắn miễn phí!\n\nIrvington, Kentucky",
+    
+    Print_Text_LVFD_title = "Sở Cứu Hỏa Louisville (LVFD)",
+    Print_Text_LVFD_info = "NGÀY HỘI MỞ CỬA LVFD\n\nHãy tham gia cùng Sở Cứu Hỏa Louisville vào ngày 28 tháng 6!\n\nBạn sẽ nghe chúng tôi nói về...\n - Các công cụ chúng tôi sử dụng trong công việc\n - Cách hoạt động của áp lực nước\n - Áp suất không khí và nguy cơ cháy nổ\n - Mối nguy hiểm thực sự của việc đặt kim loại vào lò vi sóng\n - Cách phòng ngừa các đám cháy chết người!\n\nHãy thử một trong các khóa học thể lực của chúng tôi. Cảnh báo - sẽ không dễ dàng đâu!\n\nThông tin được cung cấp bởi Sở Cứu Hỏa Louisville, 2900 Đường Hikes",
+    
+    Print_Text_LoveDuet_title= "Cửa hàng Cô dâu & Chú rể Love Duet",
+    Print_Text_LoveDuet_info= "Tìm thấy chiếc váy đặc biệt của bạn là một khoảnh khắc kỳ diệu. Chúng tôi có hàng tá đang chờ bạn!\n\nKhông thể tìm thấy chính xác những gì bạn đang tìm kiếm cho một dịp đặc biệt? Hãy đến gặp các nhà tạo mẫu của chúng tôi!\n\nChúng tôi cũng có nhiều loại vest, vì vậy chú rể sẽ trông đẹp như bạn!\n\nBắt đầu tương lai tươi đẹp của bạn, theo cách đẹp nhất có thể!\n\nMở cửa hàng ngày, 10 giờ sáng đến 4 giờ chiều.\n\n12609 US-60, Irvington, Kentucky",
+    
+    Print_Text_MadDansDen_title= "Mad Dan's Den", -- Store Name
+    Print_Text_MadDansDen_info= "Chúng tôi có nhiều loại đồ nội thất và thiết bị gia dụng trong nhà và ngoài trời nhất ở xứ Knox!\n\n- Tủ lạnh và máy giặt\n - Bàn ghế trong nhà và ngoài trời\n - Thiết bị phòng tắm\n - Thiết bị tập thể dục tại nhà\n - Cây và cây cảnh trong chậu\n\n... và nhiều nhiều hơn nữa!\n\nSản phẩm của chúng tôi thì điên rồ, nhưng giá của chúng tôi thì không!\n\n84 Đường Dutch, Ekron, Kentucky.",
+    
+    
+    Print_Text_MusicFest93_title= "Lễ hội Âm nhạc Louisville 1993",
+    Print_Text_MusicFest93_info= "Xem những ban nhạc lớn nhất thế giới.\n\nNgày 15-17 tháng 7\n\nBa ngày bạn sẽ nhớ suốt đời\n\nKhu Lễ hội Louisville, Công viên Tưởng niệm Romuald Dron, Louisville",
+    
+    Print_Text_OvoFarms_title= "Trang trại Ovo",
+    Print_Text_OvoFarms_info= "Trang trại Ovo biết về trứng. Chúng tôi là lựa chọn yêu thích của các bà nội trợ trên khắp Kentucky.\n\nTừ năm 1968, đàn gà của chúng tôi đã sản xuất hơn 750.000 quả trứng. Đó là rất nhiều món trứng tráng!\n\nChúng tôi làm điều đó như thế nào? Bằng cách quan tâm đến những chú chim của chúng tôi. Chúng không chỉ là gà đối với chúng tôi - chúng là gia đình.\n\nChỉ từ một đô la một tá, bạn có thể nếm được tình yêu trong những quả trứng của chúng tôi!\n\n1245 Đường Payne, Echo Creek, Kentucky.\n\n(Các chuyến tham quan Trang trại Ovo không còn nữa. Vui lòng không hỏi.)",
+    
+    Print_Text_Pondview_title= "Trung tâm Mua sắm Pondview",
+    Print_Text_Pondview_info= "Từ đồ dùng làm vườn đến pizza. Từ Spiffo's đến may vá. Để có những món hời tốt nhất trong tầm mắt, hãy đến Pondview!\n\n1. GigaMart\n 2. Pizza Whirled\n 3. Spiffo's\n 4. I Heart Wok & Rolls\n 5. Jolly Good Fish + Chips\n 6. Grow Haven\n 7. Nails & Nuts\n 8. Awl Work and Sew Play\n 9. Barg-n-Clothes\n 10. American Tire\n\n670 Đường tránh Brandenburg, Brandenburg, KY",
+    
+    Print_Text_BrooksLibrary_title = "Thư viện Công cộng Brooks của Louisville",
+    Print_Text_BrooksLibrary_info = "Suỵt! Tại sao không ghé thăm... THƯ VIỆN?!\n\nĐể học tập yên tĩnh, nghiên cứu chuyên sâu hoặc những cuốn tiểu thuyết nổi tiếng mới nhất... hãy tham gia cùng chúng tôi tại THƯ VIỆN!\n\nHọc các kỹ năng mới với tài liệu phát triển chuyên môn của chúng tôi.\n\nBất kể bạn muốn trở thành gì, hành trình của bạn bắt đầu bằng sự kỳ diệu của việc đọc sách!\n\nBắt đầu một hành trình trí tuệ ngay hôm nay, miễn phí!\n\nGọi cho chúng tôi theo số 555-4449\n\nTìm chúng tôi tại 3041 Phố 1 Bắc",
+    
+    Print_Text_QuillManor_title= "Trang viên Quill của Brenford",
+    Print_Text_QuillManor_info= "Trang viên Quill hiện mở cửa cho các chuyến tham quan vào thứ Bảy!\n\nThuộc sở hữu của Michael Brenford, người thừa kế của công ty bút lông và mực Quill, trang viên cổ điển được xây dựng bởi cha của ông Brenford vào năm 1953.\n\nHãy nghe câu chuyện về Kevin Brenford, chú của Michael, người đã biến mất một cách bí ẩn ở dãy núi Appalachia.\n\nXem căn phòng thực tế nơi Geoffrey Brenford lên kế hoạch phát hành cổ phiếu lần đầu ra công chúng của Quill vào năm 1968.\n\nNếu may mắn, bạn có thể gặp chính Michael Brenford, cùng với chú cừu cưng nổi tiếng Mittens của ông ấy!\n\nGọi 943-555-QUILL để đặt tour\n\n1 Đại lộ Brenford, Brandenburg, Kentucky",
+    
+    Print_Text_Sammies_title= "Sammie's", -- Store Name
+    Print_Text_Sammies_info= "Tạp hóa. Quần áo. Đồ chơi. Đồ điện tử. Và nhiều hơn nữa!\n\nGiảm giá 20% tất cả đồng hồ cho đến ngày 7 tháng 7!\n\nCửa hàng Một điểm đến của bạn - Cho mọi thứ!\n\n3 Đường Old Ekron, Brandenburg, KY",
+    
+    Print_Text_Sanatorium_title= "Viện điều dưỡng Sunderland Hills",
+    Print_Text_Sanatorium_info= "Săn ma tại một trong những địa điểm BỊ ÁM NHẤT nước Mỹ vào mỗi Chủ nhật!\n\nViện điều dưỡng Sunderland Hills được mở cửa vào năm 1910 để đối phó với "bệnh dịch trắng" - bệnh lao.\n\nHÀNG TRĂM bệnh nhân đã chết ở đây cho đến khi nó bị đóng cửa vào năm 1961.\n\nRất may, những ngày bệnh dịch giờ đã LÂU ở phía sau chúng ta, nhưng một số người nói... vào những đêm trăng sáng, bạn vẫn có thể nghe thấy tiếng khóc và tiếng rên rỉ của bệnh nhân...\n\nBạn có ĐỦ CAN ĐẢM để tham gia cùng chúng tôi không?\n\nGọi 943-555-SPOOK để đặt tour của bạn!\n\nViện điều dưỡng Sunderland Hills, Brandenburg, Kentucky",
+    
+    Print_Text_ScarletOakDistillery_title= "Nhà máy chưng cất Scarlet Oak",
+    Print_Text_ScarletOakDistillery_info= "SCARLET OAK\n BOURBON TUYỆT VỜI NHẤT THẾ GIỚI\n\nỦ đến độ hoàn hảo. Chúng tôi đã nấu rượu từ năm 1910.\n Được yêu thích bởi cả công nhân và tổng thống.\n Hãy nhấp một ngụm và xem điều gì làm cho rượu bourbon Scarlet Oaks trở thành loại tốt nhất trong số những loại tốt nhất.\n\nTự hào đoạt giải North American Brewer's Prize 1992, Giải The Finest of Imports, và Giải Tưởng niệm Elijah Craig.\n\nGhé thăm nhà máy của chúng tôi để tham quan đầy đủ, và một số mẫu thử trên đường đi!\n 455 Đường Bourbon, Louisville, Kentucky",
+    
+    Print_Text_SunstarMotel_title = "Nhà nghỉ Sunstar",
+    Print_Text_SunstarMotel_info = "Hãy ở lại với chúng tôi tại Nhà nghỉ Sunstar!\n\nGiảm giá 10% cho cựu chiến binh và người cao tuổi.\n\nNằm ở trung tâm Muldraugh, với điều hòa không khí đầy đủ và TV màu\n\nThức ăn có sẵn riêng tại quán ăn của chúng tôi!\n\nGiá:\n Phòng đôi tiêu chuẩn/Hai giường đơn: $25\n Phòng đôi và giường đơn: $30\n Phòng ngủ với giường đôi và phòng khách: $40\n\nGiá đặc biệt cho các 'cuộc họp' ban ngày!\n\n118 Đường cao tốc Dixie, Muldraugh, KY",
+    
+    Print_Text_SleepEazzzeInn_title= "Nhà nghỉ Sleep Eazzze Inn", -- Motel Name
+    Print_Text_SleepEazzzeInn_info= "Mỗi phòng trong số 30 phòng của chúng tôi đều có giường thoải mái, phòng tắm riêng và lò vi sóng cho bữa ăn nhẹ đêm khuya.\n\nThêm bữa sáng tự chọn chỉ với 3 đô la.\n\nPhòng chỉ từ 25 đô la mỗi đêm. Giá theo ngày và theo giờ cũng có sẵn.\n\nTV màu với TẤT CẢ các kênh. Và chúng tôi muốn nói là TẤT CẢ!\n\nKhông có giấc ngủ nào giống như Sleep EaZZZe\n\n2801 Outer Loop, Louisville, Kentucky",
+    
+    Print_Text_StuartandLogScrapyard_title = "Bãi phế liệu Stuart & Log",
+    Print_Text_StuartandLogScrapyard_info = ""Phế liệu & Sửa chữa Vượt trội"\n\nSự kiện Tri ân Khách hàng!\n\nThắng! Một chiếc Dash Bulldriver 1983*!\n\nMột vé tham dự cho mỗi 10 đô la kinh doanh. Số lượng vé không giới hạn!\n\n*Phương tiện được cung cấp nguyên trạng, không bảo hành. Người chiến thắng chịu trách nhiệm về tất cả các khoản phí và thuế. Không có lựa chọn tiền mặt thay thế.\n\n2831 KY-477, Irvington, Ky.",
+    
+    Print_Text_TheWizardsKeep_title= "", -- Seems empty/unused
+    Print_Text_TheWizardsKeep_info= "", -- Seems empty/unused
+    
+    Print_Text_Twiggys_title= "Twiggy's", -- Bar Name
+    Print_Text_Twiggys_info= "Loại bia ngon nhất ở West Point - đảm bảo!\n\nGiải trí trực tiếp vào mỗi thứ Sáu.\n\nPhụ nữ được miễn phí hai đồ uống!*\n *Thứ Tư đầu tiên của tháng\n\nGặp gỡ huyền thoại Knox!\n HÃY ĐẾN TWIGGY'S\n\n105 Phố Mulberry, West Point, KY",
+    
+    Print_Text_RoxysRollerRink_title = "Sân trượt patin Roxy's",
+    Print_Text_RoxysRollerRink_info = "VUI VẺ TRÊN BỐN BÁNH XE!\n\nHãy mang giày trượt của bạn và lăn xuống Sân trượt patin Roxy's trên Phố Danson, ngay phía bắc Fossoil Field!\n\nTừ sinh nhật và kỷ niệm đến tiệc độc thân và các buổi họp mặt công ty!\n\nVới đồ ăn và đồ giải khát có sẵn, bạn sẽ sớm quay lại Roxy's để lăn thêm một vòng nữa!\n\nĐIỆU NHẢY DISCO TRÊN GIÀY TRƯỢT LÀ CHUYÊN MÔN CỦA CHÚNG TÔI!",
+    
+    Print_Text_SpiffosHiringDixie_title = "Spiffo's Tuyển dụng (Dixie)", -- Brand Name
+    Print_Text_SpiffosHiringDixie_info = "Gia đình Spiffo's đang tìm kiếm thành viên mới - liệu đó có phải là bạn?\n\nVới phúc lợi tuyệt vời, quản lý công bằng, và một ít Nước sốt Bí mật: Spiffo's® tuyển dụng những nhân viên vui vẻ, khỏe mạnh trên toàn thế giới.\n\nBạn có phải là người được Spiffo's tuyển dụng tiếp theo không?\n\nVỊ TRÍ CÔNG VIỆC: Đầu bếp\n THÔNG TIN KHÁC: Có đào tạo.\n\nVỊ TRÍ CÔNG VIỆC: Trợ lý Vệ sinh\n\nVỊ TRÍ CÔNG VIỆC: Nhân viên Phục vụ\n THÔNG TIN KHÁC: Nhiều vị trí đang tuyển.\n\nĐỊA ĐIỂM: 3480 Đường cao tốc Dixie, KY\n\n© 1993 Logo Spiffo, nhân vật Spiffo, và Nước sốt Bí mật Spiffo's là các thương hiệu đã đăng ký của Spiffo Corp. Bảo lưu mọi quyền.",
+    
+    Print_Text_SpiffosHiringLouisville_title = "Spiffo's Tuyển dụng (Louisville)", -- Brand Name
+    Print_Text_SpiffosHiringLouisville_info = "Gia đình Spiffo's đang tìm kiếm thành viên mới - liệu đó có phải là bạn?\n\nVới phúc lợi tuyệt vời, quản lý công bằng, và một ít Nước sốt Bí mật: Spiffo's® tuyển dụng những nhân viên vui vẻ, khỏe mạnh trên toàn thế giới.\n\nBạn có phải là người được Spiffo's tuyển dụng tiếp theo không?\n\nVỊ TRÍ CÔNG VIỆC: Người dẫn chương trình cho trẻ em\n THÔNG TIN KHÁC: Địa điểm đông đúc. Yêu cầu khả năng chịu đựng căng thẳng cao.\n\nVỊ TRÍ CÔNG VIỆC: Nhân viên Vệ sinh\n THÔNG TIN KHÁC: Có đào tạo lau nhà.\n\nVỊ TRÍ CÔNG VIỆC: Đại diện Giải quyết Khiếu nại Khách hàng\n THÔNG TIN KHÁC: Yêu cầu sự kín đáo và tính cách bình tĩnh.\n\nĐỊA ĐIỂM: 4812 Đường cao tốc Dixie, Nam Louisville, KY\n\n© 1993 Logo Spiffo, nhân vật Spiffo, và Nước sốt Bí mật Spiffo's là các thương hiệu đã đăng ký của Spiffo Corp. Bảo lưu mọi quyền.",
+    
+    Print_Text_SpiffosHiringWestPoint_title = "Spiffo's Tuyển dụng (West Point)", -- Brand Name
+    Print_Text_SpiffosHiringWestPoint_info = "Gia đình Spiffo's đang tìm kiếm thành viên mới - liệu đó có phải là bạn?\n\nVới phúc lợi tuyệt vời, quản lý công bằng, và một ít Nước sốt Bí mật: Spiffo's® tuyển dụng những nhân viên vui vẻ, khỏe mạnh trên toàn thế giới.\n\nBạn có phải là người được Spiffo's tuyển dụng tiếp theo không?\n\nVỊ TRÍ CÔNG VIỆC: Nhân viên Phục vụ\n THÔNG TIN KHÁC: Yêu cầu tính cách lạc quan.\n\nVỊ TRÍ CÔNG VIỆC: Nhân viên An ninh\n THÔNG TIN KHÁC: Có đào tạo tự vệ phi sát thương.\n\nVỊ TRÍ CÔNG VIỆC: Tài xế Giao hàng\n THÔNG TIN KHÁC: Yêu cầu lý lịch tư pháp trong sạch.\n\nĐỊA ĐIỂM: 201 Phố Mulberry, West Point, KY\n\n© 1993 Logo Spiffo, nhân vật Spiffo, và Nước sốt Bí mật Spiffo's là các thương hiệu đã đăng ký của Spiffo Corp. Bảo lưu mọi quyền.",
+    
+    Print_Text_GnomeSweetGnome_title = "Home Sweet Gnome", -- Store Name (Play on words)
+    Print_Text_GnomeSweetGnome_info = "Gnomes, Gnomes, Gnomes\n\nKhông nhà nào là nhà nếu không có gnome (tượng thần lùn giữ của)!\n\nCó gnome rồi? Bạn cần thêm gnome!\n Home Sweet Gnome có tất cả các loại gnome bạn cần, và nhiều hơn nữa.\n\nGọi cho chúng tôi để biết thêm về những chú gnome của chúng tôi!\n\nKHÔNG CÒN LÝ DO GÌ ĐỂ KHÔNG CÓ GNOME!\n\n555-IWANTTOGNOMORE (555-4926886466673 - Tôi muốn biết thêm về gnome)\n\n13 Đường Haysville, Ekron, KY",
+    
+    Print_Text_CardinalPlaza_title = "Quảng trường Cardinal",
+    Print_Text_CardinalPlaza_info = "Mua sắm và thư giãn tại Quảng trường Cardinal!\n\nNghỉ ngơi với một tách cà phê và bánh sandwich tại Yummmers.\n Duyệt qua đồ nội thất, đồ trang sức, sách hoặc các phong cách mới nhất.\n Tất cả các nhu yếu phẩm hàng ngày của bạn đều có ở đây!\n\nChúng tôi có thể không lớn nhất, nhưng chúng tôi là tốt nhất!\n - Zippee Market\n - Page Turners\n - Pharmahug\n - Lola Limon\n - Fashion 4 Less\n - Sweet Things\n - Dr. Janice Johnson DMD\n - Yummmers\n - Louisville Souvenirs\n\n58 Phố Main, Louisville\n\nKhông gian văn phòng có sẵn cho thuê trên ba tầng trên của chúng tôi.",
+    
+    Print_Text_CrossRoadsMall_title = "Trung tâm Mua sắm Crossroads",
+    Print_Text_CrossRoadsMall_info = "Hãy đến thăm chúng tôi để vui chơi và gặp gỡ bạn bè...\n ... và để MUA SẮM!\n\nMua đồ ăn nhẹ ngon và thư giãn.\n Duyệt qua các mốt thời trang mới nhất.\n Xem những bộ phim mới nhất tại Star-E-Plex.\n\nTầng một\n 01. Fashionabelle\n 02. Saucy\n 03. Zippee Market\n 04. Groovy Chic\n 05. Hugo Plush\n 14. Toyz Toyz Toyz\n 15. Electron House\n 16. Nails & Nuts\n 17. Sheba Jewellers\n 18. Shoed for the Stars\n 19. Tuned In\n 20. Cally's Gifts\n 21. Cửa hàng Đồ gia dụng\n 22. Book Naked\n 23. Lola Limon\n 24. Hickory Bakery Box\n 25. Sammie's\n 26. Family Fashion\n 27. Purple Dragon Jewels\n 28. Seat Yourself Furniture\n 29. Time 4 Sport\n 30. Re. Gifts\n\nKhu ẩm thực\n 06. Taco del Pancho\n 07. Jolly Good Fish & Chips\n 08. I Love Wok & Rolls\n 09. Pizza Whirled\n 10. Khu vực Ngồi Ăn\n 11. Churns-R-Us\n 12. Yummmers\n 13. Mama McFudgington's\n 31. Spiffo's\n\nTầng hai\n 32. Quán Bar Crossroads\n 33. Awl Work and Sew Play\n 34. Pharmahug\n 35. 5 Bux or Less\n 36. Seahorse Coffee\n 37. Optima Eyes\n 38. Palm Travel\n 39. Dịch vụ Luật Carton & Sydney\n 40. Trung tâm Y tế Crossroads\n 41. Genteel-y Used\n 42. Hair O Genesis\n 43. Sammie's\n\nMọi người gặp nhau tại Crossroads, cách Louisville hai dặm về phía nam!\n 1110-24 Đường Bearcamp, Louisville, Kentucky",
+    
+    Print_Text_GrandOhioMall_title = "Trung tâm Mua sắm Grand Ohio",
+    Print_Text_GrandOhioMall_info = "Trung tâm mua sắm lớn nhất Kentucky!\n\nTầng một\n 01. Book Naked\n 02. Mama McFudgington's\n 03. Hugo Plush\n 04. Better Bed than Dead\n 05. Awl Work and Sew Play\n 06. Time 4 Sport\n 07. Toyz Toyz Toyz\n 08. Lola Limon\n 09. Hair O Genesis\n 10. Stars & Stripes\n 11. Sheba Jewellers\n 12. Fashionabelle\n 13. Seat Yourself\n 14. Bia & Rượu\n 15. Barg-n-Clothes\n 16. Jones Art Prints\n 17. Gigamart\n 18. BBBQ\n 19. Đồ dùng Thú cưng Purrfect Barkner\n 20. Cửa hàng Bách hóa Olympia\n\nKhu ẩm thực\n 21. Gà Jay's\n 22. Jolly Good Fish & Chips\n 23. Pizza Whirled\n 24. I ❤️ Wok & Rolls\n 25. Spiffo's\n 26. Bánh ngọt Pat's\n 27. Taco del Pancho\n 28. Palm Travel\n 29. The Wandering Sashimi\n 30. Palette Pop! Đồ dùng Nghệ thuật\n 31. E.P. Tools\n 32. Electron House\n 33. Pharmahug\n 34. Saucy\n 35. Cally's Gifts\n 36. Expresso Espress\n 37. Noteworthy\n 38. Markson & Co\n 39. SpecialEyes\n 40. Shoed for the Stars\n 41. Homeware Sweet Homeware\n 42. Be Beauty\n 43. Have a Butcher's\n 44. Cửa hàng Bách hóa Olympia\n\nTất cả đang chờ bạn tại Grand Ohio, tại 4000 Đường Shelby ở đông bắc Louisville.\n\nBạn sẽ ước mình không bao giờ phải rời đi.",
+    
+    Print_Text_IrvingtonSpeedway_title = "Đường đua Irvington",
+    Print_Text_IrvingtonSpeedway_info = "Sống cuộc sống trong làn đường NHANH!\n\nHãy xem NGÔI SAO KHÁCH MỜI ĐẶC BIỆT Dylan Cruz trao vương miện cho nhà vô địch OSCC Irvington 500 vào ngày 7 tháng 7.\n\nChúng tôi đã đón tiếp những tên tuổi lớn nhất thế giới trong lĩnh vực đua xe. Bây giờ hãy để chúng tôi đón tiếp bạn!\n\nĂn một miếng tại Spiffo's, uống một ly tại quầy bar của chúng tôi, hoặc mang bia của bạn ra đường đua!\n\nNhững ngày trôi qua như một vệt mờ tại Đường đua Irvington!\n\nĐường Bishop, Irvington, KY",
+
+}
