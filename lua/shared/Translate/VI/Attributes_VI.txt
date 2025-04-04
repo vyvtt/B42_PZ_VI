@@ -1,16 +1,16 @@
 Attributes_VI = {
-    Attributes_Type_None = "None",
-    Attributes_Type_Quality = "Quality",
-	Attributes_Type_Durability = "Durability",
-	Attributes_Type_WoodWetness = "Wood Wetness",
-	Attributes_Type_Uses = "Uses",
-	Attributes_Type_DurabilityOnUse = "Durability On Use",
-	Attributes_Type_CraftedBy = "Crafted By",
-	Attributes_Type_MetalType = "Metal Type",
-	Attributes_Type_WoodType = "Wood Type",
-	Attributes_Type_ContainsWood = "Contains Wood",
-	Attributes_Type_ContainsMetal = "Contains Metal",
+    Attributes_Type_None = "Không có",
+    Attributes_Type_Quality = "Chất lượng",
+	Attributes_Type_Durability = "Độ bền",
+	Attributes_Type_WoodWetness = "Độ ẩm của gỗ",
+	Attributes_Type_Uses = "Số lần dùng",
+	Attributes_Type_DurabilityOnUse = "Độ bền khi sử dụng",
+	Attributes_Type_CraftedBy = "Chế tạo bởi",
+	Attributes_Type_MetalType = "Loại kim loại",
+	Attributes_Type_WoodType = "Loại gỗ",
+	Attributes_Type_ContainsWood = "Chứa gỗ",
+	Attributes_Type_ContainsMetal = "Chứa kim loại",
 
 	-- Tooltip overrides
-	Attributes_TooltipOverride_Durability = "Durability Uses",
+	Attributes_TooltipOverride_Durability = "Độ bền (Số lần dùng)",
 }
