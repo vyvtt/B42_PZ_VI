@@ -11,13 +11,13 @@ Challenge_VI = {
 	Challenge_AReallyCDDAy_name = "Một Ngày Đúng Chuẩn CD DA",
 	Challenge_AReallyCDDAy_desc = "Vừa bước ra khỏi phòng tắm, bạn trượt chân ngã sõng soài. Bạn say như chết, lại thêm cơn cảm cúm hành hạ. <LINE> <LINE> Chưa hết vận rủi, cả căn nhà đang bốc cháy ngùn ngụt! À phải rồi, còn cả tận thế zombie ngoài kia nữa chứ. Hôm nay đích thị là ngày tận số của bạn. <LINE> <LINE> [Một thử thách lấy cảm hứng từ kịch bản 'Ngày Tồi Tệ Tột Cùng' của tựa game ĐỈNH CAO, TUYỆT VỜI và TUYỆT ĐỐI PHẢI CHƠI Cataclysm: Dark Days Ahead] ",
 
-	Challenge_Challenge1_name = "Căn Nhà Trong Rừng - Chiến đấu, hoặc Chết",
+	Challenge_Challenge1_name = "Thành trì Trong Rừng - Chiến đấu hoặc Chết",
 	Challenge_Challenge1_desc = "Bạn đã ảo tưởng về sự an toàn nơi rừng sâu hẻo lánh này. Giờ đây, tiếng rên rỉ ghê rợn vang vọng khắp khu rừng. Từng đoàn xác sống đang siết chặt vòng vây quanh căn nhà gỗ biệt lập của bạn, chờ đợi để cắn xé miếng mồi ngon. Cái chết là định mệnh, nhưng khẩu shotgun vẫn nằm trong tầm với. <LINE> <LINE> Chế độ Tử Chiến Đến Cùng ném vào mặt bạn những đợt xác sống vô tận, ngày càng đông đảo và hung hãn. Cố mà sống sót càng lâu càng tốt trước số phận nghiệt ngã này.",
 
-	Challenge_Challenge2_name = "Căn Nhà Trong Rừng - Xây Dựng Tích Lũy, Đợi Chờ Tử Chiến",
+	Challenge_Challenge2_name = "Thành trì Trong Rừng - Xây Dựng Tích Lũy, Đợi Chờ Tử Chiến",
 	Challenge_Challenge2_desc = "Lại một ngày nữa, lại một căn nhà gỗ chờ bị nhuộm đỏ bởi máu. Lũ quái vật đang vây ráp, và cái chết của bạn sẽ vô cùng đau đớn và tàn khốc. Vậy thì hãy chiến đấu như một con thú bị dồn vào chân tường... <LINE> <LINE> Chế độ Tử Chiến Tích Lũy mang đến những làn sóng zombie vô tận, ngày một đông hơn. Dùng tiền kiếm được từ việc tiêu diệt lũ xác sống để mua trang bị, nâng cấp kỹ năng, và sửa lại món vũ khí đẫm máu của bạn.",
 
-	Challenge_AStormIsComing_name = "Bão Tố Kéo Đến",
+	Challenge_AStormIsComing_name = "Bão Tố Đang Đến",
 	Challenge_AStormIsComing_desc = "Mây đen kịt đang vần vũ trên bầu trời Kentucky. Tiếng sấm sét gầm vang từ phía xa, báo hiệu điềm gở. <LINE> <LINE> Khi bóng tối bao trùm, lũ xác sống vật vờ trên mặt đất càng trở nên điên cuồng, như thể được chính cơn bão tiếp thêm sức mạnh. <LINE> <LINE> Cơn bão này sẽ lúc mạnh lúc yếu, gào thét rồi tạm lắng, nhưng nó sẽ chẳng bao giờ tàn.",
 
 	Challenge_TheDescendingFog_name = "Màn Sương Tử Thần",
