@@ -1,24 +1,24 @@
 Entity_VI = {
-    EC_Entity_DisplayName_Default = "Generic Entity Name",
-    EC_Entity_BuildDescription_Default = "Generic Entity Build Description",
+    EC_Entity_DisplayName_Default = "Tên Mặc định", // Default Entity Name
+    EC_Entity_BuildDescription_Default = "Mô tả Xây dựng Mặc định", // Default Entity Build Description
 
     -- Energy
-    EC_Energy = "Energy",
-    EC_Energies = "Energies",
-    EC_Energy_Not_Set = "No energy set",
+    EC_Energy = "Năng lượng",
+    EC_Energies = "Năng lượng",
+    EC_Energy_Not_Set = "Chưa đặt năng lượng",
     -- Energy types
-    EC_Energy_Electric = "Electric",
-    EC_Energy_Mechanical = "Mechanical",
-    EC_Energy_Thermal = "Thermal",
-    EC_Energy_Steam = "Steam",
+    EC_Energy_Electric = "Điện",
+    EC_Energy_Mechanical = "Cơ học",
+    EC_Energy_Thermal = "Nhiệt",
+    EC_Energy_Steam = "Hơi nước",
 
     -- Common
-    EC_Locked = "Locked",
-    EC_Stored = "Stored",
-    EC_Weight = "Encumbrance",
-    EC_Progress = "Progress",
+    EC_Locked = "Đã khóa",
+    EC_Stored = "Đang chứa", // Stored energy/items
+    EC_Weight = "Độ nặng", // Encumbrance/Weight
+    EC_Progress = "Tiến trình",
 
     -- Component
-    EC_Workstation = "Workstation",
-    EC_Recipes = "Recipes",
+    EC_Workstation = "Bàn chế tạo", // Workstation context
+    EC_Recipes = "Công thức",
 }
