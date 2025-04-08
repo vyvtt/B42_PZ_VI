@@ -18,8 +18,8 @@ Fluids_VI = {
     Fluid_Show_Info = "Hiện Thông tin",
     Fluid_Items_Inventory = "Vật phẩm cần phải ở trong kho đồ trước khi kéo vào bảng.",
 
-    Fluid_Empty = "Trống",
-    Fluid_HoldingNone = "Trống %1", // Empty Bottle
+    Fluid_Empty = "Rỗng",
+    Fluid_HoldingNone = "%1 rỗng", // Empty Bottle
     Fluid_HoldingOneType = "%2 (%1)", // Water (Bottle)
     Fluid_HoldingTwoTypes = "%2 và %3 (%1)", // Water and Bleach (Bottle)
     Fluid_Of = "của", // e.g., 500mL of Water
