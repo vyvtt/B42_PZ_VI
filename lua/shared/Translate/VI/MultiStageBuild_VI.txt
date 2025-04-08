@@ -1,28 +1,28 @@
 MultiStageBuild_VI = {
     -- Wooden Wall
-    MultiStageBuild_CreateWoodenWall_1 = "Create Rickety Wooden Wall",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "Upgrade to Wooden Wall",
-    MultiStageBuild_CreateWoodenWall_2 = "Create Wooden Wall",
-    MultiStageBuild_UpgradeWoodenWall_1To3 = "Upgrade to Strong Wooden Wall",
-    MultiStageBuild_UpgradeWoodenWall_2To3 = "Upgrade to Strong Wooden Wall",
-    MultiStageBuild_CreateWoodenWall_3 = "Create Strong Wooden Wall",
+    MultiStageBuild_CreateWoodenWall_1 = "Tạo Tường Gỗ Tạm bợ",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Nâng cấp thành Tường Gỗ",
+    MultiStageBuild_CreateWoodenWall_2 = "Tạo Tường Gỗ",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Nâng cấp thành Tường Gỗ Chắc chắn",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Nâng cấp thành Tường Gỗ Chắc chắn",
+    MultiStageBuild_CreateWoodenWall_3 = "Tạo Tường Gỗ Chắc chắn",
     -- Wooden Window
-    MultiStageBuild_CreateWoodenWindow_1 = "Create Rickety Wooden Window",
-    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Upgrade to Wooden Window",
-    MultiStageBuild_CreateWoodenWindow_2 = "Create Wooden Window",
-    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Upgrade to Strong Wooden Window",
-    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Upgrade to Strong Wooden Window",
-    MultiStageBuild_CreateWoodenWindow_3 = "Create Strong Wooden Window",
+    MultiStageBuild_CreateWoodenWindow_1 = "Tạo Cửa sổ Gỗ Tạm bợ",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Nâng cấp thành Cửa sổ Gỗ",
+    MultiStageBuild_CreateWoodenWindow_2 = "Tạo Cửa sổ Gỗ",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Nâng cấp thành Cửa sổ Gỗ Chắc chắn",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Nâng cấp thành Cửa sổ Gỗ Chắc chắn",
+    MultiStageBuild_CreateWoodenWindow_3 = "Tạo Cửa sổ Gỗ Chắc chắn",
     -- Metal Wall
-    MultiStageBuild_CreateMetalWall_1 = "Create Metal Wall",
-    MultiStageBuild_UpgradeMetalWall_1To2 = "Upgrade to Strong Metal Wall",
-    MultiStageBuild_CreateMetalWall_2 = "Create Strong Metal Wall",
+    MultiStageBuild_CreateMetalWall_1 = "Tạo Tường Kim loại",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Nâng cấp thành Tường Kim loại Chắc chắn",
+    MultiStageBuild_CreateMetalWall_2 = "Tạo Tường Kim loại Chắc chắn",
     -- Metal Window
-    MultiStageBuild_CreateMetalWindow_1 = "Create Metal Window",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "Upgrade to Strong Metal Window",
-    MultiStageBuild_CreateMetalWindow_2 = "Create Strong Metal Window",
+    MultiStageBuild_CreateMetalWindow_1 = "Tạo Cửa sổ Kim loại",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Nâng cấp thành Cửa sổ Kim loại Chắc chắn",
+    MultiStageBuild_CreateMetalWindow_2 = "Tạo Cửa sổ Kim loại Chắc chắn",
     -- wooden door frame
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Upgrade to Stable Wooden Door Frame",
-    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Upgrade to Strong Wooden Door Frame",
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Nâng cấp thành Khung cửa Gỗ Vững chắc",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Nâng cấp thành Khung cửa Gỗ Chắc chắn",
 }
 
