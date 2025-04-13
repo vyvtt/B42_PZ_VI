@@ -46,12 +46,12 @@ Stash_VI = {
     Stash_LVMap11_Text1 = "   chưa bị loot",
     Stash_LVMap11_Text2 = "đầy lũ nhiễm bệnh",
     Stash_LVMap11_Text3 = "kho chứa đồ",
-    Stash_LVMap11_Text4 = "cửa hàng LV Tổng hợp", // LV General Store?
+    Stash_LVMap11_Text4 = "cửa hàng LV Tổng hợp",
 
     Stash_LVMap12_Text1 = "bà bán pizza",
     Stash_LVMap12_Text2 = "anh chàng nóng bỏng bán burger",
     Stash_LVMap12_Text3 = "lều của chúng ta",
-    Stash_LVMap12_Text4 = "Sinsilla sẽ", // Band name
+    Stash_LVMap12_Text4 = "Sinsilla sẽ",
     Stash_LVMap12_Text5 = "tuyệt con mẹ nó vời!!!",
 
     Stash_LVMap13_Text1 = "nhà an toàn tốt",
@@ -64,7 +64,7 @@ Stash_VI = {
     Stash_LVMap14_Text4 = "đừng cho ai vào khi anh đi vắng!",
     Stash_LVMap14_Text5 = "anh sẽ đi nửa tiếng (giờ là 2:30)",
     Stash_LVMap14_Text6 = "lâu hơn thì gọi nhà Edwards trên radio",
-    Stash_LVMap14_Text7 = "xxxxx", // Kisses
+    Stash_LVMap14_Text7 = "xxxxx",
 
     Stash_LVMap15_Text1 = "Ai tìm thấy cái này, tôi là Natalie Sigmundsson",
     Stash_LVMap15_Text2 = "giảng viên Lịch sử Nghệ thuật tại LSU",
@@ -166,7 +166,7 @@ Stash_VI = {
 
     Stash_WpMap6_Text1 = "Giờ tôi không cần tất cả những thứ này nữa",
     Stash_WpMap6_Text2 = "",
-    Stash_WpMap6_Text3 = "địa ngục trần gian", // hell warmed up
+    Stash_WpMap6_Text3 = "địa ngục trần gian",
 
     Stash_WpMap8_Text1 = "Jolene không bị bệnh. Cô ấy có thể giúp.",
     Stash_WpMap8_Text2 = "",
@@ -176,7 +176,7 @@ Stash_VI = {
     Stash_WpMap9_Text2 = "",
     Stash_WpMap9_Text3 = "bố",
 
-    Stash_WpMap10_Text1 = "toang hết cả", // all kinds of fucked up
+    Stash_WpMap10_Text1 = "toang hết cả",
     Stash_WpMap10_Text2 = "",
     Stash_WpMap10_Text3 = "thêm rắc rối",
 

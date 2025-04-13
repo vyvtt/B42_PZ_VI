@@ -149,7 +149,7 @@ RecipesEN {
 	Recipe_MakeGuacamole = "Làm Guacamole",
 	Recipe_MakeHalloweenPumpkin = "Khắc Bí ngô",
 	Recipe_MakeHammer = "Làm Búa",
-	Recipe_MakeHandShovel = "Làm Bay", // Trowel
+	Recipe_MakeHandShovel = "Làm Bay",
 	Recipe_MakeHinge = "Làm Bản lề",
 	Recipe_MakeHotCuppa = "Pha Tách đồ uống Nóng",
 	Recipe_MakeHotDog = "Chuẩn bị Hot Dog",
@@ -191,7 +191,7 @@ RecipesEN {
 	Recipe_MakeSaucepan = "Làm Nồi cán dài",
 	Recipe_MakeSaw = "Làm Cưa",
 	Recipe_MakeScissors = "Làm Kéo",
-	Recipe_MakeSheetMetal = "Làm Tấm Kim loại", // Duplicate ID
+	Recipe_MakeSheetMetal = "Làm Tấm Kim loại",
 	Recipe_MakeShortbreadCookieDough = "Chuẩn bị Bánh quy Bơ",
 	Recipe_MakeShotgunShells = "Làm Đạn Shotgun",
 	Recipe_MakeShotgunShellsMold = "Làm Khuôn đạn Shotgun",
@@ -240,7 +240,7 @@ RecipesEN {
 	Recipe_OpenBoxOf9mmBullets = "Mở Hộp Đạn 9mm",
 	Recipe_OpenBoxOfFishingHooks = "Mở Hộp Lưỡi câu",
 	Recipe_OpenBoxOfJars = "Mở Hộp Lọ",
-	Recipe_OpenBoxOfCraftedJars = "Mở Hộp Lọ", // Duplicate ID
+	Recipe_OpenBoxOfCraftedJars = "Mở Hộp Lọ",
 	Recipe_OpenBoxOfNails = "Mở Hộp Đinh",
 	Recipe_OpenBoxOfPaperclip = "Mở Hộp Kẹp giấy",
 	Recipe_OpenBoxOfScrews = "Mở Hộp Ốc vít",
@@ -277,7 +277,7 @@ RecipesEN {
 	Recipe_OpenCannedTomato = "Mở Hộp Cà chua",
 	Recipe_OpenCannedTomatowithKnifeorChippedStone = "Mở Hộp Cà chua bằng Dao hoặc Đá Mảnh",
 	Recipe_OpenCannedTuna = "Mở Hộp Cá ngừ",
-	Recipe_OpenCondensedMilk = "Mở Sữa đặc", // Evaporated Milk is different but Condensed Milk is more common term
+	Recipe_OpenCondensedMilk = "Mở Sữa đặc",
 	Recipe_OpenCondensedMilkwithKnifeorChippedStone = "Mở Sữa đặc bằng Dao hoặc Đá Mảnh",
 	Recipe_OpenDogFood = "Mở Thức ăn cho Chó",
 	Recipe_OpenDogFoodwithKnifeorChippedStone = "Mở Thức ăn cho Chó bằng Dao hoặc Đá Mảnh",
@@ -306,12 +306,12 @@ RecipesEN {
 	Recipe_OpenSackOfBellPeppers = "Mở Bao Ớt chuông",
 	Recipe_OpenSackOfBroccoli = "Mở Bao Bông cải xanh",
 	Recipe_OpenSackOfCabbages = "Mở Bao Bắp cải",
-	Recipe_OpenSackOfCarrots = "Mở Bao Bông cải trắng", // Text says Cauliflower
+	Recipe_OpenSackOfCarrots = "Mở Bao Bông cải trắng",
 	Recipe_OpenSackOfCauliflower = "Mở Bao Bông cải trắng",
 	Recipe_OpenSackOfCherries = "Mở Bao Anh đào",
 	Recipe_OpenSackOfCorn = "Mở Bao Ngô",
 	Recipe_OpenSackOfEggplants = "Mở Bao Cà tím",
-	Recipe_OpenSackOfGrapes = "Mở Bao Đậu Hà Lan xanh", // Text says Green Peas
+	Recipe_OpenSackOfGrapes = "Mở Bao Đậu Hà Lan xanh",
 	Recipe_OpenSackOfGreenPeas = "Mở Bao Đậu Hà Lan xanh",
 	Recipe_OpenSackOfKale = "Mở Bao Cải xoăn",
 	Recipe_OpenSackOfLeeks = "Mở Bao Hành baro",
@@ -454,7 +454,7 @@ RecipesEN {
 	Recipe_SliceBread2 = "Thái lát Bánh mì",
 	Recipe_SliceCake = "Cắt Bánh kem",
 	Recipe_SliceFillet = "Thái Phi lê",
-	Recipe_SliceFillet = "Chia đôi Phi lê", // Duplicate ID, different meaning
+	Recipe_SliceFillet = "Chia đôi Phi lê",
 	Recipe_SliceFrog = "Xẻ thịt Ếch",
 	Recipe_SliceHam = "Thái lát Giăm bông",
 	Recipe_SliceOnion = "Thái Hành tây",
@@ -493,7 +493,7 @@ RecipesEN {
 	Recipe_ChangeLine = "Thay Dây câu",
 	Recipe_ChangeHook = "Thay Lưỡi câu",
 
-	Recipe_MakeSledgehammer = "Làm Búa tạ", // Duplicate ID
+	Recipe_MakeSledgehammer = "Làm Búa tạ",
 	Recipe_ForgeSledgehammerHead = "Rèn Đầu Búa tạ",
 
 	Recipe_DbgLogToApple = "Tạo Táo",
@@ -538,7 +538,7 @@ RecipesEN {
 
 	Recipe_CutUpTire = "Cắt Lốp xe",
 	Recipe_CutUpTireWithBandsaw = "Cắt Lốp xe bằng Cưa vòng",
-	Recipe_CutCircularSawbladeBandsaw = "Cắt Lưỡi cưa tròn bằng Cưa vòng", // ID says Circular, text says Tire? Assuming Circular Sawblade.
+	Recipe_CutCircularSawbladeBandsaw = "Cắt Lưỡi cưa tròn bằng Cưa vòng",
 	Recipe_CutUpIronBandWithBandsaw = "Cắt Đai sắt bằng Cưa vòng",
 
 	Recipe_MakeTireBodyArmor = "Làm Giáp Thân bằng Lốp xe",
@@ -637,8 +637,8 @@ RecipesEN {
 	Recipe_MakeDullBoneKnife = "Chạm khắc Dao Xương Cùn",
 	Recipe_MakeBoneSpoon = "Chạm khắc Thìa Xương",
 	Recipe_MakeBoneFork = "Chạm khắc Nĩa Xương",
-	Recipe_MakeBoneSewingNeedle = "Chạm khắc Kim khâu Xương", // Duplicate ID
-	Recipe_MakeBoneFishingHook = "Chạm khắc Lưỡi câu Xương", // Duplicate ID
+	Recipe_MakeBoneSewingNeedle = "Chạm khắc Kim khâu Xương",
+	Recipe_MakeBoneFishingHook = "Chạm khắc Lưỡi câu Xương",
 	Recipe_BoneSpikeWeapon = "Vũ khí Gai Xương",
 	Recipe_CarveWoodenSpoon = "Chạm khắc Thìa Gỗ",
 	Recipe_CarveWoodenFork = "Chạm khắc Nĩa Gỗ",
@@ -658,7 +658,7 @@ RecipesEN {
 	Recipe_ScrapSack = "Xé Bao",
 	Recipe_ScrapSackLarge = "Xé Bao Lớn",
 	Recipe_MakeLargeStoneAxeHead = "Đẽo Đầu Rìu Đá Lớn",
-	Recipe_MakeStoneMaulHead = "Đẽo Đầu Vồ Đá", // Duplicate ID
+	Recipe_MakeStoneMaulHead = "Đẽo Đầu Vồ Đá",
 	Recipe_MakeLargeStoneAxeHead2 = "Đục Đầu Rìu Đá Lớn",
 	Recipe_MakeStoneMaulHead2 = "Đục Đầu Vồ Đá",
 	Recipe_MakeLargeStoneAxe = "Làm Rìu Đá Lớn",
@@ -710,7 +710,7 @@ RecipesEN {
 	Assemble_Machete = "Lắp ráp Dao Rựa",
 	Assemble_Meat_Cleaver = "Lắp ráp Dao phay",
 	Assemble_Pick_Axe = "Lắp ráp Cuốc chim",
-	Assemble_Scythe = "Lắp ráp Hái", // Scythe
+	Assemble_Scythe = "Lắp ráp Hái",
 	Assemble_Shin_Armor = "Lắp ráp Giáp Ống chân",
 	Assemble_Shortsword = "Lắp ráp Kiếm ngắn",
 	Assemble_Shoulder_Armor = "Lắp ráp Giáp Vai",
@@ -763,7 +763,7 @@ RecipesEN {
 	Recipe_CutSmallMetalSheet = "Cắt 4 Tấm Kim loại Nhỏ",
 	Recipe_DismantleManpackRadio = "Tháo rời Radio Manpack",
 	Recipe_DismantleMiscElectronics = "Tháo rời Vật phẩm Điện tử",
-	Recipe_DismantleTwoWayRadio = "Tháo rời Radio Hai chiều", // Duplicate ID
+	Recipe_DismantleTwoWayRadio = "Tháo rời Radio Hai chiều",
 	Recipe_DismantlePager = "Tháo rời Máy nhắn tin",
 	Recipe_EmptyPan = "Dọn sạch Chảo (Phá hủy Bên trong)",
 	Recipe_EmptyTray = "Dọn sạch Khay (Phá hủy Bên trong)",
@@ -795,7 +795,7 @@ RecipesEN {
 	Recipe_MakeJarOfEggplant = "Làm Lọ Cà tím",
 	Recipe_MakeJar = "Làm Lọ Nông sản",
 	Recipe_MakeLongCrudeBlade = "Làm Lưỡi dao Đơn giản Dài",
-	Recipe_MakePipeBomb = "Làm Bom ống", // Duplicate ID
+	Recipe_MakePipeBomb = "Làm Bom ống",
 	Recipe_MakeScarecrow = "Làm Bù nhìn",
 	Recipe_MakeSheetSlingBag = "Làm Túi đeo Vai bằng Vải",
 	Recipe_MakeThreeLogStack = "Chồng 3 Khúc gỗ",
@@ -804,7 +804,7 @@ RecipesEN {
 	Recipe_MakeUnfiredClayJar = "Làm Lọ Đất sét Chưa nung",
 	Recipe_MakeUnfiredClayShingle = "Làm Ngói Đất sét Chưa nung",
 	Recipe_MakeUnfiredClayTile = "Làm Gạch Đất sét Chưa nung",
-	Recipe_OpenBagOfFrozenFood = "Mở Túi Thức ăn", // Frozen status likely handled by item state
+	Recipe_OpenBagOfFrozenFood = "Mở Túi Thức ăn",
 	Recipe_OpenBottleOfBeer = "Mở Chai Bia",
 	Recipe_OpenBottleOfChampagne = "Mở Chai Sâm panh",
 	Recipe_OpenBottleOfWine = "Mở Chai Rượu vang",
@@ -847,7 +847,7 @@ RecipesEN {
 	Recipe_PackSetOfBooks = "Đóng gói Bộ Sách vào Hộp",
 	Recipe_PackSleepingBag = "Gói Túi ngủ",
 	Recipe_PackTent = "Gói Lều",
-	Recipe_PackTongueDepressors = "Đóng gói 20 vào Hộp", // Tongue Depressors context
+	Recipe_PackTongueDepressors = "Đóng gói 20 vào Hộp",
 	Recipe_Place100InBox = "Đóng gói 100 vào Hộp",
 	Recipe_Place12BoxesInCarton = "Đóng gói 12 Hộp vào Thùng Carton",
 	Recipe_PlaceBoxesOf223AmmoInCarton = "Đóng gói 12 Hộp Đạn .223 vào Thùng Carton",
@@ -856,7 +856,7 @@ RecipesEN {
 	Recipe_PlaceBoxesOf44MagnumBulletsInCarton = "Đóng gói 12 Hộp Đạn .44 Magnum vào Thùng Carton",
 	Recipe_PlaceBoxesOf45AutoBulletsInCarton = "Đóng gói 12 Hộp Đạn .45 Auto vào Thùng Carton",
 	Recipe_PlaceBoxesOf556AmmoInCarton = "Đóng gói 12 Hộp Đạn 5.56mm vào Thùng Carton",
-	Recipe_PlaceBoxesOf9mmBulletsInCarton = "Đóng gói 12 Hộp Đạn 5.56mm vào Thùng Carton", // ID says 9mm, text says 5.56? Translating based on ID.
+	Recipe_PlaceBoxesOf9mmBulletsInCarton = "Đóng gói 12 Hộp Đạn 5.56mm vào Thùng Carton",
 	Recipe_PlaceBoxesOfShotgunShellsInCarton = "Đóng gói 12 Hộp Đạn Shotgun vào Thùng Carton",
 	Recipe_PlaceFishingHooksInBox = "Đóng gói 10 Lưỡi câu vào Hộp",
 	Recipe_PutFilterOnGasMask = "Gắn Bộ lọc vào Mặt nạ Phòng độc",
@@ -866,7 +866,7 @@ RecipesEN {
 	Recipe_PutFiltersOnRespirator = "Gắn Bộ lọc vào Mặt nạ Lọc độc",
 	Recipe_PutFiltersOnWornRespirator = "Gắn Bộ lọc vào Mặt nạ Lọc độc Đang đeo",
 	Recipe_PutJarsInBox = "Đóng gói 6 Lọ vào Hộp",
-	Recipe_PutCraftedJarsInBox = "Đóng gói 6 Lọ vào Hộp", // Duplicate ID
+	Recipe_PutCraftedJarsInBox = "Đóng gói 6 Lọ vào Hộp",
 	Recipe_PutOxygenTankOnHazmatSuit = "Gắn Bình Oxy vào Bộ đồ Hazmat",
 	Recipe_PutOxygenTankOnSCBA = "Gắn Bình Oxy vào SCBA",
 	Recipe_PutSeedsInPacket = "Cho 5 Hạt giống vào Gói",
@@ -912,7 +912,7 @@ RecipesEN {
 	Recipe_UnbundleStrips = "Mở Bó 12 Dải Vật liệu",
 	Recipe_UnbundleTwigs = "Mở Bó 12 Cành cây nhỏ",
 	Recipe_UnmakeSheetSlingBag = "Tháo Túi đeo Vai bằng Vải",
-	Recipe_UnpackBox12 = "Mở Hộp", // Assuming generic box of 12
+	Recipe_UnpackBox12 = "Mở Hộp",
 	Recipe_UnpackBox6 = "Mở Hộp 6 cái",
 	Recipe_UnpackBoxOfAdhesiveBandages = "Mở Hộp 24 Băng cá nhân",
 	Recipe_UnpackCigaretteCarton = "Mở 10 Bao Thuốc lá từ Cây",
@@ -935,7 +935,7 @@ RecipesEN {
 	CutSteelIngotIntoBlocks = "Cắt Thỏi Thép thành Khối",
 	CutSteelIntoPieces = "Cắt Thép thành Miếng",
 	CutSteelSheetIntoSmallSheets = "Cắt Tấm Thép",
-	Cut_Iron_Bar_Halves = "Cắt Thanh Sắt", // Action name
+	Cut_Iron_Bar_Halves = "Cắt Thanh Sắt",
 	Cut_Iron_Bar_Quarters = "Cắt nửa Thanh Sắt",
 	Cut_Iron_Blocks = "Cắt Thỏi Sắt thành Khối",
 	Cut_Iron_Chunks = "Cắt Khối Sắt thành Vụn",
@@ -948,12 +948,12 @@ RecipesEN {
 	Cut_Steel_Pieces = "Cắt Thép thành Miếng",
 	Recipe_MakeBarbedWire = "Làm Dây kẽm gai từ Dây thép",
 	Recipe_MakeCrudeWhetstone = "Làm Đá mài Tạm bợ",
-	Recipe_MakeGlassShiv = "Làm Mảnh chai", // Glass Shiv
-	Recipe_MakeShiv = "Làm Shiv", // General Shiv
+	Recipe_MakeGlassShiv = "Làm Mảnh chai",
+	Recipe_MakeShiv = "Làm Shiv",
 	Recipe_MakeToothbrushShiv = "Làm Shiv Bàn chải",
 	Recipe_MakeWireFromBarbedWire = "Làm Dây thép từ Dây kẽm gai",
 	Make_Iron_Bar_Halves = "Làm Nửa Thanh Sắt",
-	Make_Iron_Bar_Halves1 = "Làm Nửa Thanh Sắt", // Duplicate ID
+	Make_Iron_Bar_Halves1 = "Làm Nửa Thanh Sắt",
 	Make_Steel_Bar_Halves1 = "Làm Nửa Thanh Thép",
 	CrushLimestone = "Nghiền Đá vôi",
 	KnappLimestone = "Đẽo Đá vôi",
@@ -1080,7 +1080,7 @@ RecipesEN {
 	Forge_Tweezers = "Rèn Nhíp",
 	Forge_Wood_Axe_Head = "Rèn Đầu Rìu Gỗ",
 	Forge_Hand_Axe_Head = "Rèn Đầu Rìu nhỏ",
-	Forge_Old_Axe_Head = "Rèn Đầu Rìu", // General Axe Head
+	Forge_Old_Axe_Head = "Rèn Đầu Rìu",
 	GrindCornflour = "Nghiền Bột ngô",
 	GrindFlour = "Nghiền Bột mì",
 	GrindCornmeal = "Nghiền Bột ngô Thô",
@@ -1088,7 +1088,7 @@ RecipesEN {
 	MillFlour = "Xay Bột mì",
 	MillCornmeal = "Xay Bột ngô Thô",
 	HeatTreatBenchAnvil = "Tôi Nhiệt Đe Bàn",
-	HeatTreatBlacksmithAnvil = "Tôi Nhiệt Đe Rèn", // Typo in ID (reat)
+	HeatTreatBlacksmithAnvil = "Tôi Nhiệt Đe Rèn",
 	HeatTreatBlockAnvil = "Tôi Nhiệt Đe Khối",
 	MakeBoneHatchet = "Làm Rìu chiến Xương",
 	MakeClayPot = "Nặn Nồi Đất sét",
@@ -1103,14 +1103,14 @@ RecipesEN {
 	MakeWineGlass = "Làm Ly Rượu vang",
 	MakeSpikedClub = "Làm Chùy Gai",
 	MakeSpikedBaseballBat = "Làm Gậy Bóng chày Đinh",
-	MakeSpikedCudgel = "Làm Chùy Gai", // Duplicate, same meaning
+	MakeSpikedCudgel = "Làm Chùy Gai", 
 	Make_Crude_Whetstone = "Làm Đá mài Tạm bợ",
 	Make_Iron_Bar_Quarters = "Làm 1/4 Thanh Sắt",
-	Make_Iron_Bar_Quarters1 = "Làm 1/4 Thanh Sắt", // Duplicate ID
+	Make_Iron_Bar_Quarters1 = "Làm 1/4 Thanh Sắt",
 	Make_Iron_Blocks = "Làm Khối Sắt",
-	Make_Iron_Blocks1 = "Làm Khối Sắt", // Duplicate ID
+	Make_Iron_Blocks1 = "Làm Khối Sắt",
 	Make_Iron_Chunks = "Làm Vụn Sắt",
-	Make_Iron_Chunks1 = "Làm Vụn Sắt", // Duplicate ID
+	Make_Iron_Chunks1 = "Làm Vụn Sắt",
 	Make_Iron_Pieces = "Làm Mảnh Sắt",
 	Make_Metal_Drum = "Làm Thùng Kim loại",
 	Make_Scrap_Knife = "Làm Dao Kim loại Phế liệu",
@@ -1147,14 +1147,14 @@ RecipesEN {
 	RemoveFur = "Lột Lông thú",
 	RemoveFeathers = "Vặt Lông vũ",
 	RemoveLeather = "Lột Da",
-	RemoveLeather2 = "Lột Da", // Duplicate ID
+	RemoveLeather2 = "Lột Da",
 	SpinThreadFromWool = "Kéo Chỉ từ Lông cừu",
 	SpinYarnFromWool = "Kéo Sợi từ Lông cừu",
 	SpinThreadFromFlax = "Kéo Chỉ từ Lanh",
 	TanLeather = "Thuộc Da",
 	Split_Steel_Sheet_Into_Small_Sheets = "Chẻ Tấm Kim loại",
 	Cut_Steel_Sheet_Into_Small_Sheets = "Cắt Tấm Kim loại",
-	MakeBodyMagazineArmor = "Làm Giáp Thân bằng Tạp chí", // Duplicate ID
+	MakeBodyMagazineArmor = "Làm Giáp Thân bằng Tạp chí",
 	MakeBoneAwl = "Chạm khắc Dùi Xương",
 	MakeStoneAwl = "Đẽo Dùi Đá",
 	MakeWoodCharcoal = "Đốt Gỗ thành Than củi",
@@ -1200,7 +1200,7 @@ RecipesEN {
 	CastSteelIngotsFromWorkableIron = "Đúc Thỏi Thép từ Sắt Gia công được",
 	ExtractIronBloom = "Chiết xuất Sắt xốp",
 	ExtractWorkableIronFromBloom = "Chiết xuất Sắt Gia công được từ Sắt xốp",
-	MakeTirArmor = "Làm Giáp Lốp xe", // Assuming Tire Armor
+	MakeTirArmor = "Làm Giáp Lốp xe",
 	PickThread = "Lấy Chỉ",
 	Recipe_CutChicken = "Làm thịt Gà",
 	Recipe_CutTurkey = "Làm thịt Gà tây",
@@ -1230,13 +1230,13 @@ RecipesEN {
 	FixWithEpoxyAndRags = "Sửa bằng Keo Epoxy và Giẻ",
 	MakeBulletproofLimbArmor = "Làm Giáp Chi Chống đạn",
 	MakeForearmBulletproofVestArmor = "Làm Giáp Cẳng tay Chống đạn",
-	MakeShinBulletproofVestrmor = "Làm Giáp Ống chân Chống đạn", // Typo in ID (Vestrmor)
+	MakeShinBulletproofVestrmor = "Làm Giáp Ống chân Chống đạn",
 	MakeThighBulletproofVestArmor = "Làm Giáp Đùi Chống đạn",
 	KnitScarf = "Đan Khăn quàng",
 	KnitWoolyHat = "Đan Mũ Len",
-	CutSheet = "Làm Ga trải giường", // Context: cutting larger fabric into a sheet?
+	CutSheet = "Làm Ga trải giường",
 	AssembleBlade = "Lắp ráp Vật phẩm Có lưỡi",
-	AssembleShortImplement = "Lắp ráp Dụng cụ Vừa", // Medium Implement
+	AssembleShortImplement = "Lắp ráp Dụng cụ Vừa",
 	AssembleLongImplement = "Lắp ráp Dụng cụ Dài",
 	AssembleLongerImplement = "Lắp ráp Dụng cụ Rất dài",
 	DismantleBlade = "Tháo rời Vật phẩm Có lưỡi",
@@ -1245,9 +1245,9 @@ RecipesEN {
 	DismantleLongerImplement = "Tháo rời Dụng cụ Rất dài",
 	DismantleGardenImplement = "Tháo rời Dụng cụ Làm vườn",
 
-	Amphora_Closed = "Vò hai quai", // Duplicate, likely closed state
+	Amphora_Closed = "Vò hai quai",
 	Boulder = "Tảng đá",
-	Boulder2 = "Tảng đá", // Duplicate ID
+	Boulder2 = "Tảng đá",
 
 	-- buildings
 
@@ -1266,8 +1266,8 @@ RecipesEN {
 	BlastFurnace = "Lò nung Nâng cao",
 	BrickDoorFrame(Good) = "Khung cửa Gạch (Thợ thủ công)",
 	BrickDoorFrame(Poor) = "Khung cửa Gạch (Cơ bản)",
-	BrickDoorFrame(Shoddy) = "Khung cửa Gạch ()", // Missing quality level?
-	BrickFence(Good) = "Tường Gạch Ngắn", // Short Brick Wall
+	BrickDoorFrame(Shoddy) = "Khung cửa Gạch ()",
+	BrickFence(Good) = "Tường Gạch Ngắn",
 
 	BrickWall = "Tường Gạch",
 	BrickWall(Good) = "Tường Gạch (Thợ thủ công)",
@@ -1276,7 +1276,7 @@ RecipesEN {
 	BrickWindowFrame = "Khung Cửa sổ Gạch (Thợ thủ công)",
 	BullSkullPole = "Cọc Đầu lâu Bò đực",
 	ButcherHook = "Móc làm thịt",
-	Cairn = "Mô đá", // Stone Cairn
+	Cairn = "Mô đá",
 	Campfire = "Lửa trại",
 	CharcoalBurner = "Thùng Đốt Than",
 	CharcoalBurningPit = "Hố Đốt Than",
@@ -1284,7 +1284,7 @@ RecipesEN {
 	Charcoal_Burner_LightGreenBarrel = "Lò Đốt Than",
 	Charcoal_Burner_MetalDrum = "Lò Đốt Than",
 	Charcoal_Burner_OrangeBarrel = "Lò Đốt Than",
-	Charcoal_Pit = "Hố Đốt Than", // Duplicate ID
+	Charcoal_Pit = "Hố Đốt Than",
 	ChickenCoop1 = "Chuồng gà (Gỗ sáng)",
 	ChickenCoop2 = "Chuồng gà (Gỗ tối)",
 	ChoppingBlock = "Thớt Chặt",
@@ -1296,7 +1296,7 @@ RecipesEN {
 	Composter(Shoddy) = "Thùng ủ phân (Cơ bản)",
 	CookingPit = "Bếp Lửa (Khối đá)",
 	CowSkullPole = "Cọc Đầu lâu Bò cái",
-	DeerSkullPole = "Cọc Đầu lâu Nai", // Assuming generic deer
+	DeerSkullPole = "Cọc Đầu lâu Nai",
 	DirtFloor = "Sàn Đất",
 	DoeSkullPole = "Cọc Đầu lâu Nai cái",
 	Dome_Kiln = "Lò nung - Mái vòm",
@@ -1321,7 +1321,7 @@ RecipesEN {
 	LargeKiln = "Lò nung Nâng cao",
 	SmallKiln = "Lò nung Nguyên thủy",
 	LampOnPillar = "Cột Đèn pin Gỗ",
-	LargePlantDryingRack = "Giá Phơi Cây Lớn", // Duplicate ID
+	LargePlantDryingRack = "Giá Phơi Cây Lớn",
 	SimpleLargePlantDryingRack = "Giá Phơi Cây Lớn Đơn giản",
 	LargeDryingRack = "Giá Phơi Da Lớn",
 	Lean-ToShelter = "Lều Tựa",
@@ -1344,13 +1344,13 @@ RecipesEN {
 	MediumDryingRack = "Giá Phơi Da Vừa",
 	MetalBandsaw = "Cưa vòng Kim loại",
 	MetalBarrelOven = "Lò Thùng phi Kim loại",
-	MetalBigMetalFence = "Hàng rào Cọc Kim loại Lớn", // Duplicate ID
-	MetalBigWireFence = "Hàng rào Lưới thép Lớn", // Duplicate ID
-	DoubleFenceGate = "Cổng Cọc Lớn Đôi", // Duplicate ID
+	MetalBigMetalFence = "Hàng rào Cọc Kim loại Lớn",
+	MetalBigWireFence = "Hàng rào Lưới thép Lớn",
+	DoubleFenceGate = "Cổng Cọc Lớn Đôi",
 	MetalCounter(Shoddy) = "Quầy Kim loại (Cơ bản)",
 	MetalCounter = "Quầy Kim loại (Thợ thủ công)",
-	DoubleWireGate = "Cổng Lưới thép Cao Đôi", // Duplicate ID
-	MetalWireFenceGate = "Cổng Lưới thép Lớn", // Duplicate ID
+	DoubleWireGate = "Cổng Lưới thép Cao Đôi",
+	MetalWireFenceGate = "Cổng Lưới thép Lớn",
 	MetalCounterCorner(Shoddy) = "Quầy góc Kim loại (Cơ bản)",
 	MetalCounterCorner = "Quầy góc Kim loại (Thợ thủ công)",
 	MetalCrate(Shoddy) = "Thùng Kim loại (Cơ bản)",
@@ -1360,12 +1360,12 @@ RecipesEN {
 	MetalFeedingTrough = "Máng ăn Kim loại Dài",
 	MetalFence(Good) = "Hàng rào Kim loại (Thợ thủ công)",
 	MetalFence(Shoddy) = "Hàng rào Kim loại (Cơ bản)",
-	MetalFenceLvl1 = "Hàng rào Kim loại", // Basic Metal Fence
+	MetalFenceLvl1 = "Hàng rào Kim loại",
 	MetalFloor = "Sàn Kim loại",
-	MetalFloorLvl1 = "Sàn Kim loại", // Duplicate ID
-	MetalPoleFenceGate = "Cổng Hàng rào Cọc Kim loại Lớn", // Duplicate ID
+	MetalFloorLvl1 = "Sàn Kim loại",
+	MetalPoleFenceGate = "Cổng Hàng rào Cọc Kim loại Lớn",
 	MetalPoleFenceGateSmall = "Cổng Hàng rào Cọc Kim loại",
-	SmallPoleFenceGate = "Cổng Hàng rào Cọc Kim loại", // Duplicate ID
+	SmallPoleFenceGate = "Cổng Hàng rào Cọc Kim loại",
 	MetalShelves(Shoddy) = "Kệ Kim loại (Cơ bản)",
 	MetalShelves = "Kệ Kim loại (Thợ thủ công)",
 	MetalSmallPoleFence = "Hàng rào Cọc Kim loại",
@@ -1375,10 +1375,10 @@ RecipesEN {
 	MetalWall(Poor) = "Tường Kim loại (Cơ bản)",
 	MetalWallFrame = "Khung Tường Kim loại",
 	MetalWindowFrame(Poor) = "Khung Cửa sổ Kim loại (Cơ bản)",
-	MetalWindowFrame(Shoddy) = "Khung Cửa sổ Kim loại", // Quality implied by Shoddy?
+	MetalWindowFrame(Shoddy) = "Khung Cửa sổ Kim loại",
 	MetalWindowFrame = "Khung Cửa sổ Kim loại (Thợ thủ công)",
 	MetalWireFenceGateSmall = "Cổng Hàng rào Lưới thép",
-	SmallWireFenceGate = "Cổng Hàng rào Lưới thép", // Duplicate ID
+	SmallWireFenceGate = "Cổng Hàng rào Lưới thép",
 	MetalWorkbench = "Bàn Làm việc Kim loại",
 	Metalwork_Table2 = "Bàn Gia công Kim loại",
 	Metal_Stairs = "Cầu thang Kim loại",
@@ -1389,8 +1389,8 @@ RecipesEN {
 	PrimitiveFurnace = "Lò nung Nguyên thủy",
 	RainCollectorBarrel = "Thùng Hứng mưa (Túi rác)",
 	RainCollectorBarrelTarp = "Thùng Hứng mưa (Tấm bạt)",
-	RainCollectorCrate = "Thùng Hứng mưa (Túi rác)", // Crate version
-	RainCollectorCrateTarp = "Thùng Hứng mưa (Tấm bạt)", // Crate version
+	RainCollectorCrate = "Thùng Hứng mưa (Túi rác)",
+	RainCollectorCrateTarp = "Thùng Hứng mưa (Tấm bạt)",
 	RippleComb = "Lược Tách sợi",
 	RuggedCross = "Thánh giá Thô sơ",
 	RuggedStool = "Ghế đẩu Thô sơ",
@@ -1404,7 +1404,7 @@ RecipesEN {
 	SmallDryingRack = "Giá Phơi Da Nhỏ",
 	SmallMetalLocker(Shoddy) = "Tủ khóa Kim loại Nhỏ (Cơ bản)",
 	SmallMetalLocker = "Tủ khóa Kim loại Nhỏ (Thợ thủ công)",
-	SmallMetalPoleFence(Poor) = "Hàng rào Cọc Kim loại", // Quality implied by Poor?
+	SmallMetalPoleFence(Poor) = "Hàng rào Cọc Kim loại",
 	SmallPlantDryingRack = "Giá Phơi Cây Nhỏ",
 	SimpleSmallPlantDryingRack = "Giá Phơi Cây Nhỏ Đơn giản",
 	SmallWoodTable(Good) = "Bàn Gỗ Nhỏ (Thợ thủ công)",
@@ -1426,7 +1426,7 @@ RecipesEN {
 	TanninBarrel = "Thùng Tanin",
 	TarpShelter = "Lều Tấm bạt",
 	TileFloor = "Sàn Gạch men",
-	WoodBarElement = "Quầy Gỗ (", // Missing quality
+	WoodBarElement = "Quầy Gỗ (",
 	WoodBarElement(Good) = "Quầy Gỗ (Thợ thủ công)",
 	WoodBarElement(Poor) = "Quầy Gỗ (Nâng cao)",
 	WoodBarElement(Shoddy) = "Quầy Gỗ (Cơ bản)",
@@ -1442,7 +1442,7 @@ RecipesEN {
 	WoodChair(Poor) = "Ghế Gỗ (Nâng cao)",
 	WoodChair(Shoddy) = "Ghế Gỗ (Cơ bản)",
 	WoodCrate = "Thùng gỗ (Thợ thủ công)",
-	WoodCrate = "Thùng gỗ", // Duplicate ID
+	WoodCrate = "Thùng gỗ",
 	WoodCrate(Poor) = "Thùng gỗ (Nâng cao)",
 	WoodCrate(Shoddy) = "Thùng gỗ (Cơ bản)",
 	WoodCross = "Thánh giá Gỗ",
@@ -1468,7 +1468,7 @@ RecipesEN {
 	WoodFloor(Shoddy) = "Sàn Gỗ (Cơ bản)",
 	WoodFloor(Poor) = "Sàn Gỗ (Nâng cao)",
 	WoodLampPillar = "Cột Đèn Gỗ",
-	WoodPicket = "Cọc Mốc Gỗ", // Duplicate ID
+	WoodPicket = "Cọc Mốc Gỗ",
 	WoodShelves = "Kệ Gỗ (Thợ thủ công)",
 	WoodShelves(Shoddy) = "Kệ Gỗ (Cơ bản)",
 	WoodSign = "Biển báo Gỗ",
@@ -1491,8 +1491,8 @@ RecipesEN {
 
 	BrickWindowFrameLvl1 = "Khung Cửa sổ Gạch (Cơ bản)",
 	BrickWindowFrameLvl2 = "Khung Cửa sổ Gạch (Thợ thủ công)",
-	BrickWallLvl1 = "Tường Gạch", // Duplicate
-	BrickWallLvl2 = "Tường Gạch", // Duplicate
+	BrickWallLvl1 = "Tường Gạch",
+	BrickWallLvl2 = "Tường Gạch",
 	BrickFenceLvl1 = "Tường Gạch (Ngắn)",
 	BrickFenceLvl2 = "Tường Gạch (Ngắn)",
 	MetalDoorFrameLvl1 = "Khung cửa Kim loại",
@@ -1569,11 +1569,11 @@ RecipesEN {
 	TwistTwine = "Xoắn Dây bện",
 	TwistRopeFromHemp = "Xoắn Dây thừng Từ Gai dầu",
 	ThreshGrain = "Đập lúa Ngũ cốc",
-	TwistTwine = "Xoắn Dây bện", // Duplicate ID
+	TwistTwine = "Xoắn Dây bện",
 	ScutchFibre = "Đập xơ",
 	RippleFlax = "Tách sợi Lanh",
 	HeckleFlax = "Chải xơ Lanh",
-	TwistRopeFromHemp = "Xoắn Dây thừng Từ Gai dầu", // Duplicate ID
+	TwistRopeFromHemp = "Xoắn Dây thừng Từ Gai dầu",
 	MillSeeds = "Xay Hạt",
 	MillSunflowerSeeds = "Xay Hạt Hướng dương",
 	PressOil = "Ép Dầu",
@@ -1612,7 +1612,7 @@ RecipesEN {
 	DryRye = "Phơi Lúa mạch đen",
 	DrySoybeans = "Phơi Đậu nành",
 	DryWheat = "Phơi Lúa mì",
-	MakeShinBulletpoofVestArmor = "Làm Giáp Ống chân Chống đạn", // Typo in ID
+	MakeShinBulletpoofVestArmor = "Làm Giáp Ống chân Chống đạn",
 	MakeSharpFlintFlake = "Đẽo Mảnh Đá lửa Sắc",
 	KnitDoily = "Đan Khăn lót",
 	KnitLegwarmers = "Đan Tất ống Chân",
@@ -1670,7 +1670,7 @@ RecipesEN {
 	CopyBuildingKey = "Sao chép Chìa khóa Tòa nhà",
 	SewPillow = "May Gối",
 	PlaceInBox = "Đặt vào Hộp",
-	ForgeIronBarHalfIntoQuarters = "Cắt nửa Thanh Sắt", // Action name
+	ForgeIronBarHalfIntoQuarters = "Cắt nửa Thanh Sắt",
 	ForgeIronBarIntoHalf = "Cắt Thanh Sắt thành Nửa",
 	ForgeIronBarIntoQuarter = "Cắt Thanh Sắt thành Phần tư",
 	MakeScrapMetalMask = "Làm Mặt nạ Kim loại Phế liệu",
