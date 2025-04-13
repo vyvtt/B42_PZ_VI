@@ -56,7 +56,7 @@ Farming_VI = {
     Farming_Comfrey = "Liên mộc",
     Farming_Habanero = "Ớt Habanero",
     Farming_Jalapeno = "Ớt Jalapeno",
-    Farming_Leek = "Hành baro", // Changed
+    Farming_Leek = "Hành baro", 
     Farming_Lemongrass = "Sả",
     Farming_LemonGrass = "Sả",
     Farming_Marigold = "Cúc vạn thọ",
@@ -81,18 +81,18 @@ Farming_VI = {
     Farming_In_bloom = "Đang nở hoa",
     Farming_Seed-bearing = "Đang ra hạt",
     Farming_Seed_bearing = "Đang ra hạt",
-    Farming_Receding = "Héo tàn", // Dying/Receding stage before dead
+    Farming_Receding = "Héo tàn",
     Farming_Dead = "Chết",
     Farming_Rotten = "Thối rữa",
     Farming_Destroyed = "Bị phá hủy",
     Farming_Plant = "Cây",
     Farming_Harvested = "Đã thu hoạch",
-    Farming_Seedling = "Nảy mầm", // Duplicate, consistent
+    Farming_Seedling = "Nảy mầm", 
     Farming_Fully_grown = "Trưởng thành",
     Farming_Ready_to_harvest = "Sẵn sàng thu hoạch",
 
     -- for houseplants
-    Farming_Dying = "Héo úa", // Or Héo úa
+    Farming_Dying = "Héo úa", 
     Farming_Dead = "Chết",
 
     -- farming info text
@@ -112,7 +112,7 @@ Farming_VI = {
     -- water
     Farming_Well_watered = "Đủ nước",
     Farming_Fine = "Ổn",
-    Farming_Thirsty = "Thiếu nước", // Changed
+    Farming_Thirsty = "Thiếu nước", 
     Farming_Dry = "Khô",
     Farming_Parched = "Khô hạn",
     -- disease
@@ -130,13 +130,13 @@ Farming_VI = {
     Farming_Days = "Ngày",
     Farming_Day = "Ngày",
     -- health
-    Farming_Flourishing = "Sum suê", // Changed
-    Farming_Verdant = "Xanh mướt", // Changed
+    Farming_Flourishing = "Sum suê", 
+    Farming_Verdant = "Xanh mướt", 
     Farming_Healthy = "Khỏe mạnh",
     Farming_Sickly = "Ốm yếu",
     -- Farming_Stunted = "Stunted",
-    Farming_Stunted = "Héo úa", // Changed (Consistent with Dying)
-    Farming_Dying = "Héo úa", // Changed
+    Farming_Stunted = "Héo úa",  (Consistent with Dying)
+    Farming_Dying = "Héo úa", 
     Farming_Dead = "Chết",
     Farming_Tooltip_MinWater = "Nước Tối thiểu: ",
     Farming_Tooltip_MaxWater = "Nước Tối đa: ",
@@ -156,7 +156,7 @@ Farming_VI = {
     Farming_Plowed_Land = "Đất đã cày",
     Farming_MissingItem = "Bạn cần %1",
 
-    Farming_Tooltip_BadMonth = "Trái Mùa", // Out of Season
+    Farming_Tooltip_BadMonth = "Trái Mùa", 
     Farming_Tooltip_BestMonth = "Mùa Gieo trồng - Tháng Tốt nhất",
     Farming_Tooltip_RiskMonth = "Mùa Gieo trồng - Tháng Kém",
     Farming_Tooltip_InSeason = "Đúng Mùa Gieo trồng",
@@ -179,7 +179,7 @@ Farming_VI = {
     Farming_Light = "Nhẹ",
     Farming_Moderate = "Vừa",
     Farming_Heavy = "Nặng",
-    Farming_None = "Không", // Context: likely disease level
+    Farming_None = "Không",
 
     Farming_Weeks = "Tuần",
     Farming_Months = "Tháng",

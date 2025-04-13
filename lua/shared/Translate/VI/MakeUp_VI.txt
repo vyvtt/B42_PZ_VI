@@ -4,13 +4,13 @@ MakeUp_VI = {
     MakeUpCategory_FullFace = "Toàn mặt",
     MakeUpCategory_Lips = "Môi",
 
-    MakeUpType_EyesCrow = "Kiểu Quạ", // Black makeup around eyes
+    MakeUpType_EyesCrow = "Kiểu Quạ",
     MakeUpType_EyesRedStripes1 = "Sọc Đỏ 1",
     MakeUpType_EyesRedStripes2 = "Sọc Đỏ 2",
-    MakeUpType_EyesCamo1 = "Rằn ri 1", // Camo
+    MakeUpType_EyesCamo1 = "Rằn ri 1", 
     MakeUpType_EyesCamo2 = "Rằn ri 2",
     MakeUpType_EyesCamoStripes = "Sọc Rằn ri",
-    MakeUpType_EyesFootball = "Kiểu Bóng bầu dục", // Football eye black
+    MakeUpType_EyesFootball = "Kiểu Bóng bầu dục",
 
     MakeUpType_EyeShadowWhite = "Phấn mắt Trắng",
     MakeUpType_EyeShadowLightBlue = "Phấn mắt Xanh dương Nhạt",

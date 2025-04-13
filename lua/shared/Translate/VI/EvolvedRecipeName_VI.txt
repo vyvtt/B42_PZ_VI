@@ -1,13 +1,13 @@
 EvolvedRecipeName_VI = {
-    EvolvedRecipeName_Base.CannedBologneseOpen = "Sốt Bolognese", // Bolognese Sauce
-    EvolvedRecipeName_Base.CannedCarrotsOpen = "Cà rốt", // Carrots
-    EvolvedRecipeName_Base.CannedChiliOpen = "Sốt Chili", // Chili Sauce
-    EvolvedRecipeName_Base.CannedCornOpen = "Ngô", // Corn (or Bắp)
-    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Thịt bò muối", // Corned Beef
-    EvolvedRecipeName_Base.CannedPeasOpen = "Đậu Hà Lan", // Peas
-    EvolvedRecipeName_Base.CannedPotatoOpen = "Khoai tây", // Potato
-    EvolvedRecipeName_Base.CannedSardinesOpen = "Cá mòi", // Sardine
-    EvolvedRecipeName_Base.CannedTomatoOpen = "Cà chua", // Tomato
-    EvolvedRecipeName_Base.Teabag2 = "Trà", // Tea
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Sốt Bolognese", 
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Cà rốt", 
+    EvolvedRecipeName_Base.CannedChiliOpen = "Sốt Chili",
+    EvolvedRecipeName_Base.CannedCornOpen = "Ngô", 
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Thịt bò muối",
+    EvolvedRecipeName_Base.CannedPeasOpen = "Đậu Hà Lan", 
+    EvolvedRecipeName_Base.CannedPotatoOpen = "Khoai tây",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "Cá mòi",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "Cà chua", 
+    EvolvedRecipeName_Base.Teabag2 = "Trà",
     -- note: please do not include "Canned" in the names of the evolved recipe names; it makes the names too long; you can also use the "EvolvedRecipeName =" field in a food item script, if the FoodType is not NoExplicit, to give it an Evlved Recipe name instead of using this system.
 }

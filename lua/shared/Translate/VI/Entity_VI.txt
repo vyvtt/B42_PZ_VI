@@ -1,6 +1,6 @@
 Entity_VI = {
-    EC_Entity_DisplayName_Default = "Tên Mặc định", // Default Entity Name
-    EC_Entity_BuildDescription_Default = "Mô tả Xây dựng Mặc định", // Default Entity Build Description
+    EC_Entity_DisplayName_Default = "Tên Mặc định", 
+    EC_Entity_BuildDescription_Default = "Mô tả Xây dựng Mặc định",
 
     -- Energy
     EC_Energy = "Năng lượng",
@@ -14,11 +14,11 @@ Entity_VI = {
 
     -- Common
     EC_Locked = "Đã khóa",
-    EC_Stored = "Đang chứa", // Stored energy/items
-    EC_Weight = "Độ nặng", // Encumbrance/Weight
+    EC_Stored = "Đang chứa", 
+    EC_Weight = "Độ nặng", 
     EC_Progress = "Tiến trình",
 
     -- Component
-    EC_Workstation = "Bàn chế tạo", // Workstation context
+    EC_Workstation = "Bàn chế tạo", 
     EC_Recipes = "Công thức",
 }
