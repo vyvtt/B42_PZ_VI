@@ -17,7 +17,7 @@ Challenge_VI = {
 	Challenge_Challenge2_name = "Thành trì Trong Rừng - Xây Dựng Tích Lũy, Đợi Chờ Tử Chiến",
 	Challenge_Challenge2_desc = "Lại một ngày nữa, lại một căn nhà gỗ chờ bị nhuộm đỏ bởi máu. Lũ quái vật đang vây ráp, và cái chết của bạn sẽ vô cùng đau đớn và tàn khốc. Vậy thì hãy chiến đấu như một con thú bị dồn vào chân tường... <LINE> <LINE> Chế độ Tử Chiến Tích Lũy mang đến những làn sóng zombie vô tận, ngày một đông hơn. Dùng tiền kiếm được từ việc tiêu diệt lũ xác sống để mua trang bị, nâng cấp kỹ năng, và sửa lại món vũ khí đẫm máu của bạn.",
 
-	Challenge_AStormIsComing_name = "Bão Tố Đang Đến",
+	Challenge_AStormIsComing_name = "Mây Đen Vần Vũ",
 	Challenge_AStormIsComing_desc = "Mây đen kịt đang vần vũ trên bầu trời Kentucky. Tiếng sấm sét gầm vang từ phía xa, báo hiệu điềm gở. <LINE> <LINE> Khi bóng tối bao trùm, lũ xác sống vật vờ trên mặt đất càng trở nên điên cuồng, như thể được chính cơn bão tiếp thêm sức mạnh. <LINE> <LINE> Cơn bão này sẽ lúc mạnh lúc yếu, gào thét rồi tạm lắng, nhưng nó sẽ chẳng bao giờ tàn.",
 
 	Challenge_TheDescendingFog_name = "Màn Sương Tử Thần",
