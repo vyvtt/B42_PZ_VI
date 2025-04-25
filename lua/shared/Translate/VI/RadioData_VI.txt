@@ -9433,7 +9433,7 @@ RadioData_VI = {
 	RD_28756da4-3979-4884-98be-8eba236b6404 = "[img=music] *nhạc chiptune mở đầu khó chịu* [img=music]",
 	RD_e112189b-2459-4e2a-82af-8553ee4771f8 = "Các tín đồ công nghệ khỏe không? Will Power đây, một lần nữa...",
 	RD_e13061f1-52e6-4911-8307-719abcc4034a = "Hôm nay chúng tôi có một tin độc quyền đáng kinh ngạc - bản xem trước của Mars Disaster!",
-	RD_7f90abc4-45f4-4dce-b1a5-195865755751 = "Tôi đã bay đến trụ sở chính ở Austin của Ego Software để chơi một bản dựng sớm...",
+	RD_7f90abc4-45f4-4dce-b1a5-195865755751 = "Tôi đã bay đến trụ sở chính ở Austin của Ego Software để chơi một phiên bản sớm...",
 	RD_63c39420-2a9d-4775-9c5f-8fe4b345768c = "... của một trong những game được mong đợi nhất năm 1993.",
 	RD_622f7ba5-bf84-413d-a6fb-68942e8aa080 = "Vừa mới thành công với tựa game bắn súng Thế chiến 2 Eagle's Nest...",
 	RD_8f73d2a6-55d1-4f8e-8238-a99f76e91395 = "... Mars Disaster đặt bạn vào vai một người lính không gian cơ bắp...",

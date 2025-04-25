@@ -140,7 +140,7 @@ UI_VI = {
     UI_optionscreen_clock_24_hour = "24 giờ",
     UI_optionscreen_clock_12_hour = "12 giờ",
     UI_optionscreen_fog_quality = "Chất lượng Sương mù",
-    UI_optionscreen_legacy = "Legacy (Bản dựng 40)",
+    UI_optionscreen_legacy = "Legacy (Build 40)",
     UI_optionscreen_language = "Ngôn ngữ",
     UI_optionscreen_keybinding = "KEY BINDINGS", 
     UI_optionscreen_audio = "ÂM THANH",
@@ -1668,12 +1668,12 @@ UI_VI = {
     UI_NewGame_Builder = "Người Xây dựng",
     UI_NewGame_Builder_desc = "Tập trung vào Xây dựng, Khám phá và Nông nghiệp. Một trải nghiệm thư giãn hơn.",
     UI_NewGame_Sandbox_desc2 = "Thiết kế riêng độ khó và phong cách chơi của bạn.",
-    UI_News_Anim3 = "<H1> CHÀO MỪNG ĐẾN VỚI QUÁ TRÌNH BETA KHÔNG ỔN ĐỊNH CỦA BẢN DỰNG 42! <LINE> <TEXT> <IMAGECENTRE:media/ui/shotgunamz.png> <LINE> "..
+    UI_News_Anim3 = "<H1> CHÀO MỪNG ĐẾN VỚI QUÁ TRÌNH BETA KHÔNG ỔN ĐỊNH CỦA BUILD 42! <LINE> <TEXT> <IMAGECENTRE:media/ui/shotgunamz.png> <LINE> "..
     "<CENTRE> <SIZE:large> Một vài lưu ý nhanh trước khi bạn bắt đầu: <LINE><LINE> " ..
     "<CENTRE> <SIZE:large> Vũ khí đã được làm lại! <LINE> Vũ khí tầm xa có một phương pháp thử nghiệm mới để tính toán phát bắn trúng, giờ đây dựa trên cơ hội gây sát thương. <LINE><LINE>" ..
     "<CENTRE> <SIZE:large> Nó được bật mặc định, nhưng phương pháp trước đó vẫn có sẵn trong Sandbox. Phản hồi về cả hai đều được hoan nghênh để cân bằng trong tương lai. <LINE><LINE> " ..
     "<CENTRE> <SIZE:large> Người dùng Mac và card đồ họa AMD: vui lòng cho chúng tôi biết về bất kỳ sự bất ổn nào bạn gặp phải khi khám phá và sinh tồn. <LINE><LINE> ",
-    UI_News_Anim = "<H1> CHÀO MỪNG ĐẾN VỚI BẢN BETA CÔNG KHAI CỦA BẢN DỰNG 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
+    UI_News_Anim = "<H1> CHÀO MỪNG ĐẾN VỚI BẢN BETA CÔNG KHAI CỦA BUILD 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
     "<CENTRE> <SIZE:large> Đây là phiên bản Đang trong quá trình Phát triển của bản cập nhật mã lớn nhất mà PZ từng có. <LINE><LINE> " ..
     "<CENTRE> Sẽ có lỗi và các vấn đề về cân bằng. Việc cải thiện tối ưu hóa đang được tiến hành. <LINE><LINE> " ..
     "<CENTRE> Một số tính năng đã bị tạm thời vô hiệu hóa. <LINE><LINE> " ..
@@ -1809,7 +1809,7 @@ UI_VI = {
     UI_modselector_usupportText1 = "Các bản mod được tạo cho phiên bản\nnhỏ hơn ",
     UI_modselector_usupportText2 = " chỉ có thể chạy ở chế độ debug.",
     UI_modselector_missedMods = "Mod bị thiếu:",
-    UI_modselector_help1 = " <H2> Quan trọng <LINE> <TEXT> Các mod từ Bản dựng 41 trở về trước phải được cập nhật cho Bản dựng 42. Bạn cần bật tùy chọn "Hiện các mod không được hỗ trợ" trong chế độ Debug để chạy các mod cũ hơn. <BR> ",
+    UI_modselector_help1 = " <H2> Quan trọng <LINE> <TEXT> Các mod từ Build 41 trở về trước phải được cập nhật cho Build 42. Bạn cần bật tùy chọn "Hiện các mod không được hỗ trợ" trong chế độ Debug để chạy các mod cũ hơn. <BR> ",
     UI_modselector_help2 = " <H2> Danh sách mod và bộ lọc <LINE> <TEXT> Bên trái là danh sách các mod. Bạn có thể lọc chúng để chỉ hiển thị các mod đã bật hoặc yêu thích của bạn, và tìm kiếm theo tên, ModID hoặc WorkshopID. Để bật một mod, hãy nhấn vào hộp kiểm của nó. Để thêm mod vào mục yêu thích, hãy nhấn vào ngôi sao. <BR> ",
     UI_modselector_help3 = " <H2> Thiết lập sẵn và chia sẻ danh sách mod <LINE> <TEXT> Để tạo một thiết lập mod sẵn, hãy bật các mod bạn muốn thêm vào thiết lập, và nhấn vào LƯU bên dưới danh sách mod. Nút XÓA sẽ xóa thiết lập sẵn. <LINE> Để chia sẻ thiết lập sẵn bạn đã tạo, hãy chọn một thiết lập và nhấn vào nút CHIA SẺ. Sau đó, một dòng văn bản với các mod sẽ được thêm vào clipboard của bạn. Bạn có thể gửi văn bản đó cho ai đó để họ có thể thêm các mod vào game của họ bằng nút THÊM. <BR> ",
     UI_modselector_help4 = " <H2> Mô tả mod <LINE> <TEXT> Ở phía bên phải màn hình là mô tả của mod đã chọn, bao gồm ảnh chụp màn hình của mod và mô tả các thông số của nó. Nó cũng có thể bao gồm các liên kết đến các trang web sẽ mở trong trình duyệt của bạn, và các liên kết đến các mod phụ thuộc để mod hoạt động, hoặc các mod không tương thích với mod này. <BR> ",
