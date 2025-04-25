@@ -7,7 +7,7 @@ Print_Text_VN = {
     "QUỸ CỨU TRỢ THẢM HỌA BRANDENBURG ĐANG TRÊN ĐƯỜNG ĐẾN, THỐNG ĐỐC CHO BIẾT\n\n"..
     "[image] - Thống đốc Cal Fairweather phát biểu tại Frankfort ngày hôm qua.\n\n"..
     "FRANKFORT - Thống đốc Cal Fairweather đã trấn an thị trưởng Brandenburg rằng quỹ liên bang đã hứa hẹn từ lâu để tái thiết Brandenburg đang "trên đường đến."\n Mặc dù có phản ứng ban đầu mạnh mẽ sau trận lốc xoáy ngày 18 tháng 4, với viện trợ đầy đủ được cung cấp cho người dân sau đó, quỹ liên bang đã hứa cho việc tái thiết vẫn chưa đến, các tòa nhà được vá víu bằng gỗ và thiệt hại lớn vẫn còn rõ ràng.\n Cảnh báo sớm đồng nghĩa với việc nhiều cư dân đã trú ẩn khi lốc xoáy đổ bộ vào phía đông bắc thị trấn, nhưng gió lớn đã làm ba cư dân thiệt mạng và hàng chục người bị thương. Cơn lốc xoáy cấp F2 đã phá hủy ô tô và san phẳng nhà cửa. Hàng trăm người vẫn còn vô gia cư, sống trong khách sạn hoặc khu nhà xe kéo do tiểu bang chi trả, những người khác sống cùng họ hàng hoặc bạn bè. Có tới 40% nhà ở và 30% doanh nghiệp trong khu vực không có bảo hiểm, nghĩa là chi phí cho người nộp thuế có thể vượt quá 50 triệu đô la.\n Kentucky thường bị lốc xoáy tấn công, nhưng cơn gió lốc tháng Tư đã khiến chính quyền bất ngờ... (tiếp trang 2)\n\n"..
-    "THỢ SĂN BỊ THƯƠNG TRONG VỤ TẤN CÔNG CỦA HƯƠU\n\n"..
+    "THỢ SĂN BỊ THƯƠNG TRONG VỤ TẤN CÔNG TỪ HƯƠU\n\n"..
     "RIVERSIDE - John Nathan, một thợ săn đến từ New York, cho biết ông đã may mắn không bị thương nặng sau vụ đụng độ với một con hươu đực trong khu rừng phía tây Riverside. "Tôi đã đi săn ở khu vực Knox nhiều năm," Nathan nói, "nhưng tôi chưa bao giờ thấy điều gì như thế này, đặc biệt là ngoài mùa động dục. Tôi đang nhắm bắn một con thỏ thì một con hươu đuôi trắng đột nhiên lao ra từ... (tiếp trang 4)\n\n"..
     "CƯ DÂN LÂU ĐỜI NHẤT EKRON TIẾT LỘ BÍ QUYẾT SỐNG THỌ\n\n"..
     "EKRON - Tràn đầy những cuộc nói chuyện sôi nổi và những bài hát cũ, thật khó tin Nancy Hume, cư dân lớn tuổi nhất của Ekron, đã 103 tuổi. "Tôi sống lâu hơn tất cả bạn bè của mình," bà nói, rồi mỉm cười nói thêm, "nhưng tôi cũng sống lâu hơn tất cả kẻ thù của mình!" Vậy bí quyết của Nancy là gì? "Bourbon với bữa tối, đi ngủ trước 10 giờ, và đừng bao giờ dính líu đến đàn ông. Không bao giờ!"",
@@ -70,7 +70,7 @@ Print_Text_VN = {
     "MULDRAUGH - Một căn bệnh không xác định đã tấn công hàng chục cư dân ở vùng Muldraugh, với các triệu chứng sốt cao và nôn mửa. March Ridge đã mở cửa bệnh viện quân đội cho công chúng để giúp ngăn chặn căn bệnh, mặc dù người ta không tin rằng nó lây từ người sang người. Các quan chức từ Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) được cho là đang trên đường đến bệnh viện để hỗ trợ điều tra nguyên nhân vụ bùng phát.\n Được biết một số người bị bệnh đã bị cắn, và Janine Cortman, một bác sĩ địa phương đưa ra giả thuyết rằng một đợt bùng phát bệnh dại đang diễn ra. Bác sĩ Cortman nói, "Tôi đã điều trị bốn bệnh nhân trong cùng một ngày với các triệu chứng giống nhau. Tôi đã hết globulin miễn dịch dại, vì vậy tôi vô cùng biết ơn quân đội đã mở cửa bệnh viện của họ ở Fort Knox cho công chúng."\n Bệnh dại gần đây đã được báo cáo trong khu vực trong quần thể động vật hoang dã, nhưng các trường hợp ở người rất hiếm. "Trước hôm nay," Bác sĩ Cortman nói, "Tôi mới chỉ thấy ba trường hợp chắc chắn mắc bệnh dại ở người. Thật đáng lo ngại khi điều này... (tiếp trang 2)\n\n"..
     "ĐƯỜNG DÂY ĐIỆN THOẠI VẪN MẤT TÍN HIỆU TRONG KHU VỰC\n\n"..
     "KHU VỰC KNOX - Công ty Viễn thông Knox đã xin lỗi những khách hàng tức giận vì một thời gian bảo trì đột xuất khiến đường dây điện thoại bị mất tín hiệu trong khu vực gần một tuần nay. Việc ứng phó với đợt bùng phát bệnh ở Muldraugh đã bị cản trở bởi sự cố mất tín hiệu, nhiều người phải tìm kiếm sự giúp đỡ bằng cách sử dụng các cuộc gọi radio tầm ngắn tới cảnh sát và cơ quan y tế... (tiếp trang 2)\n\n"..
-    "SPIFFO'S "XIN LỖI" SAU VỤ LỘN XỘN VỚI NƯỚC SỐT BÍ MẬT\n\n"..
+    "SPIFFO'S "XIN LỖI" SAU SCANDAL VỀ LOẠI NƯỚC SỐT BÍ MẬT\n\n"..
     "RALEIGH, NC - Chuỗi cửa hàng thức ăn nhanh Spiffo's đã xin lỗi sau khi Nước sốt Bí mật của họ để lại dư vị khó chịu cho người tiêu dùng burger địa phương. Trưởng bộ phận Logistics Paula Impton cho biết sự nhầm lẫn xảy ra khi một lô nước sốt cay thử nghiệm mới vô tình được chuyển hướng đến Kentucky thay vì... (tiếp trang 3)\n"..,
     
     Print_Text_KentuckyHerald_July6_title = "The Kentucky Herald - 6 tháng 7 năm 1993",
@@ -222,13 +222,13 @@ Print_Text_VN = {
     "VÙNG KNOX, KY - Một số người tị nạn và nhân viên bên ngoài Vùng Cách ly tuyên bố đã mắc bệnh "Virus Knox" mặc dù không tiếp xúc với người bị nhiễm bệnh. Những tuyên bố này đã đặt câu hỏi về các tuyên bố từ chính quyền rằng bệnh chỉ có thể lây lan qua vết cắn và vết trầy xước.\n Một quan chức CDC cho biết sự xuất hiện của việc lây truyền qua đường không khí đại diện cho, "một mối đe dọa lớn hơn đối với nhân loại so với Cúm Tây Ban Nha hoặc Cái chết Đen". WHO cho biết virus có khả năng đã lan rộng khắp thế giới, và khuyến cáo của họ về việc hạ cánh các chuyến bay "gần như chắc chắn đã quá muộn để tạo ra sự khác biệt." Các chương trình sàng lọc bệnh...\n"..
     "(Xem "Virus", A11)\n"..,
     
-    Print_Text_MuldraughMessenger_June29_title = "Muldraugh Messenger - 29 tháng 6 năm 1993", -- Assuming standard naming, content seems empty in original
+    Print_Text_MuldraughMessenger_June29_title = "Muldraugh Messenger - 29 tháng 6 năm 1993", 
     
-    Print_Text_MuldraughMessenger_June29_info = "", -- Empty content
+    Print_Text_MuldraughMessenger_June29_info = "", 
     
-    Print_Text_MuldraughMessenger_July6_title = "Muldraugh Messenger - 6 tháng 7 năm 1993", -- Assuming standard naming, content seems empty in original
+    Print_Text_MuldraughMessenger_July6_title = "Muldraugh Messenger - 6 tháng 7 năm 1993", 
     
-    Print_Text_MuldraughMessenger_July6_info = "", -- Empty content
+    Print_Text_MuldraughMessenger_July6_info = "", 
     
     Print_Text_LouisvilleSunTimes_July6_title = "Louisville Sun Times - 6 tháng 7 năm 1993",
     
